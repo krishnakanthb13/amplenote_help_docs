@@ -12,6 +12,8 @@ A community-submitted plugin enables Kanban boards inside Amplenote: **Kanban by
 
 Amplenote lacks native Kanban board support, but users can create a functional equivalent that provides "a quick overview of your tasks" with drag-and-drop capability.
 
+![Emulating a Kanban Board in Amplenote with configurable states; tasks can be quickly drag-and-dropped to a new state](https://images.amplenote.com/5494c6f4-268d-11ec-9677-c64a96ade4ff/279bc564-d339-4c18-b457-7ef447575a20.gif)
+
 ### Step #1: Create Your Task States
 
 For each workflow state, create a dedicated note. This example uses three columns: `NEW`, `IN PROGRESS`, and `DONE` (customizable).
@@ -40,6 +42,12 @@ Add "at least one task to each state, because notes with no tasks don't show up 
 3. Add the tag as a Tag Shortcut for quick access
 4. Group tasks by source note
 5. Sort tasks by source note, alphabetically
+
+![Grouping tasks by source note in Tasks Mode](https://images.amplenote.com/5494c6f4-268d-11ec-9677-c64a96ade4ff/43ec04b6-5618-47fe-9707-3058851fd7f1.png)
+
+![Sorting tasks by source note alphabetically](https://images.amplenote.com/5494c6f4-268d-11ec-9677-c64a96ade4ff/0f4991ca-cc15-4c7a-a363-58300b0d76f8.png)
+
+![The configured Kanban board viewed in Tasks Mode](https://images.amplenote.com/5494c6f4-268d-11ec-9677-c64a96ade4ff/9ce7100b-e317-40ce-a6f2-104336783645.png)
 
 ### Step #3: You're Done!
 

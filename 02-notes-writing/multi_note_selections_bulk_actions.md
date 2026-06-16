@@ -12,7 +12,13 @@ To start selecting notes, hover over the note icon to the left of the note title
 
 Once the first note is selected, hovering over other notes will toggle them for selection (regardless of where inside the note preview you put the mouse cursor).
 
+![Hovering over the note icon to the left of the note title to begin selecting](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/67b3fa3b-70da-4041-9a83-6b114bb3ecef.png)
+
+![The selection toggle that appears on hover](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/a62b2479-a365-4592-99a6-7ceebbc91564.png)
+
 > 💡 **Tip:** "If you click a first note, then scroll down and `Shift-Click` on a later note, the entire span of notes will be selected." Combined with the search filter options, this is a fast way to delete a large swath of notes matching whatever criteria you choose.
+
+![Using Shift-Click to select a span of notes across the list](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/909e5caa-4d9e-4291-8e79-5c1eb385a035.gif)
 
 ### Via graph view
 
@@ -26,6 +32,10 @@ Once at least one note is selected, a toolbar will appear at the top of the note
 
 Use the tag option to quickly add or remove a tag from the selected notes. Use the search bar to quickly find the tag you're looking for.
 
+![The tag option in the bulk-action toolbar](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/615a785a-f9f3-4f4e-b560-ccfcb117bbd1.png)
+
+![Searching for a tag to apply to the selected notes](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/11f8d881-0b35-4b5b-b316-f18b285f730b.png)
+
 "`Shift-Click` on a tag from the list to remove it from all of the notes it was applied to."
 
 #### Bulk add tags using drag-and-drop
@@ -35,6 +45,8 @@ Dragging and dropping tags from the sidebar works on multi-note selections too!
 ### Bulk archive, delete or download notes
 
 You can also bulk-delete, archive or download notes using the options in the top toolbar.
+
+![Bulk archive, delete, or download options in the top toolbar](https://images.amplenote.com/0c2a8676-6046-11ed-8694-aec53b9d6759/8f1fda55-b593-449b-92a4-9ba9d403a3de.png)
 
 ## Use cases
 

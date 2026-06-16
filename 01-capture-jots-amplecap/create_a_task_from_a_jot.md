@@ -17,6 +17,10 @@ Two primary methods exist:
 
 Tasks automatically appear in Tasks View Mode and inherit any tags assigned to their parent note or jot.
 
+![Creating a new task by typing brackets, followed by a space. Then check it to mark as complete](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/0a9325a9-0b09-4de5-97a5-de3009b27922.gif)
+
+![Tapping the checkbox icon will create a new task on either desktop or mobile](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d0b34abb-20e8-4e8a-ab60-bb028b87d75b.gif)
+
 ### Create tasks from mobile Quick Task Bar
 
 A dedicated mobile feature enables rapid task capture on iOS and Android devices.
@@ -45,7 +49,11 @@ Use Tab to indent child tasks or Shift-Tab to outdent them, enabling nested task
 
 Installing the Amplecap browser extension (Chrome or Firefox) enables Omnicapture functionality for capturing tasks outside Amplenote. A native desktop app update in 2024 will introduce configurable system-wide hotkeys.
 
+![Creating a task via a system-wide hotkey with Amplecap](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/4c5d6ae3-ec27-4e5e-9bef-67e640c04d30.png)
+
 ## Adding Details to Tasks
+
+![Using Task Details to add content to a task](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d10445f8-1b04-494f-9d8d-a35c901be3bc.png)
 
 ### Rich Footnotes and Content
 
@@ -76,6 +84,8 @@ Based on the Eisenhower Method, tasks are categorized as:
 
 The platform emphasizes minimizing urgent tasks while maximizing important ones. These can be set via task commands menu.
 
+![Classifying a task as Urgent, Important, both, or neither](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/f6e4730b-5f8e-4133-8268-7fd66fb6ce77.png)
+
 ### Set the Duration
 
 Choose from four options (15 minutes, 30 minutes, 90 minutes, or longer). Recommendations include:
@@ -91,6 +101,8 @@ Click the Task Score number to enter a new value. Alternative methods include:
 - Resetting via task commands menu
 - Increasing to maximum via commands
 - Batch-editing through note management panel
+
+![Editing the Task Score by clicking the score number](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/22869c94-3a6d-4c10-935d-7e6867369c8d.png)
 
 ## Recurring Tasks
 
@@ -115,13 +127,19 @@ Tasks can be configured to display strikethrough formatting upon completion whil
 
 The Completed tab allows drag-and-drop reassignment of task completion dates to different days.
 
+![In the Completed tab of a note, use drag-and-drop to move a task's completion date to another day](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d2503bb-02c2-4261-b225-09dcb6476f76.gif)
+
 ### Dismissing tasks
 
 Tasks can be dismissed for half their accumulated score when partially done, delegated, or no longer necessary. Dismissing recurring tasks preserves upcoming occurrences.
 
+![Dismissing a task](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d734b3d-8b53-4e0d-8d9d-104c030d08c8.png)
+
 ### Deleting tasks
 
 Remove tasks using Delete or Backspace keys, or access deletion through expanded task details menu.
+
+![Deleting a task](https://images.amplenote.com/a87fe9b8-03d3-11e9-8493-fed38e33333f/3193b6ee-7a98-46cf-a05b-aa743107da02)
 
 ## The "Manage tasks" Panel
 

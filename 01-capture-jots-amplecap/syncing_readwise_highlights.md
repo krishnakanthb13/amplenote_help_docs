@@ -6,6 +6,8 @@
 
 Amplenote offers "a streamlined way to synchronize between your Readwise highlights and your Amplenote notebook" through an official plugin available in their plugin directory.
 
+![Index of books as seen after synchronizing with the Readwise plugin](https://images.amplenote.com/160d8e96-3020-11ed-a165-327ebed86db8/05fbe5a5-4aeb-414b-beb9-f83386b17dc3.png)
+
 ### How It Works
 
 When you synchronize using the Readwise plugin:
@@ -16,3 +18,5 @@ When you synchronize using the Readwise plugin:
 - Highlights include applicable links and associated notes
 
 The plugin creates an organized index of your books as they synchronize, making your Readwise library accessible within Amplenote for review and reference.
+
+![Each book will capture each highlight along with applicable links and notes. The note for the book will be tagged with the author's name](https://images.amplenote.com/160d8e96-3020-11ed-a165-327ebed86db8/c5130dcc-5e25-409c-8f3a-b45012f5d918.png)

@@ -12,7 +12,11 @@ Amplenote treats tasks as "first-class citizens" where all tasks reside within n
 
 **Method 1: Type Brackets** — Type `[]` (open bracket, closed bracket, space) followed by your task text.
 
+![Creating a new task by typing brackets, followed by a space. Then check it to mark as complete](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/0a9325a9-0b09-4de5-97a5-de3009b27922.gif)
+
 **Method 2: Use Formatting Bar** — Click the check icon in the formatting bar to create a new task on desktop or mobile.
+
+![Tapping the checkbox icon will create a new task on either desktop or mobile](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d0b34abb-20e8-4e8a-ab60-bb028b87d75b.gif)
 
 Tasks appear in Tasks View Mode with assigned tags.
 
@@ -39,6 +43,8 @@ Use the mail-to-note feature by creating a contact with your note's email addres
 ### Create a Task via System-Wide Hotkey
 
 Install the Amplecap browser extension (Chrome or Firefox) to define an Omnicapture hotkey for task capture outside Amplenote. A future native desktop app update will introduce configurable system-wide hotkeys.
+
+![Creating a task via system-wide hotkey with the Amplecap browser extension](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/4c5d6ae3-ec27-4e5e-9bef-67e640c04d30.png)
 
 ### Creating Subtasks
 
@@ -67,6 +73,8 @@ Full details available on dedicated help page for recurring tasks and due dates.
 
 Access via expand icon on task bar or hotkey.
 
+![The Task Details panel](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d10445f8-1b04-494f-9d8d-a35c901be3bc.png)
+
 ### Set a "Start Time" (Due Date)
 
 Dedicated page explains due date and start time configuration.
@@ -84,6 +92,8 @@ Based on the Eisenhower Method:
 
 Recommendation emphasizes minimizing urgent tasks and maximizing important ones.
 
+![Urgent vs. Important task quadrants](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/f6e4730b-5f8e-4133-8268-7fd66fb6ce77.png)
+
 ### Set Duration
 
 Choose from four duration options:
@@ -95,6 +105,8 @@ Choose from four duration options:
 ### Edit Task Score
 
 Click the score number to enter a new value. Alternative methods include keyboard commands and batch editing.
+
+![Editing the Task Score](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/22869c94-3a6d-4c10-935d-7e6867369c8d.png)
 
 ## Manage Tasks Panel
 
@@ -123,9 +135,13 @@ Completed tasks move to note's Completed tab with productivity graph. **Stay Inl
 
 In Completed tab, use drag-and-drop to change task completion date.
 
+![In the `Completed` tab of a note, use drag-and-drop to move a task's completion date to another day](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d2503bb-02c2-4261-b225-09dcb6476f76.gif)
+
 ### Dismissing Tasks
 
 Dismiss for half accumulated score when: task is half done; someone else completed it; circumstances made it unnecessary. Dismissing recurring tasks preserves upcoming occurrences.
+
+![Dismissing tasks](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d734b3d-8b53-4e0d-8d9d-104c030d08c8.png)
 
 ### Crossing Out Tasks
 
@@ -137,3 +153,5 @@ Remove entirely via:
 - Delete/Backspace key while editing
 - Delete option in expanded Task Details
 - Task command
+
+![Deleting tasks](https://images.amplenote.com/a87fe9b8-03d3-11e9-8493-fed38e33333f/3193b6ee-7a98-46cf-a05b-aa743107da02)

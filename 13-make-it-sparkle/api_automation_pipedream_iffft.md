@@ -26,11 +26,21 @@ The most common automation pattern uses "Trigger and Action" architecture: somet
 | Get Notes | Select notes to pass to other Actions |
 | Get Tags | Select tags to pass to other Actions |
 
+![Creating a new Siri Shortcut with the plus button](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/0a22617f-12f1-4328-a1e3-d2bedd8a2a18.jpg)
+
+![Searching for Amplenote in the Shortcuts app](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/be60e264-13ca-4791-9999-dd353cd0737c.jpg)
+
+![Available Amplenote Actions in Shortcuts](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/e0ae381b-f84c-40f0-93d9-2d41139f2a4e.jpg)
+
+![Add to Daily Jots Action interface](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/2b55e5f2-cbb3-4f2f-8e4e-8bab48241663.jpg)
+
 For additional examples, see "Recording voice notes, speech-to-text or audio notes (OpenAi, Siri)".
 
 ### How to use Shortcuts?
 
 Shortcuts connect different apps—for example, adding third-party content to Amplenote. Using "[Automations](https://support.apple.com/en-gb/guide/shortcuts/apd690170742/ios)", trigger Shortcuts automatically when events occur.
+
+![Using Shortcuts to sync reminders to Amplenote](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/16e2ba34-56be-4cad-aeab-55a44e720cf5.jpg)
 
 **Share your creations:** Contact support@amplenote.com to share Siri Shortcuts with other users.
 
@@ -49,6 +59,20 @@ Shortcuts connect different apps—for example, adding third-party content to Am
 
 **Formatting tip:** Use `<br>` for line breaks to format text across multiple lines.
 
+![Choosing an IFTTT trigger](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/e2c27de0-d91f-4fe2-8d4e-d0fdeb9c3418.png)
+
+![Selecting Google Drive as the IFTTT trigger app](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/eb2afb74-c94c-47c9-8790-e6f90e24ac69.png)
+
+![Configuring the IFTTT trigger folder](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/d96dfe78-624b-4920-a008-69fa7265e957.png)
+
+![Selecting the Then That action step](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/68416951-8ea4-4778-bed5-eb20c8ea7ed6.png)
+
+![Choosing Amplenote and the create task action](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/73e11617-b3cb-4421-9b4b-7fc6da5dc60f.png)
+
+![Configuring IFTTT task parameters](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/7fe34982-6be7-49aa-b0c8-6a3a94f65fa9.png)
+
+![Using the Add ingredient button](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/23a35935-6638-4ee1-bd76-3825274a3893.png)
+
 ## How to set up a Pipedream integration
 
 1. Create account and new workflow
@@ -59,6 +83,14 @@ Shortcuts connect different apps—for example, adding third-party content to Am
 6. Add an Amplenote step: select note and format nodes using JSON structure
 7. Click "Test" button to verify success
 8. Deploy your integration
+
+![Setting up the Google Drive trigger in Pipedream](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/68cf8496-04eb-491f-a553-fa3143c23178.png)
+
+![Triggering an event in Pipedream](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/95376617-7754-468d-951d-d9a0d3045da5.png)
+
+![Event details showing the webViewLink path](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/533153ee-f350-41de-bd60-61ea3cf0549e.png)
+
+![Pipedream test step success](https://images.amplenote.com/9ebb34ec-c4bc-11ed-8efb-5e3d8b484624/c0aa2317-704c-4842-8e3c-3169daefb14a.png)
 
 **Node format example:**
 ```json
@@ -94,9 +126,15 @@ Use the "Create Task" step with this JSON:
 }
 ```
 
+![Configuring the Create Task step in Pipedream](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/1ea50b37-cca5-441f-8989-ffae7fb559e5.png)
+
+![The created task result](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/452dbe60-a5a5-4223-bf4a-fa2c118bd501.png)
+
 ### Example 2: Adding something to the daily jots using custom Javascript code
 
 For capturing data to today's Daily Jot without manual destination selection:
+
+![Selecting the API option for custom code](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/99833986-5f1b-4975-8670-263bb6d31ca5.png)
 
 **Step 1 - Calculate today's date:**
 ```javascript
@@ -202,6 +240,8 @@ export default defineComponent({
 ### Example 3: Adding a task containing a link using the default Amplenote step
 
 Use this JSON to add a task with an inline tag reference:
+
+![JSON configuration for a task containing a link](https://images.amplenote.com/e9aed28c-a6d6-11ed-a711-3ac2ea44f0fb/18571912-d245-417d-8959-4b658e72380a.png)
 ```json
 {
   "type": "check_list_item",

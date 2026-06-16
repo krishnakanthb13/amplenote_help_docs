@@ -35,11 +35,19 @@ Given their versatility, Rich Footnotes can often replace the need to create and
 
 **Simple method**: If you want to insert a **link** (which includes links to Youtube videos, tweets, etc), **image**, or **video** into text, just select and paste.
 
+![Inserting a link, image, or video into text simply by selecting and pasting](https://images.amplenote.com/e10026fa-9e4b-11ee-a0ca-cac1ebefa4fe/7c674626-7fe0-43fa-aaf1-bcc1b29efbc7.gif)
+
 **Rich Footnote dialog**: For commentary or linking to existing notes, highlight text and use the keyboard shortcut (`Ctrl K` for Windows or `Cmd K` for Mac) or click the toolbar icons.
+
+![If you're not into using Ctrl-K or Cmd-K, you can click an icon to insert context into your text](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/9357cdc3-b275-4310-a6b5-c596d6b1b31b.png)
+
+![Tap the link icon to open the Rich Footnote dialog on mobile](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/8ec648f1-fb10-4ef6-be02-810c322c6980.png)
 
 ### Using the Rich Footnote dialog to search for existing notes to link to
 
 When typing in the input field, a list of existing notes appears for selection. Pressing Enter creates a new linked note with the entered title.
+
+![Using the input field to link to an existing note or create a new one](https://images.amplenote.com/0bbee202-0327-11e9-b258-7a639e48bef6/dedd3dc2-cb7d-4a8e-aaee-0b6abfe94837.png)
 
 The field accepts double bracket note creation syntax, including:
 
@@ -74,6 +82,12 @@ YouTube videos play within notes without leaving the current document. Links to 
 
 Using the contextual toolbar, you can quickly create footnotes with existing note text. The footnote text field focuses automatically, allowing you to type visible display text.
 
+![Extracting a text selection into a Rich Footnote using the contextual toolbar](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/61c5c133-16f7-472f-9141-d31c1bb7c8e9.png)
+
 ## Converting rich footnote content to a note
 
 Opening a rich footnote and pressing `Tab` enters edit mode, revealing an option to convert the footnote into a separate note. This creates a new note and replaces the previous Rich Footnote with a link to it.
+
+![Pressing Tab inside a rich footnote reveals the option to convert it into a note](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/9ede4728-258b-4715-9a24-c8c45fb4d159.png)
+
+![The result after converting a rich footnote into a separate note](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/0200633d-56af-492b-8b2a-8f1761a15d4c.jpg)

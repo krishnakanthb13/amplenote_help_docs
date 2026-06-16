@@ -13,6 +13,10 @@ Once you've exported your Evernote data:
 3. Choose your ENEX file
 4. Click the "Start import" button
 
+![Opening Amplenote account settings via the gear icon](https://images.amplenote.com/99b5a684-03f6-11e9-9224-024f990c9f6a/acfce2fe-938e-4ef1-95d9-058db007f98b)
+
+![Choosing the ENEX file and starting the import](https://images.amplenote.com/99b5a684-03f6-11e9-9224-024f990c9f6a/7847d182-f21f-4696-9bd8-70f54be6ae19)
+
 ## What data will be imported?
 
 The Evernote importer can process notes, tags and many Evernote concepts, including:
@@ -54,3 +58,7 @@ There are no specific limits for how much data can be imported from Evernote. Th
 ## Can I export or download my notes?
 
 You can download individual notes from the note settings. Click on the settings icon on the right-hand side of the note header to access settings, then select "Download Note." This action will generate a markdown file (.md) of your note to your device. Markdown files can be viewed in plain text editors, as well as in many note apps.
+
+![The note settings icon on the right-hand side of the note header](https://images.amplenote.com/0bbee202-0327-11e9-b258-7a639e48bef6/a5b39aab-5450-4d0f-b9fa-ec1b84c7fd26)
+
+![Downloading a note as a markdown file](https://images.amplenote.com/99b5a684-03f6-11e9-9224-024f990c9f6a/db7aa0a7-afad-49d4-8ff1-bfeb288dccd8)

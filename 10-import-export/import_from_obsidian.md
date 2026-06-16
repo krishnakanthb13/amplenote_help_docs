@@ -12,11 +12,17 @@ Start by visiting your Obsidian Vault directory. This directory stores all of th
 
 To be able to import all these files to Amplenote, they need to be combined into a single file. On macOS, you can do this by right clicking and choosing "Compress" from the options.
 
+![Compressing all Obsidian markdown files on macOS](https://images.amplenote.com/3ba026fc-801d-11ee-89e6-e6e121a71ab4/cd3b73cb-b067-4768-991d-d061fdaf83f4.png)
+
 If you are on Windows, you should be able to right click on the selected files, then use "Send to" -> "Compressed (zipped) folder".
+
+![On Windows, use "Send to" to create a compressed zip file](https://images.amplenote.com/3ba026fc-801d-11ee-89e6-e6e121a71ab4/4629fc42-ef77-4cc4-a6ef-4b36001dce35.jpg)
 
 ## 2. Import the zip file of markdown files
 
 In Amplenote on desktop, log in, click your Profile icon, then choose "Account Settings" to enter your settings. From there, choose the "Import & Export" tab, and click "Import from Markdown." Click "Choose a markdown or zip file" and then select the zip file you created in step one. Your note import will begin. 🎉
+
+![The "Import from Markdown" page will let you initiate an import](https://images.amplenote.com/3ba026fc-801d-11ee-89e6-e6e121a71ab4/71b9dc9d-8137-4d34-bd9f-170b442de493.png)
 
 ## What is preserved during an import?
 

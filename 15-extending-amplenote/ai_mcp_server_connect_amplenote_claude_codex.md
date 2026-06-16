@@ -23,6 +23,10 @@ MCP Server access requires an Unlimited or Founder subscription level.
 - Toggle the MCP server "on"
 - Click the "Copy" button and select your preferred provider (Claude Desktop, Claude Code, or OpenAI Codex)
 
+![Opening settings from macOS after installing](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/b411b4d0-8805-4c46-8920-00ee0af17c8c.png)
+
+![MCP toggled on](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/d6b21cb1-2188-431c-b78d-220a550b71f1.png)
+
 ### 3. Apply Configuration
 
 **Important:** Keep Amplenote Desktop open while using MCP. The copied configuration includes a private bearer token—treat it like a password and never share it publicly.
@@ -36,6 +40,10 @@ MCP Server access requires an Unlimited or Founder subscription level.
 5. Save and completely restart Claude Desktop
 6. Verify "amplenote" appears in the MCP/tools indicator
 
+![Editing the Claude Desktop config to add the Amplenote MCP server](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/bd97dcff-d6a5-47e5-bdfd-b9a828d30300.png)
+
+![After restarting Claude, you should be able to see "amplenote" among your "Connectors"](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/1be5f445-d41c-40cd-8cfd-3cb24f5e2720.png)
+
 #### Option B: Claude Code
 
 1. Ensure Amplenote Desktop is running with MCP enabled
@@ -44,12 +52,18 @@ MCP Server access requires an Unlimited or Founder subscription level.
 4. Start Claude Code with `claude`
 5. Run `/mcp` to confirm amplenote is connected
 
+![Successful copy/paste of Claude Code command](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/3cceb3be-a186-43cd-9976-4fcd49133d4a.png)
+
 #### Option C: Codex
 
 1. Open Codex's config file at `~/.codex/config.toml`
 2. Paste the copied `[mcp_servers.amplenote]` block
 3. Save and restart Codex
 4. Run `/mcp` to verify amplenote is listed
+
+![Adding the Amplenote MCP server block to the Codex config file](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/47068d6d-9707-4676-b3ee-9b77b6217f60.png)
+
+![You should see "amplenote" listed among the MCP entries after typing /mcp](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/1430505c-75d3-4cc5-8372-80f6deec3ab6.png)
 
 ## Verification Checklist
 

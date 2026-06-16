@@ -22,9 +22,13 @@ By default, extensions don't appear in your browser bar. To add Amplecap's icon:
 
 **Firefox**: Click the engine icon and select "pin to toolbar."
 
+![Pinning the Amplecap extension icon to your browser toolbar](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/eb18be0b-6976-4fbb-861e-2038bfe4d21c.gif)
+
 ## ⚡️ Quick Bookmark in One Step
 
 Use the keyboard shortcut `Ctrl-Shift-E` to capture the current page as a task in a predefined note. On first use, select your destination note; change it anytime in extension settings.
+
+![Capturing a quick bookmark in one step](https://images.amplenote.com/e1c88662-e5b6-11ec-94aa-f2e2bc5c6b4b/2a4f32b4-6092-4544-b42c-264083042be7.png)
 
 ## 🥅 Capture Content in 3 Steps
 
@@ -38,6 +42,8 @@ Select from four capture modes:
 
 Use `Up` and `Down` arrow keys to navigate options efficiently.
 
+![Step #1: Choosing the capture type](https://images.amplenote.com/e1c88662-e5b6-11ec-94aa-f2e2bc5c6b4b/2217b8b8-9105-4c3e-b33d-0fecd230ea1d.png)
+
 ### Step #1.2: Choose How to Send Content
 
 Two options are available:
@@ -50,9 +56,15 @@ When copying, choose whether to paste content directly into the note body or add
 
 Use `Left` and `Right` arrow keys to switch between these options.
 
+![Step #1.2: Choosing how to send your content to Amplenote](https://images.amplenote.com/e1c88662-e5b6-11ec-94aa-f2e2bc5c6b4b/b0eb815d-5803-4598-b0ed-c813d4d58008.png)
+
+![Step #1.2: Copy to clipboard vs. send to Amplenote](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/8f1e647a-831c-4b5d-9c20-accaaebdeabb.png)
+
 ### Step #1.3: Choose Annotation Text
 
 Enter custom text to replace the default annotation (page title) when capturing.
+
+![Step #1.3: Choosing the annotation text](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/9b085f31-94bb-44c4-9eca-45898be782b5.png)
 
 ### Step #2: Select Content to Be Captured
 
@@ -67,6 +79,8 @@ This appears only when you selected "Send to Amplenote."
 
 **Choose Note**: Search for an existing note. Amplecap inserts content at the beginning.
 
+![Step #3: Choosing the destination for captured content](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/92fe53b4-607d-4b0c-a1cc-98c6df849c48.png)
+
 ### Step #3.2: The 3 Content Formatting Options
 
 1. **Note Body**: Places captured content directly into a new note or at the beginning of an existing one.
@@ -79,6 +93,8 @@ This appears only when you selected "Send to Amplenote."
 - Added to the beginning of existing notes
 - Content stored inside a Rich Footnote using your annotation text
 
+![Step #3.2: The three content formatting options](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/c7008151-0b20-4166-9a8a-75a919b4c110.png)
+
 ## Amplecap Capture Modes
 
 ### Screenshot Selection
@@ -87,9 +103,13 @@ Drag your mouse to select any part of a webpage. Click "Save selection" to captu
 
 All uploaded images are processed by OCR, making text within screenshots searchable and extractable within Amplenote.
 
+![Screenshot selection capture mode](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/64d894d1-8219-4362-bce7-c5bd107af3ea.png)
+
 ### Highlights
 
 Manually select multiple phrases from a webpage and save them in one click.
+
+![Highlights capture mode](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/357bb81a-5701-4dd2-8f67-5e51715f59a1.png)
 
 Individual excerpts are editable before capturing. Formatting depends on destination:
 
@@ -108,11 +128,15 @@ Save the URL of your current page to your notebook for reading lists or referenc
 
 On `public.amplenote.com/*` URLs, Amplecap enables one-click note duplication. Click "Duplicate Note" to create a copy in your notebook—the quickest way to import templates.
 
+![Importing Amplenote templates with one-click note duplication](https://images.amplenote.com/e1c88662-e5b6-11ec-94aa-f2e2bc5c6b4b/67a93012-5de1-45b4-b2a7-d4c431b799a3.png)
+
 ---
 
 ## Omnicapture
 
 Available in Chrome, Omnicapture lets you create notes and send them to Amplenote from anywhere while your browser is open—the fastest way to add tasks.
+
+![Omnicapture creating notes from anywhere in the browser](https://images.amplenote.com/36ce0cf6-cb8f-11eb-98cd-da3b9fa1c227/e7efd05b-90cb-4411-a84c-658088e59af9.png)
 
 **To enable**: Add a global shortcut in Chrome settings (see customization guide).
 

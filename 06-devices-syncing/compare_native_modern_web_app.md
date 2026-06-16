@@ -28,9 +28,13 @@ The article notes that technological evolution — particularly web workers and 
 
 Users can install Amplenote in "less than a minute" and pin it for easy access with an Amplenote icon in the task tray.
 
+![Amplenote icon in the system task tray](https://images.amplenote.com/31ea1e1a-2a0b-11ed-ab02-c2af19d2d6e3/3c747393-3a45-4635-9781-d59f0e2c4804.png)
+
 ### 2. Cmd-Tab application switching
 
 The installed app "shows when tabbing between apps" like standard native applications.
+
+![Amplenote shown in the Cmd-Tab application switcher](https://images.amplenote.com/31ea1e1a-2a0b-11ed-ab02-c2af19d2d6e3/94d497be-49db-4be7-97e2-5c03f4affab6.jpg)
 
 ### 3. Offline functionality
 
@@ -59,6 +63,10 @@ The founding team "came from a video game background" and focuses on "visual eff
 ### 9. Performance speed
 
 A 2021 performance study by NoteApps.info comparing 22 note-taking applications found "no measurable distinction between which apps performed best between 'native app,' 'web app,' and various hybrid apps."
+
+![Note-taking app performance comparison chart](https://images.amplenote.com/427637d8-9c9e-11eb-a4c7-f6832a8b9ea6/3de0e7c7-6a86-4d51-b76a-a7538a9808e3.png)
+
+![Additional note-taking app performance comparison chart](https://images.amplenote.com/427637d8-9c9e-11eb-a4c7-f6832a8b9ea6/1d2e3176-ee52-4d27-b088-9c96ca8f7ca1.png)
 
 ## Where native still matters (mobile and iPad)
 

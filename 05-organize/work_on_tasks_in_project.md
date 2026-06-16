@@ -23,13 +23,19 @@ Videos are available covering:
 
 Applicable tag suggestions appear as you enter your hierarchy to prevent duplicate hierarchies.
 
+![Suggestions are given while typing tag so as to prevent duplicate hierarchies](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/a9335628-941f-4c00-9d5c-d7ca9ed80b2f.png)
+
 ## Adding tags to notes using drag-and-drop
 
 You can assign tags to notes by dragging and dropping from the sidebar to the note list.
 
+![Assign tags to notes by dragging and dropping from the sidebar to the note list](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/74444dbe-a2d7-44b8-b0e9-180044012773.gif)
+
 ## Deleting tags from notes
 
 To remove a tag from a note, click the triple-dot to the right of the tag name, then select "Remove tag."
+
+![Removing a tag from a note](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/2b55a09d-b73a-43a3-91fa-62fb7daf9fb9.png)
 
 ## Tag naming rules to prevent duplicate hierarchies
 
@@ -89,9 +95,15 @@ After identifying notes containing tasks you want to work on, choose a tag to ap
 
 Alternatively, use the Amplenote Calendar with Task Domains to group nested tags indicating work tasks in a "Work" Task Domain. When ready to schedule your day, hold shift and click to select the particular project tag from the list of possibilities. This makes it convenient to get tags pertaining only to a specific project and see applicable tasks to drag onto your calendar (which syncs to Google or Outlook calendars, if desired).
 
+![Control which notes are shown via tag in the Calendar task list](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/6ee8d947-8a3c-41a6-add6-17b219869ce6.gif)
+
 ## Browsing notes by tag
 
 You can browse through your note hierarchy to see all notes with a certain tag using the sidebar, or reference notes matching your hierarchy by using Quick Open. This displays note titles matching the query and provides a holistic filter to view all notes with the nested tag alongside each other. In tasks mode, nested tags are the primary means to move from one productivity context to another.
+
+![Browsing notes by tag in the sidebar hierarchy](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/8087e8d3-29e9-4d72-b7af-aa9ff0dffaf7.png)
+
+![Using Quick Open to reference notes matching a tag hierarchy](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/50c5ed70-6c29-4b8f-bcce-bacdaf011e4a.png)
 
 ## Multi-tag selection
 
@@ -100,6 +112,8 @@ In some scenarios, it's useful to list all notes tagged with a **combination of 
 Filtering by multiple tags might prove especially useful when browsing tasks — for instance, viewing all work-related tasks that are also part of collaborative notes (tagged with `shared-with-me`).
 
 Filtering notes by combinations of tags can also be achieved using the `in:` selector and a comma-separated list of tags in the search bar. For example: `in: amplenote/help-pages, auto-archived`.
+
+![Multi-tag selection by Shift-clicking tag names](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/794441a5-adcf-4e23-9687-cab51ca8b8b7.png)
 
 ## Tag Shortcuts and the Default Shortcut
 
@@ -110,6 +124,8 @@ The dedicated help page on Tag Shortcuts and the Default Shortcut discusses how 
 ## Creating a new note with tag hierarchy
 
 When creating a new note, you can specify a tag hierarchy by prefacing the note title with its hierarchy. For example, `@recipes/pizza/BBQ Hawaiian Pizza` will display with the appropriate hierarchical structure.
+
+![Creating a new note with a tag hierarchy by prefacing the note title](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/8ecefc3b-c2cb-4fe7-82f0-40be36b88e49.png)
 
 ## Renaming, merging, and deleting tags
 

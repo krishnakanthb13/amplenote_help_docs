@@ -127,11 +127,15 @@ In most cases, you can also use your browser's "back" shortcut:
 [[personal/memories/holidays/December 25, 2020]]
 ```
 
+![Creating a new note or linking to an existing note](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/d71dc2b1-594b-4ba8-ae9b-48821e46b4c9.gif)
+
 ### Create or Link to an Existing Note, Transferring All Tags from the Current Note
 
 | Linux, Mac & Windows |
 |---|
 | `Shift-Ctrl-[` (available when text is selected) |
+
+![Linking to a note while transferring all tags from the current note](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/95b864c8-3862-4c58-b522-a46627ee59c2.gif)
 
 ---
 
@@ -154,6 +158,8 @@ The below only work on the desktop client.
 | Linux, Mac & Windows |
 |---|
 | `Alt-[` and `Alt-]` |
+
+![Increasing or decreasing the number of panes shown](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/118d893e-69dd-4bd3-b114-cbdb419e2a08.png)
 
 ### Toggle Right-To-Left Mode
 
@@ -189,6 +195,8 @@ Alternatively, press `Ctrl-Enter` twice on any block. The first press transforms
 
 Use `!` to see available task commands when the cursor is inside a task.
 
+![The task command menu shown by typing ! inside a task](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/ed93b171-afc7-4ab9-b1d5-712b3d8720a4.png)
+
 ### Mark Task Complete
 
 | Linux, Mac & Windows |
@@ -204,6 +212,8 @@ Read about task completion in the help documentation.
 | `Ctrl-Shift-D` or `!dismiss` | `Option-Shift-Space` or `!dismiss` |
 
 Tasks can also be dismissed by holding `Alt` and clicking the task's checkbox.
+
+![Dismissing a task](https://images.amplenote.com/a508f02c-e1da-11ea-b072-4edf996d57cd/ffff55fa-f883-4605-9541-a23f5528edad.png)
 
 ### Cross Out Task
 
@@ -256,6 +266,8 @@ Tasks can also be crossed out by holding `Shift` and clicking the task's checkbo
 | Linux, Mac & Windows |
 |---|
 | `Shift-Enter` |
+
+![Creating a new line inside a task with Shift-Enter](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/0dd7c678-5c02-4814-994b-efa45d1a93fa.png)
 
 ### Paste Into a Task
 
@@ -336,6 +348,8 @@ Works when cursor resides within the parent task.
 ### Plugin Command Menu
 
 Type `{` followed by the name of the plugin to see all of that plugin's available actions. Press `Enter` to run it.
+
+![The plugin command menu shown by typing { followed by a plugin name](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/cc773b43-7d46-49ca-b2fb-89a327c20e4a.png)
 
 ---
 

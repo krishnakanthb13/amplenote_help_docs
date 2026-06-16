@@ -8,11 +8,15 @@ To enable this feature, open the Amplenote desktop application and navigate to "
 
 Once in the Settings menu, the first option available is "Global task capture shortcut." Select a key combination you'll remember when you want to quickly capture a new task.
 
+![The Global task capture shortcut option in the desktop Settings menu](https://images.amplenote.com/46cdef9a-34d1-11f0-8450-014093b0acdc/071cca40-a358-4d88-8f01-96633e0e7ce2.png)
+
 Additionally, you can configure a "Global quick open shortcut" (the global note open/lookup key) to access your note list lookup directly from anywhere.
 
 ## Capturing a task via global popup
 
 When you press your chosen global task capture hotkey—regardless of which application you're currently using—a popup input box appears for capturing your idea or task.
+
+![Global task capture popup](https://images.amplenote.com/46cdef9a-34d1-11f0-8450-014093b0acdc/b8f8eaa7-17ec-43ae-9b23-0c9a33296814.png)
 
 This input box supports the full range of Amplenote's editing capabilities:
 - Rich text formatting

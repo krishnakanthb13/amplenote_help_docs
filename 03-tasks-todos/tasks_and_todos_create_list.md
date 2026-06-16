@@ -17,6 +17,10 @@ The primary method involves two approaches:
 
 Tasks appear in Tasks View Mode under whatever tags you've assigned to the note.
 
+![Creating a new task by typing brackets, followed by a space. Then check it to mark as complete](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/0a9325a9-0b09-4de5-97a5-de3009b27922.gif)
+
+![Tapping the checkbox icon will create a new task on either desktop or mobile](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d0b34abb-20e8-4e8a-ab60-bb028b87d75b.gif)
+
 ### Create a task from mobile Quick Task Bar
 
 Reference the dedicated help page on the iOS & Android Quick Task Bar for mobile task creation.
@@ -73,6 +77,8 @@ Reference the dedicated help page on recurring tasks and due dates.
 
 Click the expand icon on the task bar or use the hotkey to access Task Details options.
 
+![Using Task Details](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d10445f8-1b04-494f-9d8d-a35c901be3bc.png)
+
 ### Set a "Start Time" (aka "Due Date")
 
 A dedicated page explains how to set start times and due dates for tasks.
@@ -90,6 +96,8 @@ Based on the Eisenhower Method (Covey Quadrants), classify tasks:
 **Important tasks:** Tasks align with your long-term or short-term goals.
 
 General principle: Minimize urgent tasks and maximize important ones.
+
+![Setting whether a task is urgent or important](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/f6e4730b-5f8e-4133-8268-7fd66fb6ce77.png)
 
 Set urgency and importance using task commands or the Task Details panel.
 
@@ -109,6 +117,8 @@ Click the Task Score number to enter a new value. Alternative methods include:
 - Reset score via task commands
 - Increase score to maximum via task commands
 - Batch-edit scores within a note
+
+![Editing the Task Score](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/22869c94-3a6d-4c10-935d-7e6867369c8d.png)
 
 ## The "Manage tasks" panel
 
@@ -141,11 +151,15 @@ Completed tasks move to the `Completed` tab, displaying your productivity score.
 
 In the `Completed` tab, use drag-and-drop to reassign a task's completion date to another day.
 
+![In the `Completed` tab of a note, use drag-and-drop to move a task's completion date to another day.](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d2503bb-02c2-4261-b225-09dcb6476f76.gif)
+
 ### ✏️ Dismissing tasks
 
 Dismiss tasks for half accumulated score when they're partially complete, handled by others, or no longer necessary. Dismissing recurring tasks preserves upcoming occurrences.
 
 Reference the associated keyboard shortcut documentation for details.
+
+![Dismissing a task](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d734b3d-8b53-4e0d-8d9d-104c030d08c8.png)
 
 ### ☑️ Crossing out tasks
 
@@ -157,3 +171,5 @@ Remove tasks entirely by clicking the line and pressing Delete or Backspace. Alt
 
 - Expand task details and select Delete
 - Use the associated task command
+
+![Deleting a task](https://images.amplenote.com/a87fe9b8-03d3-11e9-8493-fed38e33333f/3193b6ee-7a98-46cf-a05b-aa743107da02)

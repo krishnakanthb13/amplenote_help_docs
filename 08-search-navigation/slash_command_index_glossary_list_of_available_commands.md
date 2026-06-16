@@ -14,6 +14,10 @@ The forward slash menu in Amplenote provides context-aware commands across all p
 
 The menu adapts based on context—paragraphs show different options than tasks.
 
+![Slash menu options shown when the cursor is in a paragraph](https://images.amplenote.com/c919d564-6509-11f0-acb0-a5ec0cafe2a4/bfb4fc3b-a190-4b2b-9b28-f2f6ff54c5aa.gif)
+
+![Slash menu options shown when the cursor is in a task](https://images.amplenote.com/c919d564-6509-11f0-acb0-a5ec0cafe2a4/000f128c-8ae2-4b29-9b02-a3968578cd53.gif)
+
 ---
 
 ## 📄 Block Commands
@@ -215,8 +219,14 @@ Bullets with start times become events with these commands:
 - `/generate`, `/thesaurus`, `/rhyme` – AmpleAI content assistance
 - `/draw`, `/paint` – Excalidraw visualization
 - `/kanban` – Format tasks as Kanban board
+
+![Tasks formatted as a Kanban board](https://images.amplenote.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--56ecc20bc6887eece35c0b8fe9e5342d4a262f99/image.png)
+
 - `/math`, `/latex` – Insert mathematical content
 - `/mindmap` – Create mind map visualization
+
+![Mind map visualization created with the /mindmap command](https://images.amplenote.com/073fd84a-46af-11ef-bbe6-26e37c279344/6cc8817a-f183-4899-a8ab-af980ff76101.gif)
+
 - `/pomodoro`, `/focus` – Start focus session
 - `/readwise` – Sync Readwise book highlights
 - `/remind` – Schedule note review reminder

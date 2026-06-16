@@ -29,6 +29,8 @@ The Booster Club comprises volunteers promoting Amplenote online. Members receiv
 
 Active participants in Amplenote's Discord and Reddit communities answering user questions receive monthly Unlimited subscriptions as periodic awards.
 
+![Helping other users in the Amplenote Discord and Reddit communities](https://images.amplenote.com/4ab79d84-2268-11eb-81f1-5ac6126f7408/500ea31a-6a11-481e-9d64-eb4e2020c85e.png)
+
 ### Invite someone to Amplenote
 
 When referral signups occur for paid subscriptions, referrers gain a free Unlimited month, profile badge, and extra voting privileges.

@@ -17,6 +17,8 @@ The interface displays:
 
 You can modify specific instances without changing the underlying rule.
 
+![Fixed recurrence menu — blue fields define the rules, non-blue fields show the next instance](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/b027c773-947c-4b22-bcdf-37afe0a7c269.png)
+
 ### Advanced Weekly Recurrence
 
 Tasks can repeat weekly on specific days. Examples include:
@@ -35,6 +37,8 @@ Set up flexible recurrence by:
 
 This approach allows tasks to reschedule based on actual completion rather than fixed intervals.
 
+![Configuring flexible recurrence with the 'When the task is complete' repeat option in Task Details](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/8421fae5-ae29-4fbb-b64a-13cc0f2cb37e.gif)
+
 ## Weekday and Weekend Limiting
 
 Use slash commands `/weekday` or `/weekend` within recurring tasks to restrict occurrence:
@@ -43,6 +47,10 @@ Use slash commands `/weekday` or `/weekend` within recurring tasks to restrict o
 - **Weekends**: Saturday and Sunday
 
 Flexible tasks automatically adjust: weekend tasks shift to Saturday if completion falls on a weekday, and weekday tasks shift to Monday if completion falls on a weekend.
+
+![Using the /weekday or /weekend slash commands to limit recurrence](https://images.amplenote.com/a33e980c-b5f0-11ef-9d1d-d7fedc24f425/42cd8eea-6e93-4b84-bccb-626614c127d8.png)
+
+![Task Details configuration for weekday- or weekend-limited recurrence](https://images.amplenote.com/a33e980c-b5f0-11ef-9d1d-d7fedc24f425/9af384f7-a852-4d7a-a21f-4b7bbdd51f9f.png)
 
 ## Limiting Recurrence Instances
 

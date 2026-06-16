@@ -24,6 +24,8 @@ The F5 key initiates dictation mode on modern macOS systems. According to the ar
 
 Users can activate dictation by tapping the microphone button on the keyboard when the cursor is positioned in a note. This version offers somewhat expanded functionality compared to the macOS equivalent.
 
+![Tapping the microphone button on the iOS keyboard to dictate into a note](https://images.amplenote.com/31f3beb0-a0e8-11ef-b7be-e30655da85d3/82b540d6-eb44-453f-9e25-62493bfe5c4f.jpg)
+
 ### iOS Siri Shortcut
 
 The "Capture to Amplenote" shortcut enables voice-activated task capture through Siri, allowing quick additions to your daily jot.

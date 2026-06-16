@@ -6,6 +6,8 @@
 
 You can access recently opened notes using the backburger button next to the search bar. This displays all notes recently accessed on your current device. Alternatively, use keyboard shortcuts: `Ctrl-G` (Windows/Linux) or `Cmd-G` (MacOS).
 
+![The backburger history menu showing recently opened notes](https://images.amplenote.com/e02ec4f4-12ed-11ef-bbb0-c6370cefecaf/53dd2cdc-5ce2-4398-b16f-041d4b5c8a14.png)
+
 The "Recently Viewed" panel shows visited notes and modes with the most recent at the top. The feature maintains individual view states within Calendar or Tasks Mode, "including viewed intervals and filter selections."
 
 ## In mobile apps

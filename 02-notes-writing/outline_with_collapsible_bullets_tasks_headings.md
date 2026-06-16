@@ -30,6 +30,8 @@ Headings provide clear structural organization, particularly beneficial for long
 1. Hover over a heading and click the collapse arrow.
 2. Position the cursor on the heading and press `Ctrl-,`.
 
+![Hover on a heading, then click the icon to collapse is one way to get the job done](https://images.amplenote.com/fea0f5c8-2807-11ee-8a5a-4e62ba9bf71c/941155b9-28c6-4552-a95a-3b15abbef52f.gif)
+
 ### Collapse behavior
 
 When collapsing headings, content hides until reaching either:

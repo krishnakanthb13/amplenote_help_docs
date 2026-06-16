@@ -12,6 +12,8 @@ The limitation: no universal formula exists for determining importance. The solu
 
 Access Task Rescorer from a note via **Plugins menu** (after clicking the Note Options triple dot), or from the global "Open" dialog by typing "rescore" (requires Ample Agent Pro).
 
+![Accessing Task Rescorer from the Plugins menu](https://images.amplenote.com/cede5754-680f-11f1-8968-71fbcb03269c/ab369d48-5db4-4718-955c-76072dab0e1f.gif)
+
 ## Which tasks to score?
 
 When invoked outside a note, you'll select your task source:
@@ -22,6 +24,8 @@ When invoked outside a note, you'll select your task source:
 - **Note**: Score tasks within a specific note
 
 Up to 100 tasks per invocation are processed.
+
+![Selecting the task source for rescoring](https://images.amplenote.com/cede5754-680f-11f1-8968-71fbcb03269c/3eea7ff0-c072-4372-859d-9f9c495b6c1b.png)
 
 ## Scoring tasks by enjoyability and more
 
@@ -39,3 +43,5 @@ The LLM evaluates tasks in roughly 10 seconds.
 ## Finalizing new scores
 
 Review recommended scores and click any value to adjust it. A score of 0 dismisses the task.
+
+![Finalizing Task Score updates after re-weighting by quarterly plan](https://images.amplenote.com/cede5754-680f-11f1-8968-71fbcb03269c/d5649a8e-b860-4c34-9e92-0162982f33b8.png)

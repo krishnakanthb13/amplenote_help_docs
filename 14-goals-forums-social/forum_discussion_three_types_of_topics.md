@@ -21,6 +21,8 @@ Non-promotional conversation spaces are located in the social page's left column
 
 These forums help entrepreneurs connect with potential customers. "Posting a new topic in the promotion forums requires some coins in order to keep our signal-to-noise ratio as high as possible."
 
+![Discussion in a sample forum topic](https://images.amplenote.com/4c947692-c8cf-11ef-9e37-c3e2886469fa/03340e1a-a11f-46d5-97ba-1989fd456152.png)
+
 ## Accountability Goal topics
 
 Each Accountability Goal includes a dedicated forum for members discussing tactics and progress. Users must join the group before posting.

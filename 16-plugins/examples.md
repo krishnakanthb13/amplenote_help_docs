@@ -24,6 +24,8 @@ The documentation illustrates how to implement conditional slash commands for ta
 
 An example shows how task content with rich footnotes (including images, links, and connected tasks) is formatted in markdown, with footnote references handled through standard markdown syntax.
 
+![Rich Footnote with description and image in a task](https://images.amplenote.com/d499b3d8-534d-11ef-95c7-0663d8339c46/25fded33-89b1-4013-a67a-b5b775432888.png)
+
 ### External Service Integration
 
 The page notes that plugins can use `fetch()` to call external APIs, though some services may implement CORS restrictions. It recommends using Cloudflare Workers as a proxy solution for CORS-restricted endpoints.

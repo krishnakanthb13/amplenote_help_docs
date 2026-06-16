@@ -34,6 +34,8 @@ Bullet or numbered list items can be crossed off using `Ctrl-Space`. Clicking th
 
 The Checklists plugin by David Trapp offers interactive checklist functionality available through the plugin directory.
 
+![Installing and using the Checklists plugin](https://images.amplenote.com/f22af900-8ba4-11ee-bbb6-1e01dee17a2b/d52f5c53-7792-4605-a9b4-f52004258443.gif)
+
 ### Option 4: Tag Your Note `checklists` (and Lock It If It's a Template)
 
 Combine templates and notes tagged "checklists" to create tasks that exclude from Task or Calendar view.
@@ -46,9 +48,13 @@ Use note templates (regular notes typically locked and rarely edited). Duplicate
 
 Complete tasks using "Cross out" or `Ctrl-Shift-Space` hotkey to keep them inline. Alternatively, use bullet points instead of tasks.
 
+![Using `@=` (the legacy `[[=`) to find a section of a note and insert it in a Daily Jot](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/ee366345-5e28-47c0-ad47-27b190134bef.gif)
+
 ### I Am Creating Checklists in Specific Notes
 
 1. Create checklists as normal task lists
 2. Tag checklist notes with `checklists` or similar identifier
 3. In Tasks Mode, exclude individual checklist notes or deselect the `checklists` tag
 4. In Calendar Mode, exclude individual notes or omit `checklists` tag from Task Domains
+
+![Creating checklists in specific notes tagged for exclusion from Tasks view](https://images.amplenote.com/d9210b66-dc62-11ee-94c7-c250cfa702b7/fa571717-23f4-4fb5-b78f-230d877af995.jpg)

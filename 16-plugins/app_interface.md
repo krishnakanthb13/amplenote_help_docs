@@ -39,6 +39,12 @@ Displays a message dialog with optional action buttons.
 **Returns:** Action index, value, null, or -1
 **Supports:** Custom icons, primary actions, scrolling
 
+![Example showing preface text displayed before main message](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/53d98444-82b5-46c4-888a-ac47da8bfa74.png)
+
+![Alert dialog example](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/1facb8f0-33ae-4abc-98d3-9b3aae94d44c.png)
+
+![Alert with action button example](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/2a4d7d14-a28d-4051-a444-f26725038f15.png)
+
 ### app.attachNoteMedia
 Uploads media files and associates them with notes.
 
@@ -273,11 +279,17 @@ Adds plugin section to sidebar for full-screen embed.
 **Arguments:** Optional arguments passed to renderEmbed
 **Returns:** Nothing
 
+![Plugin section in sidebar](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/e113eca3-1df8-4771-8f55-bd7e5b07b633.png)
+
 ### app.openSidebarEmbed
 Opens embed in Peek Viewer sidebar.
 
 **Arguments:** Aspect ratio (number/object), additional args
 **Returns:** Boolean indicating success
+
+![Quick open invocation example](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/4fc7ac45-540a-4a80-b7bc-8499dfcc78eb.png)
+
+![Peek Viewer sidebar rendering](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/4f53f093-f4df-44a2-a5cc-8f43863309ce.png)
 
 ### app.prompt
 Shows message with input fields.
@@ -287,6 +299,14 @@ Shows message with input fields.
 
 **Input Types:** checkbox, date, note, radio, secureText, select, string, tags, text
 **Options:** inputs array, actions array, primaryAction object
+
+![Basic prompt example](https://images.amplenote.com/2ae961e0-bc5d-11ed-808b-e21efa2d8566/13b30929-c82f-48e1-86e1-8d4642b59e3b.png)
+
+![Multi-input prompt dialog](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/be4385e1-2902-4fc9-a8d9-43ddff8f1dea.png)
+
+![Extended prompt with multiple input fields](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/f12cae67-340a-4886-90b5-af10d1b06a12.png)
+
+![Prompt with action buttons](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/9d1fba7c-a047-403e-b7d9-e60f579ca917.png)
 
 ### app.publishNote
 Publishes a note.

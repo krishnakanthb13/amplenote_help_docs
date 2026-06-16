@@ -27,6 +27,8 @@ These notes share a key characteristic: they receive 10+ visits annually and imp
 
 Investing time in customizing Evergreen Notes makes sense given their frequent access. Amplenote recommends using the Note appearance settings to create an inspiring mood through background colors and images.
 
+![The author's Evergreen Task Inbox note uses a blue background color and a picture he took on vacation](https://images.amplenote.com/e0bdce5a-80d5-11ef-8707-62fb339586e5/eeea9f9f-6d0d-47a0-a15a-09880c70570b.png)
+
 ### Tag with `#canonical`
 
 Using a dedicated tag like `canonical` or `evergreen` helps identify notes for repeated reference and proves especially useful when exploring connections via Note Graph View.

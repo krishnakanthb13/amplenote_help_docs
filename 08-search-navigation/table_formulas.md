@@ -26,6 +26,8 @@ Currently, if a range includes a formula cell, that formula's result is ignored 
 
 The rationale acknowledges that users often want to apply multiple operations to single datasets without needing to specify which columns to exclude from calculations.
 
+![Table applying multiple formula operations to a dataset of monthly temperatures](https://images.amplenote.com/e5c98e0a-777d-11ee-bca9-86c8ff5ac896/9c1ca5d5-94bd-4100-9cde-b75f264e168c.png)
+
 ## Supported Operations
 
 - **average/mean** — (Sum of values) / (Count of values)
@@ -42,6 +44,9 @@ The system infers formatting based on input values:
 
 - **Currency symbols** ($, €) are preserved in results
 - **Numeric separators** follow user input conventions
+
+![Formula results automatically following input formatting conventions for separators and decimal precision](https://images.amplenote.com/e5c98e0a-777d-11ee-bca9-86c8ff5ac896/72826276-f70d-48d5-802f-d98de4cc5df9.gif)
+
 - **Decimal precision** matches input (maximum three digits)
 
 Users can suggest additional formulas through the feature voting board.

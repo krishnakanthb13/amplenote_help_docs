@@ -13,6 +13,8 @@ Amplenote Desktop app users can select a directory for automatic local backup of
 3. Choose a backup directory
 4. Amplenote will download any unrefreshed note content and write each note as a markdown file using the note's unique identifier as the filename
 
+![Choosing a backup directory in Ample Desktop settings](https://images.amplenote.com/fdd718cc-d826-11ef-b630-2badab5b1c7d/cf3702ac-6eb6-454f-9d64-6d3fa67a0f02.png)
+
 ## Backing up images, video and PDFs
 
 All assets uploaded to Amplenote are included in automatic backups. Assets are stored in a `media` subdirectory of the main backup directory, with subdirectories corresponding to note identifiers.
@@ -26,6 +28,8 @@ All assets uploaded to Amplenote are included in automatic backups. Assets are s
 | File naming | Note unique identifier | Note title |
 | Vault Notes support | Yes | No |
 
+![Export uses the note title as the first field of the file name](https://images.amplenote.com/fdd718cc-d826-11ef-b630-2badab5b1c7d/52e3835d-1298-41bb-84c9-cf090665934a.png)
+
 The backup system uses unique identifiers rather than titles to "preserve cross-note links" and avoid broken references during note renames.
 
 ## How to get the unique identifier (UUID) for a note
@@ -33,6 +37,10 @@ The backup system uses unique identifiers rather than titles to "preserve cross-
 1. Click the triple dot in the upper-right corner of a note
 2. Choose "View all details" or press Shift-Ctrl-O
 3. View or copy the UUID from the details panel
+
+![Open all details for a note](https://images.amplenote.com/fdd718cc-d826-11ef-b630-2badab5b1c7d/c6e7992d-b443-4ae0-9aba-05f4d4e93bdf.png)
+
+![Grabbing the unique identifier for a note](https://images.amplenote.com/fdd718cc-d826-11ef-b630-2badab5b1c7d/c53ca94d-cc47-4495-96e4-d757b6108bf9.png)
 
 ## How to change automatic backup directory
 

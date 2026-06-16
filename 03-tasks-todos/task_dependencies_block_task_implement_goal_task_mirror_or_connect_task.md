@@ -31,9 +31,21 @@ Task links are created similarly to note links using double brackets (`[[`) or `
 - Using `@-` immediately after the opening character searches tasks across all existing notes
 - Indicating a note name before pressing `-` narrows the search to that specific note
 
+![Calling up the Task Link menu by entering `@-` while in a task](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/20c9387d-083a-465a-b669-69b64d6eed58.png)
+
+![Looking up a task from any note by creating Task Link with `@-`](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/a3fccb08-e1bf-48e2-ab0f-33c1f5f0ed3c.png)
+
+![Creating a new Task Link to a task within the note that begins with 'quarter'](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/6953963a-e204-4f32-8422-9d6278a5cb8e.gif)
+
 ## "Implement Goal Task" Link Details
 
 This link type steers long-term achievers toward tasks implementing their current goals. It works with planning strategies like maintaining "Monthly Plan" or "Quarterly Plan" notes.
+
+![Initiating creation of an Implement Goal Task link](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/f86bcf54-df1d-4a41-bf93-79b9a1c5e417.png)
+
+![Choose the Goal Task being implemented by this Implementation Task](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/1883c393-7ea8-418c-b6a8-c9dd9f049063.png)
+
+![Viewing the created 'Implement Goal' link](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/3ada0ecc-2070-49b4-8f25-dbbbd22f5ee0.png)
 
 **How It Works:**
 Every day you open a note containing an Implementation Task, Amplenote evaluates the Task Score that would be assigned to the Goal Task based on its attributes (Important, Urgent, etc.). This score is split evenly among all Implementation Tasks linking to it.
@@ -51,6 +63,8 @@ Use `!reset` Task Command to zero-out Task Score without hiding the task. It tak
 
 Automatically removes tasks from your todo list until prerequisites are complete. In long-term lists, approximately 25% of tasks sit idle waiting for other tasks to finish.
 
+![Creating a new Block Task link to hide a task until its prerequisite task is complete](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/ce65b009-5c2e-4425-a588-82b8d6d3965f.gif)
+
 **How It Works:**
 Creating a "Block Task" link maintains a connection from the Blocking Task to the Blocked Task. When the Blocking Task is completed, dismissed, or deleted—or when the link is deleted—the Blocked Task unhides from the note's "Hidden Tasks" tab, unless other tasks block it.
 
@@ -63,6 +77,8 @@ Type `!blocked` while in a Blocked Task to trigger a Task Action letting you pic
 ## "Mirror Task" Link Details
 
 Places a copy of the original task into a selected note. Mirror Task links enable evolved task sharing from multiple contexts.
+
+![Creating a Mirror Task link to a new note](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/11dc9a48-f06f-4e18-bd69-954d83a1111d.gif)
 
 **Key Concepts:**
 
@@ -84,9 +100,15 @@ Create Mirror Task links in your daily/weekly plan note to ensure original tasks
 ### Re-syncing Mirrored Tasks
 Mirrored tasks stay in sync for completion or dismissal actions, but can contain different content. Use `/overwrite` command to refresh all task copies to match current content.
 
+![Re-syncing mirrored tasks with the /overwrite command](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/58e051c9-fadc-42e6-ae2d-6bc16e3ce49d.png)
+
 ## "Connect Task" Link Details
 
 Creates vanilla connections between tasks without side effects, useful for remembering related tasks or navigating webs of related tasks. Enables visualization in Graph View (planned for later). Plugins could use this functionality in interesting ways.
+
+![Creating a basic Connect Task link](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/862aa84a-a580-4a4b-add6-763d285cdd11.gif)
+
+![When Task B met Task A](https://images.amplenote.com/4f020c68-b41c-11ef-b4ea-e972ef1cda6a/2a5da9fe-c25d-4735-a1fc-0804763cf8e6.png)
 
 ## Task Links with Recurring Tasks
 

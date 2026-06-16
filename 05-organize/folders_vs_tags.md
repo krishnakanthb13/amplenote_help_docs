@@ -17,6 +17,10 @@ Amplenote addresses folder organization requests from users migrating from Evern
 
 You can create empty tags before adding notes using the plus sign icon next to "Tags." However, the guide recommends applying tags only as needed rather than pre-building comprehensive hierarchies, since circumstances change and advance planning often becomes outdated.
 
+![The plus sign icon next to "Tags" for creating a new empty tag](https://images.amplenote.com/2a8b6a8c-3b92-11ed-9c76-5ac3aea65f93/3aa3d151-6888-4eb5-a2e7-e13d32961833.png)
+
+![The triple-dot menu for managing an existing tag that has no notes](https://images.amplenote.com/2a8b6a8c-3b92-11ed-9c76-5ac3aea65f93/b160878a-a99b-4c88-beee-395802fd4e04.png)
+
 ## Tags vs. folders
 
 Amplenote positions tags as an enhancement over traditional folders because they allow "multiple 'folders' per note" while maintaining optional single-tag usage for those preferring traditional organization.

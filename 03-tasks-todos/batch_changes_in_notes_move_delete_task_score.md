@@ -37,3 +37,11 @@ For notes containing multiple tasks, such as inbox or project notes:
 4. Adjust scores by percentage or specific number increment/decrement
 
 This feature proves useful when project priorities shift, allowing rapid bulk adjustments to task scores.
+
+![Note Options menu showing where to access View all details](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/7c552940-9a11-414c-bed1-ef1d5f1837b8.png)
+
+![Manage tasks link in the Note Details sidebar](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/881789f7-b8bd-4854-8df2-3495d0fdab16.png)
+
+![Submenu for adjusting task scores](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/8c18adb5-c246-4a6d-9bf2-a4bab75f43d1.png)
+
+![Options to increase or decrease scores by percentage or specific number](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/273a7d05-cb08-4de6-90ad-6f2741757247.png)

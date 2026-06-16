@@ -43,16 +43,24 @@ Opening an auto-archived note will automatically remove the `auto-archived` tag.
 
 Using the "More options" menu at the top right of the note, you can choose to add the current note to a list of notes excepted from the auto-archiving rules.
 
+![Preventing an individual note from being auto-archived via the "More options" menu](https://images.amplenote.com/c99b0122-fb71-11ea-a4f3-1a263ad550a8/d392767f-3be7-448f-aa77-ec321da2175c.png)
+
 ### Preventing tags from being auto-archived
 
 It's also possible to prevent auto-archiving for all notes that have a particular tag applied. This can be useful if you have a "projects" tag whose notes may be rarely changed, but the tasks from those notes should still be visible in the calendar drag-and-drop list indefinitely.
 
+![Preventing auto-archive in a tag on mobile](https://images.amplenote.com/c99b0122-fb71-11ea-a4f3-1a263ad550a8/d872c93d-7087-4bcf-b475-7e39a50dfc1f.jpg)
+
 ## Second type of archive: "Archive" option chosen
 
 Under "Note options" → "More options" you can find an explicit link to archive a note.
+
+![The explicit "Archive" option under "Note options" → "More options"](https://images.amplenote.com/c99b0122-fb71-11ea-a4f3-1a263ad550a8/b88107c2-6e55-47d9-90b2-1fd54849e960.png)
 
 ### To un-archive an explicitly archived note
 
 View the archived notes list, or enter `group:archived` into your search box to see a list of all archived notes.
 
 Open the archived note, and within the "Note options" → "More options" menu, select "Unarchive note."
+
+![Selecting "Unarchive note" from the "Note options" → "More options" menu](https://images.amplenote.com/c99b0122-fb71-11ea-a4f3-1a263ad550a8/c3539020-78a9-4525-8a45-8224e2e181c8.png)

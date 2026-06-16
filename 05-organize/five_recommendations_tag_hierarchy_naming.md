@@ -6,6 +6,8 @@
 
 A "tag hierarchy" uses forward slashes to denote nested categories, like `personal/friends`. Unlike traditional directory systems, Amplenote's tag hierarchies allow notes to exist in multiple hierarchies simultaneously, enabling more flexible organization.
 
+![A "tag hierarchy" is a tag whose name contains words separated by the `/`](https://images.amplenote.com/b90019ae-0b9e-11ec-b84f-9664627f7969/65698839-31a8-4292-9354-ed820e917ea4.png)
+
 ## Five recommendations for choosing tag names
 
 ### 1. Don't get fancy
@@ -56,6 +58,8 @@ Ensure second-level tags accumulate at least 5 notes yearly. Small note collecti
 - Use tags that inspire exploration and creativity
 - Consider what unexplored content areas interest you
 
+![Example of a second-level tag situation serving a contextual purpose](https://images.amplenote.com/b90019ae-0b9e-11ec-b84f-9664627f7969/9ea39acb-1e4f-4acc-8f77-b1380b8cbed8.png)
+
 ### 5. Third-level when you need to go deep
 
 Third-level tags work best for task-focused hierarchies and specialized domains. Examples include `todo/personal/chore`, `dissertation/chapter-1/example`, and `uw/cse/143`.
@@ -68,3 +72,5 @@ Third-level tags work best for task-focused hierarchies and specialized domains.
 ## Evolving your tag hierarchy
 
 Amplenote supports easy tag restructuring: renaming, merging, and deleting hierarchies without removing associated notes. Review your tags quarterly, removing those with fewer than three notes after several months of use.
+
+![Example hierarchy with tags highlighted as candidates for removal or merging](https://images.amplenote.com/ae58d9d4-0c3c-11ec-92b3-427796570f24/ea7fdafa-2545-44ff-8edd-ec193236f815.jpg)

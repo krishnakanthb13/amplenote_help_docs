@@ -10,7 +10,15 @@
 
 **Note UUID** = the internal identifier of a note inside your notebook; inside the URL of a note, the UUID lies after `amplenote.com/notes` and before any `?` sign
 
+![The note UUID location within a note URL](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/d88ad53e-61be-40bb-a801-2a347e989a7a.png)
+
+![Example of the UUID inside a note URL](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/855dde23-5e74-442b-8e39-5b0412862ce5.png)
+
 **Public note token** = the external (public) identifier of a published note
+
+![The Publish note menu location](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/b845925e-baba-4de8-9368-ecede6baf678.png)
+
+![A public URL showing the public note token](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/27268c8d-09c9-4b6e-86fc-cb1ad7dbfc89.png)
 
 Note templates in Amplenote enable you to quickly create repetitive scenarios and duplicate the content of other notes. You can also share your templates with the web by using "new note links."
 
@@ -28,6 +36,8 @@ an "at" sign followed by an "equal" sign to start searching for the name of your
 
 `@=` is just one of many ways to use note linking capabilities in Amplenote. Check out: Note linking guide (at @ and double-bracket `[[` notation)#Inserting a section of another note.
 
+![Using @= to search for a template to insert into an existing note](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/ee366345-5e28-47c0-ad47-27b190134bef.gif)
+
 ## Creating a new note from a template
 
 As an alternative, you can also create a note from a certain template note. Given an existing note that serves as your template:
@@ -38,6 +48,8 @@ As an alternative, you can also create a note from a certain template note. Give
 Now, when you type the name of the template in Quick Open (which you can access with `Ctrl-O` or `Cmd-O`), you will see an option to create a new note based on your template.
 
 _When a note starts with the word "Template:" and has been locked (Triple dot -> More Options -> Lock Note), you'll be given an option from the Quick Open menu to create a copy of it_
+
+![When a note starts with "Template:" and has been locked, you'll get an option from the Quick Open menu to create a copy](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/feb82183-3ae1-430d-935b-02bc070400a4.png)
 
 Clicking on that second option will open a new note where you can change the title to include today's date.
 
@@ -58,6 +70,8 @@ https://www.amplenote.com/notes/new?source=ABC123&name=Bonanza%20Employee%20Revi
 ```
 
 Notice how links that will create a new note use a different Rich Footnote icon than a vanilla link would use.
+
+![Setting up a new note link that creates a note from a template](https://images.amplenote.com/c63ceccc-a77c-11eb-a9f9-a6eb822d2f8a/9e02b261-441b-47fa-8a5e-a4fee0e839c0.gif)
 
 ## Sharing note templates
 

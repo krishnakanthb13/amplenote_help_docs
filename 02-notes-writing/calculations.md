@@ -56,3 +56,5 @@ These expressions are used for task recurrence, not within curly brackets:
 ## Table of contents
 
 Paid subscribers can insert `{toc}` to generate a hierarchical list of note sections that can include Rich Footnotes.
+
+![Inserting a table of contents with {toc}](https://images.amplenote.com/9a63bbb2-e0cf-11eb-ba01-ae352afdb901/a7c32150-fb47-4312-92a7-386f3a6c1043.gif)

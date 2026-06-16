@@ -10,6 +10,8 @@ Multiple methods exist for creating notes in Amplenote.
 
 After logging in, users can click the "New note" button in the top right corner. This switches from Jots mode to Notes mode and opens a blank note for editing. Using `Ctrl-Click` or `Cmd-Click` opens the note in Peek Viewer instead.
 
+![The "New note" button in the top right corner](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/d88588d3-4578-45f4-9155-ec9d57ceb45a.png)
+
 ### Create a note with the note hotkey
 
 - macOS: `Cmd-Alt-N` or `Cmd-Option-N`
@@ -50,6 +52,8 @@ A dedicated help page covers multiple template options for note creation.
 
 The mobile app includes a note creation button on the right side of the Quick Task menu.
 
+![The note creation button on the mobile quick todo bar](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/bdb6454e-6c8e-462e-ad3f-31047d6cd805.jpg)
+
 ### Transferring tags to new notes & auto-tagging
 
 Details appear in "Control auto-tagging of newly linked notes".
@@ -65,6 +69,10 @@ A dedicated page covers formatting and layout: "Note content formatting and page
 ## What other note settings are there?
 
 Click the triple-dot icon on the right side of the note header to access individual note settings. Additional options appear under "More options."
+
+![Accessing individual note settings from the triple-dot icon](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/3f420ac4-4c22-4e84-a45a-ff047027269c.png)
+
+![The "More options" menu of less-frequently used note settings](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/d6e82069-3b4b-4932-89b7-f9149bc49309.png)
 
 Most settings can be activated for multiple notes simultaneously. See "Multi-note selections and bulk actions".
 
@@ -87,6 +95,8 @@ Details in dedicated article: "Note version revision history".
 ### Duplicate Note
 
 Creates a new note with identical content. Users specify a new title during duplication. Non-secure notes can share with original note recipients. Related: "Using note templates to quickly create notes with structure".
+
+![Duplicating a note to create a copy with identical content](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/837811f1-4e68-48b1-bd68-05d1d5e28526.png)
 
 ### Download Note
 
@@ -112,9 +122,13 @@ Archiving hides notes from the list without deletion. Notes remain searchable an
 
 Removes notes from the account. Shared notes remain in other users' accounts unless the share is removed first. Amplenote retains deleted notes for 30 days before permanent deletion. See "Tag moving, renaming, deleting and merging" for bulk deletion.
 
+![Deleting a note from the account](https://images.amplenote.com/0bbee202-0327-11e9-b258-7a639e48bef6/912e0b8c-31a6-41ee-b438-36315dda9170)
+
 ### Restore a deleted note
 
 Use the "Deleted Notes filter" or the dedicated button at the bottom of the tag sidebar. Click `Restore` within a note to prevent permanent deletion.
+
+![Restoring a deleted note before permanent deletion](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/a486f476-8794-45d9-8f10-1a935e713d65.gif)
 
 ### Mail-to-note usage and options
 

@@ -10,6 +10,8 @@ To create an Amplenote plugin, you need a note containing two components: a meta
 
 The metadata table requires at least two columns: setting name and setting value. All entries are interpreted as strings, and setting names are case-insensitive.
 
+![Example plugin metadata table](https://images.amplenote.com/2ae961e0-bc5d-11ed-808b-e21efa2d8566/c7582134-fdf7-431e-9f7d-85d8f73c01dd.png)
+
 ### Required Setting
 
 **name** — The only mandatory field. This name appears when users invoke the plugin and serves as a prefix for multiple options.

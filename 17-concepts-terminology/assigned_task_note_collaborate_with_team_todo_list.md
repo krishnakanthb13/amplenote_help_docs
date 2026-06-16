@@ -14,6 +14,8 @@ The primary benefit involves leveraging existing Task Pane filters to distinguis
 
 By default, the Tasks pane displays only tasks within notes you authored. However, an Assigned Tasks Note need not be one-to-one. You could create "Bill's Tasks from Project Eagle" and share it with all collaborators on that project, allowing easy filtering of incoming versus self-created tasks.
 
+![Filtering an Assigned Tasks Note in the Tasks pane](https://images.amplenote.com/d020f89e-80e2-11ef-9ce2-ceeb1c0a5b1e/80bf1219-5a94-4b72-9b5a-3a7a7d907ece.png)
+
 ---
 
 **Resources mentioned:**

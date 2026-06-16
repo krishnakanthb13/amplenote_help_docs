@@ -10,6 +10,10 @@ Do you have one-off markdown files that you want to incorporate into your note t
 
 Amplenote makes it easy to incorporate any markdown-flavored content, including cross-linked notes, images and formatting.
 
+![Amplenote markdown import interface](https://images.amplenote.com/559ee504-9387-11ec-8702-1a40fa241576/6963d904-c41e-48c1-a4d9-236bae03cb95.png)
+
+![The Import Markdown button in the upper right of the Import & Export page](https://images.amplenote.com/559ee504-9387-11ec-8702-1a40fa241576/e4d0655b-d7da-49d2-a3d1-0d84a8b3c9bf.png)
+
 *[Screenshot showing Amplenote import interface — Settings > Import > Import Markdown button in upper right]*
 
 From this page, you pick your markdown or zip file, click "Start import," and we'll show you a progress bar so you can decide whether to stick around and wait for the import, or whether to switch to another task.

@@ -16,6 +16,8 @@ Assuming you do not log out, this Service Worker should remain cached indefinite
 
 If you're offline, the sync icon for your note will change to orange, as well as the status icon in the top bar of the app.
 
+![A user who is currently disconnected from wifi will see a status icon like the one pictured](https://images.amplenote.com/9be4660e-3994-11eb-ad2d-ae6cdc088504/4927f6bd-b5ed-4435-9225-e3d7363dd926.png)
+
 ## What content can be opened?
 
 Anything that has been previously downloaded. When you first log in to Amplenote on a new device, we begin downloading and caching your existing notes list. When notes have not yet been cached, they have an icon that points down next to the note title, and no note content preview. Once you can see a note's preview, you can open and edit it offline.
@@ -59,3 +61,13 @@ The icon near the top right of the screen indicates Amplenote's current sync sta
 | Circular arrows with refresh | Refreshing note. Amplenote is comparing your note in the app to the content in the server, and merging the two. |
 | Orange exclamation | Amplenote is not able to access your content in the server. Typically, this indicates you are not connected to the internet. |
 | Orange triangle | You have made changes to your note(s) since Amplenote was last able to access the server. Amplenote will merge these changes with the server as soon as you reconnect to the internet. |
+
+![Sync complete. Your note is up to date across all your devices.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/9afa8a82-566e-4571-b812-65f8ce780baf)
+
+![Syncing in progress.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/b63f095d-cb4d-4bd9-832e-7b2f8af87b2a)
+
+![Refreshing note. Amplenote is comparing your note in the app to the content in the server.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/8d9c5374-9ed7-4c3a-b224-0359b55eea20)
+
+![Amplenote is not able to access your content in the server.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/59f1e778-6375-4894-be25-6be88b79b9e0)
+
+![You have made changes to your note(s) since Amplenote was last able to access the server.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/7266f7c2-d4d6-4990-a0a7-b88729890fb4)

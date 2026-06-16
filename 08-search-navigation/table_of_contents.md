@@ -87,4 +87,6 @@ Examples: `{1+1}`, `{pi*10**2}`, `{(1+1)*(12/36)}`
 
 Paying subscribers can insert a table of contents using `{toc}`, which generates a hierarchical list of all sections within a note.
 
+![Inserting a table of contents with the {toc} syntax](https://images.amplenote.com/9a63bbb2-e0cf-11eb-ba01-ae352afdb901/a7c32150-fb47-4312-92a7-386f3a6c1043.gif)
+
 **Note:** Changing note headings requires manual regeneration of the table of contents. Automatic updating is planned for future versions.

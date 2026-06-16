@@ -10,6 +10,8 @@ Amplenote can function as a Personal CRM system for maintaining connections with
 
 Productivity expert Shu Omi provides guidance on using tags to organize contacts from different areas of life. The tutorial demonstrates how to structure and categorize your personal network.
 
+![Shu showcasing one possible organization system for remembering personal contacts](https://images.amplenote.com/8b472584-c6ed-11eb-9663-7efd079009b0/fa48df4a-6e70-4d4e-8031-18430d9aa92d.png)
+
 ## Key recommendations:
 
 - Consider prefacing people's names with `@` for quick browsing through your contact list using the "Quick Open" navigation feature

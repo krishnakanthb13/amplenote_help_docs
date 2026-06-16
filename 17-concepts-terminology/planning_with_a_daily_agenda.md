@@ -17,6 +17,12 @@ The Daily Agenda excels when pre-scheduled tasks prove impractical to complete. 
 
 The Daily Agenda operates with "a much lighter touch than the calendar." Incomplete items don't generate reminders on subsequent days, offering flexibility for dynamic schedules.
 
+![One example of a Daily Agenda shown at right, in the Peek Viewer sidebar](https://images.amplenote.com/fffc3332-00a3-11ee-99dd-0616632fade1/e26f5fe4-9444-475c-a780-1251558a85fe.png)
+
+![The portion of the day that was pre-scheduled](https://images.amplenote.com/fffc3332-00a3-11ee-99dd-0616632fade1/b96b4aaf-ffff-4c1a-96be-3fb32265c1c8.png)
+
+![Updated list of aspirations](https://images.amplenote.com/fffc3332-00a3-11ee-99dd-0616632fade1/6b3c1da9-4cad-457a-9872-1e987fcd82df.png)
+
 ## Creating a Daily Agenda
 
 While [creating and copying a template](https://www.amplenote.com/help/using_note_templates) is technically optimal, users can simply update the previous day's version. The approach emphasizes function over form: "There is no process nor glory in the Daily Agenda."

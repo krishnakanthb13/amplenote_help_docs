@@ -16,9 +16,13 @@ Press `Shift`-`Ctrl`-`Space` to cross out a task. This extends the standard task
 
 Access your profile icon and select "Account Settings," then the "Appearance" tab to modify the default task completion behavior globally on desktop. On mobile, tap the profile icon, choose "Settings," and adjust "Default Task Completion Mode" under the Appearance section.
 
+![Changing global default task completion](https://image.gitclear.com/822eb8aa-6780-488f-8edf-8d16802a3cea-CleanShot_2025_04_03_at_21_18_43_2x_png)
+
 ### 3. Use the slash menu's `/cross` command
 
 Type `/cr` to trigger the task action for completing a task inline, available on both mobile and desktop platforms.
+
+![Using the slash menu's /cross command to cross out a task](https://images.amplenote.com/3ff58b60-115b-11ee-a1a7-227f57ad30a8/ecb9fa6d-8c99-4b4d-ad50-ca667b638141.png)
 
 ### 4. Hold shift while clicking the checkbox
 
@@ -36,6 +40,8 @@ Open Task Details and select the "Cross out task" button. This method works acro
 
 Swipe left on mobile to reveal options for crossing out or dismissing a task.
 
+![Swiping a task to cross it out on mobile](https://images.amplenote.com/468d9ab8-12c6-11ef-a054-9a665e06d35f/4e84a8fe-2d22-41be-80bd-105fb69b530f.gif)
+
 ## Important notes
 
 When crossing out a task, "any task properties will be lost by performing this operation." Recurring tasks function similarly to completion or dismissal—a new task generates for the next occurrence.
@@ -43,3 +49,5 @@ When crossing out a task, "any task properties will be lost by performing this o
 ## Configure a note to cross out tasks by default on completion
 
 Navigate to the note menu via "Triple-dot" → "More Options..." → "Manage Tasks" to enable automatic strikethrough on task completion for that specific note. This setting must be configured independently for each note.
+
+![By default, all tasks completed in this note will be crossed-out, left inline](https://images.amplenote.com/3ff58b60-115b-11ee-a1a7-227f57ad30a8/1c82fad9-3481-4fc5-91f8-d3e571772f24.png)

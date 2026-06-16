@@ -25,6 +25,10 @@ Two primary methods exist:
 
 Tasks created this way appear in Tasks View Mode with whatever tags are assigned to the note or jot.
 
+![Creating a new task by typing brackets, followed by a space. Then check it to mark as complete](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/0a9325a9-0b09-4de5-97a5-de3009b27922.gif)
+
+![Tapping the checkbox icon will create a new task on either desktop or mobile](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d0b34abb-20e8-4e8a-ab60-bb028b87d75b.gif)
+
 ### Create a Task from Mobile Quick Task Bar
 
 See the dedicated help page on iOS & Android Quick Task Bar.
@@ -83,6 +87,8 @@ Use **Rich Footnotes and content previews** to add details beyond words. Rich Fo
 
 Example: "This task references an image, video, text, a link plus a combination thereof."
 
+![Rich Footnote with an image example](https://images.amplenote.com/0bbee202-0327-11e9-b258-7a639e48bef6/4363d48b-4c60-41c4-ac01-0b3a8816de8a.png)
+
 New content types are constantly added to Rich Footnotes. Visit the Rich Footnotes help page for the complete list.
 
 ---
@@ -96,6 +102,8 @@ Learn about recurring tasks on its dedicated help page.
 ## How Do I Use Task Details?
 
 Expand the task bar using the expand icon on the right, or use the hotkey to access Task Details options.
+
+![Using Task Details](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/d10445f8-1b04-494f-9d8d-a35c901be3bc.png)
 
 ### Set a "Start Time" (aka "Due Date")
 
@@ -114,6 +122,8 @@ Based on the Eisenhower Method (Covey Quadrants):
 **Important tasks:** Align with existing long-term or short-term goals. 🌈
 
 A more successful and productive life results from minimizing Urgent tasks and maximizing Important ones.
+
+![Setting whether a task is urgent or important](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/f6e4730b-5f8e-4133-8268-7fd66fb6ce77.png)
 
 Set urgency and importance using task commands from the keyboard-driven Task Commands Menu.
 
@@ -135,6 +145,8 @@ Click the number in the Task Score area and enter a new score. Other options:
 - Reset the score of a task
 - Increase the score of a task to maximum
 - Batch-edit task scores in a note
+
+![Editing the Task Score](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/22869c94-3a6d-4c10-935d-7e6867369c8d.png)
 
 ---
 
@@ -173,6 +185,8 @@ Completed tasks move to the bottom in the `Completed` tab with a productivity gr
 
 In the `Completed` tab, use drag-and-drop to move a task's completion date to another day.
 
+![In the `Completed` tab of a note, use drag-and-drop to move a task's completion date to another day.](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d2503bb-02c2-4261-b225-09dcb6476f76.gif)
+
 ### ✏️ Dismissing Tasks
 
 Tasks can be **dismissed for half the accumulated score**. Consider dismissing when:
@@ -182,6 +196,8 @@ Tasks can be **dismissed for half the accumulated score**. Consider dismissing w
 - Circumstances made it unnecessary
 
 Dismissing a recurring task preserves the next occurrence. See the keyboard shortcut for dismissing tasks.
+
+![Dismissing a task](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/2d734b3d-8b53-4e0d-8d9d-104c030d08c8.png)
 
 ### ☑️ Crossing Out Tasks
 
@@ -194,3 +210,5 @@ Remove items entirely by:
 1. Clicking the line and pressing Delete or Backspace
 2. Expanding task details and using the Delete option
 3. Using the task command menu delete function
+
+![Deleting a task](https://images.amplenote.com/a87fe9b8-03d3-11e9-8493-fed38e33333f/3193b6ee-7a98-46cf-a05b-aa743107da02)

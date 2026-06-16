@@ -25,6 +25,10 @@ This tool helps users find historical notes on specific topics. Access it via `/
 
 **Example:** A note titled "Christmas 2027" becomes discoverable when searching "Gift ideas."
 
+![Options to control which notes are returned by search](https://images.amplenote.com/2ad443c6-d311-11ed-86b6-ae0a3a93a150/ee0c9001-a9e2-4bca-92c9-1a2419c04678.png)
+
+![Perusing notes most relevant to the query, though few include the original query in them](https://images.amplenote.com/2ad443c6-d311-11ed-86b6-ae0a3a93a150/037e8703-f1d3-4c29-ac71-a3abd459b73e.png)
+
 ---
 
 ## App Option (Slash menu or Quick Open) Features
@@ -38,6 +42,8 @@ Accessible by typing `/` followed by the command or using Quick Open:
 - **Show AI Usage by Model**: View LLM usage statistics since last restart
 - **Look up available Ollama models**: Verify Ollama installation and availability
 
+![Question and answer feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/016e6e31-a256-4109-ad5b-aff3b622e3e2.jpg)
+
 ---
 
 ## Text Selection Features
@@ -50,6 +56,8 @@ Select text and choose options from the rightmost toolbar icon:
 - **Revise**: Suggestions for text improvement
 - **Rhymes with**: Find 10 words that rhyme with selection
 
+![Text selection feature options](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/53eb85c9-e7d3-4a7f-92e3-b68fa595113c.png)
+
 ---
 
 ## Note option features
@@ -59,6 +67,10 @@ Available from the triple-dot menu when a note is open:
 - **Sort groceries**: Arrange grocery items by store aisle
 - **Revise**: Suggest note improvements
 - **Summarize**: Condense note content
+
+![Sort groceries demo](https://images.amplenote.com/f8671754-e091-11ed-83b5-a2c43e1aef0c/76aec2a1-6d95-4c85-8139-c6ae8996514c.gif)
+
+![Summarize feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/0d91610f-b58c-4f6d-9de1-b0c59a898f6c.jpg)
 
 ---
 
@@ -71,6 +83,12 @@ Triggered by entering `{` followed by commands:
 - **Image from preceding**: Generate DALL-E images from preceding text
 - **Image from prompt**: Create images from user-entered prompts
 - **Suggest tasks**: Recommend tasks based on note title/content
+
+![Continue feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/adb11c01-6f67-48a9-91a2-719d4f03f854.png)
+
+![Image from preceding feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/0372bf67-ed76-4cd5-9862-3f7d178463c3.png)
+
+![Suggest tasks feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/60aa8016-aa7a-461b-bdc4-e0183bcb55c1.png)
 
 ---
 

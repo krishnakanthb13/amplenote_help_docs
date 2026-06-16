@@ -20,6 +20,8 @@ To export your whole workspace:
 2. Choose "Settings" under "Workspace"
 3. Scroll down and choose "Export all workspace content"
 
+![Exporting all workspace content in Notion](https://images.amplenote.com/ac237250-b212-11ed-9c4d-3ac2ea44f0fb/1c70c833-c4f6-42a7-a7f5-60069ec96744.png)
+
 *[Screenshot showing the export workspace content option]*
 
 To export a single page:
@@ -29,6 +31,8 @@ To export a single page:
 3. Choose "Export"
 
 In the export menu you will need to change the Export Format to "CSV and Markdown" for you to be able to import your pages into Amplenote.
+
+![Changing the export format to "CSV and Markdown"](https://images.amplenote.com/ac237250-b212-11ed-9c4d-3ac2ea44f0fb/30d3101e-a953-4f0d-919d-9f504fb05ce2.png)
 
 *[Screenshot showing the export format selection menu]*
 

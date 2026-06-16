@@ -38,6 +38,8 @@ And perhaps most importantly...
 
 While the impotence of todo lists is problematic, there's enough blame left over to share some with the user. The most common problem with todo list users? Our ongoing refusal to pick apart what is "important" or "urgent" from what is merely "recent." Many todo list apps offer a single "Starred" or "Priority" designation for tasks that conflates the three concepts, making things worse. This matters when considering how a classic todo list accumulates garbage over time.
 
+![Classic to-do lists shuffle older tasks to the bottom, where they have little hope of getting attention and lead to feelings of overwhelm](https://images.amplenote.com/96c65ff2-98c1-11ea-8cbd-ba8f9d97df1f/9a9c1405-2ff1-4092-93b8-b124ac1c4572.png)
+
 _Classic to-do lists shuffle older tasks to the bottom, where they have little hope of getting attention and lead to feelings of overwhelm_
 
 The promise of a todo list is that it will tame the overstimulated world modern humans navigate. Yet, the more a todo list is used, the more exhausting it becomes. Consider the visualization above: which of the gray shaded tasks are the best prospect during Week N? Without a compass to guide focus, the oldest tasks sink to the bottom, making it ever-more unpleasant to visit the nether regions of your todo list.
@@ -62,6 +64,8 @@ Future You is capable of great things if given the chance! They are a chronicall
 
 To benefit from the splendors of Future You requires establishing a channel of communication between your present & future self. That "channel of communication" is an organized todo list. As with the depiction above, we see new tasks being added each week, mingling with the preexisting tasks. But this time, the user has been kind enough to Future Them to ascribe more detail about each task as it's added. Given these details, a better todo list can steer tasks into or out of the user's attention as weeks pass:
 
+![Tasks marked as "Urgent," "Important" or "Quick" automatically shifted to the top of the tasks Amplenote will show. Other tasks can be quickly dismissed.](https://images.amplenote.com/96c65ff2-98c1-11ea-8cbd-ba8f9d97df1f/78ddaf76-99bc-45b6-9be5-4a45aec46956.png)
+
 _Tasks marked as "Urgent," "Important" or "Quick" automatically shifted to the top of the tasks Amplenote will show. Other tasks can be quickly dismissed._
 
 You can keep a long todo list, but we recommend instead a list where it's easy to snooze or trash tasks. You want to keep your list as tight as possible. When you let a new task linger on your list for a week or two before taking it up, you open a portal to receive the assistance of Future You.
@@ -73,6 +77,8 @@ If you're a creative person with lots of ideas, Future You is a ready & willing 
 ## Expert's corner: escaping from the tyranny of urgency
 
 So far we've proposed a system that can help a user lift themselves out from a recency-based mindset. That's a great first step! The natural power-up goal is to become "more free," aka "less driven by urgent tasks." In an article called "The Procrastination Matrix," Tim Urban (waitbutwhy) proposes a simple method to interpret what should happen to important, urgent, and other tasks:
+
+![The Eisenhower Matrix is a lens through which to choose prospective tasks](https://images.amplenote.com/96c65ff2-98c1-11ea-8cbd-ba8f9d97df1f/bc2d3346-3042-4e6a-a021-7f226dec3049.png)
 
 _The Eisenhower Matrix is a lens through which to choose prospective tasks_
 
@@ -94,11 +100,15 @@ While the Eisenhower Matrix isn't fit for consumption out of the box, it's a wel
 
 ## How Amplenote helps
 
+![Every Amplenote task has one-click access to be snoozed or dismissed](https://images.amplenote.com/96c65ff2-98c1-11ea-8cbd-ba8f9d97df1f/79dbfe83-9b87-4ab2-95f3-53366d51463d.png)
+
 _Every Amplenote task has one-click access to be snoozed or dismissed_
 
 For those who seek help escaping a recency- or urgency-driven life, Amplenote warrants consideration. We provide a mini-Eisenhower Matrix baked into every task you create. It gently surfaces the most relevant tasks as time passes. We also provide the means to estimate the task's time (i.e., its cost), so your list doesn't grow cluttered with trifling affairs. Finally, we integrate with both Google Calendar and Outlook, so when you're ready to set a starting time for your task, you can schedule it from within your note. Soon, we'll allow fully synced drag-and-drop task scheduling between your note(s) and calendar(s).
 
 "Task Score" is the unit that we use to make sense of complex, overlapping opportunities that might span multiple to-do lists. Each task can have different properties assigned, which cause Task Score to accumulate at varying rates, so Future You sees the most relevant tasks first:
+
+![The rate at which a task accumulates Task Score depends on its Task Context properties](https://images.amplenote.com/54c689a2-7cec-11e9-8774-721ce4efdd97/879ae7ca-c665-47d4-b7a4-5466b0b63b11.png)
 
 _The rate at which a task accumulates Task Score depends on its Task Context properties_
 

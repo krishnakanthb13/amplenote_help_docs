@@ -25,3 +25,5 @@ To access Task Details, users can:
 - Click the expander on the right edge of any task
 
 The interface includes a hover feature displaying the link back to the source note.
+
+![Hovering on a link back to the note](https://images.amplenote.com/1212f0d2-e0e0-11eb-a41f-9e18638fc16f/7ae8198e-fdd2-4f79-a7fd-f5493b88b0f4.png)

@@ -26,6 +26,8 @@ The team indicates they plan to expand this offerings throughout 2025 and welcom
 
 **Daily coin redemption:** Visiting the Amplenote Social home page allows users to "earn 10 coins" daily, with variation by account level (5 for Personal, 20 for Founders).
 
+![Redeeming daily coins for Founder-level subscriber](https://images.amplenote.com/c608e496-c874-11ef-b1df-af034016e911/7436ed48-0d49-4926-a987-4fc32c9012f9.gif)
+
 **Accountability Goal follow-through:** Users may wager up to 100 coins per goal and receive "a 20% 'interest' payment on the amount you wagered" monthly if completed on schedule. Incomplete goals result in forfeited coins.
 
 **Subscriber appreciation reactions:** Positive reactions from Unlimited or Founder subscribers on forum posts or goal updates award 5-10 coins per upvote.

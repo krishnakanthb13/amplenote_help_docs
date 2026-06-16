@@ -14,6 +14,8 @@ Since 2024, users with pro-level subscriptions or higher can download dedicated 
 
 After downloading the executor file, run it and Amplenote will automatically install.
 
+![Download buttons for OS-specific desktop versions](https://images.amplenote.com/8813fbca-1434-11ef-99ae-9a665e06d35f/8b5aed6f-1170-485a-9d69-2c89fd28176b.png)
+
 ## Installing the PWA on Windows, macOS, or Linux
 
 The Progressive Web App installs through **Chrome** or **Brave** after logging in. Click the install prompt that appears in the browser interface.
@@ -22,6 +24,14 @@ After installation:
 - The app becomes searchable via OS Spotlight
 - A desktop icon appears (can be pinned to macOS dock)
 - Browser requests permission to store data — accept this for proper functionality
+
+![Link to install Amplenote. Note that this option becomes available after logging in to the app in Chrome or Brave.](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/b54991ae-26d1-4e39-a57c-72700b62cb0b.png)
+
+![Amplenote PWA installation dialog](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/5f64610e-9315-4c47-b660-f5eba564572d.png)
+
+![Amplenote available via OS Spotlight search](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/e3605b8d-eefc-4ffc-af57-63f8fe7431a4.png)
+
+![Amplenote icon pinned to the macOS dock](https://images.amplenote.com/744a092c-0490-11e9-8157-5261ad5891d7/77001d71-1b8c-48ee-8b67-3e3c706985d8.png)
 
 ## Permitting Storage Access
 
@@ -48,6 +58,8 @@ If the app opens as a browser tab instead of a separate window:
 
 This feature allows running multiple Amplenote windows simultaneously (calendar plus notes, for example). Use `Ctrl + Page Up/Down` to switch between tabs.
 
+![Multiple PWA windows with calendar and note tabs open](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/73ebaa73-6fe4-43e5-aa29-5a9bfc38e0aa.png)
+
 ### Enable Tabbed Windows
 
 1. Type `chrome://flags` in the address bar
@@ -56,13 +68,25 @@ This feature allows running multiple Amplenote windows simultaneously (calendar 
 4. Recreate the PWA shortcut: Navigate to amplenote.com → hamburger menu → More tools → Create shortcut
 5. Select "Open as tabbed window" and confirm
 
+![chrome://flags settings showing tabbed window options](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/ea75e1c1-cd4e-4f21-aa88-6020d7a13dc4.png)
+
+![Chrome menu with "More tools" and "Create shortcut" options](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/266859b3-8a43-4c3d-a652-a1516b825f54.png)
+
+![Dialog showing the "Open as tabbed window" option](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/68d047ec-9764-427d-a776-2fc1f60cfe57.png)
+
+![Example of the final tabbed window configuration](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/a84f9d03-0413-486d-894e-5aa5635c2efb.png)
+
 ### Tab Groups
 
 Use Chrome's tab grouping feature to visually organize calendars and note tabs with different colors and labels.
 
+![Tab groups: a white-themed calendar group on the left and a blue group of note tabs on the right](https://images.amplenote.com/d1cc0fce-469a-11ec-9b41-22ee4977f22c/0e7d8ff1-7427-4687-993b-8d5b13897cf5.png)
+
 ## Updating Amplenote
 
 Updates download automatically, but require app restart to apply. An icon appears in the top right corner when updates are available.
+
+![Icon that appears anytime a new update is available](https://images.amplenote.com/8813fbca-1434-11ef-99ae-9a665e06d35f/b2a54fdc-a2df-4377-b92f-b7b3f552d81a.png)
 
 ---
 

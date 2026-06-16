@@ -60,6 +60,10 @@ Represents note chunks divided by headings and horizontal rules:
 - `heading`: Null or object with `anchor`, `href`, `level` (integer), and `text`
 - `index`: Integer for distinguishing duplicate heading sections
 
+![Note with one initial section and a Heading 1 section](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/c553df7f-08ca-47f9-b2cd-dce6dc48668c.png)
+
+![Note with multiple sections separated by horizontal rules and heading levels](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/c4d34ddd-25b8-4e40-9ac4-0a698742f8dd.png)
+
 ### tag
 User account tags containing:
 - `color`: Hex color string without "#" prefix

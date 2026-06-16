@@ -14,6 +14,8 @@ AmpleAI is an AI plugin for Amplenote that provides access to multiple LLM provi
 - **Converse/Chat**: Back-and-forth conversations with context memory
 - **Provider Management**: Switch between favorite AI models
 
+![Question and answer feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/016e6e31-a256-4109-ad5b-aff3b622e3e2.jpg)
+
 ### Selected Text Features
 - **Thesaurus**: Get 10 contextual synonym suggestions
 - **Answer Question**: AI answers highlighted questions
@@ -21,16 +23,34 @@ AmpleAI is an AI plugin for Amplenote that provides access to multiple LLM provi
 - **Revise**: Request improvement suggestions
 - **Rhymes With**: Find 10 rhyming words
 
+![Selected text toolbar options](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/53eb85c9-e7d3-4a7f-92e3-b68fa595113c.png)
+
+![Thesaurus feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/847c257f-1954-454f-8b78-41ce7e1b6927.png)
+
+![Revise feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/fb6395c8-eca2-4c8d-b6a2-7bcabc0d14fd.jpg)
+
+![Rhymes with feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/79cb5b01-6516-4c72-bb85-c6b0095b33eb.png)
+
 ### Note Option Features
 - **Sort Groceries**: Organize grocery lists by store aisle
 - **Revise**: Suggest improvements for entire note
 - **Summarize**: Create note summaries
+
+![Sort groceries demo](https://images.amplenote.com/f8671754-e091-11ed-83b5-a2c43e1aef0c/76aec2a1-6d95-4c85-8139-c6ae8996514c.gif)
+
+![Summarize feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/0d91610f-b58c-4f6d-9de1-b0c59a898f6c.jpg)
 
 ### Evaluation/Insert Text Features
 - **Complete**: Finish thoughts from preceding text
 - **Continue**: Continue in similar style
 - **Image Generation**: Create images from prompts
 - **Suggest Tasks**: Generate relevant task suggestions
+
+![Continue feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/adb11c01-6f67-48a9-91a2-719d4f03f854.png)
+
+![Image from preceding feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/0372bf67-ed76-4cd5-9862-3f7d178463c3.png)
+
+![Suggest tasks feature](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/60aa8016-aa7a-461b-bdc4-e0183bcb55c1.png)
 
 ## Configuration
 

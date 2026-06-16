@@ -8,6 +8,8 @@
 
 Amplenote offers 3 subscription levels: Basic, Pro and Founder.
 
+![Amplenote subscription plans comparison](https://images.amplenote.com/aa40ff3e-030c-11e9-8d9b-fa2e15571acc/1299b3d5-7797-48aa-a930-534f2e63aac6)
+
 #### Basic
 
 **Who is it for?**
@@ -86,6 +88,8 @@ The Founder plan includes all the features associated with the Pro plan, plus:
 
 Choose your preferred plan from the Amplenote Plans & Pricing page. On the checkout page, enter your credit or debit card information and choose from the annual or monthly billing options. The total amount due displays before you complete the purchase. Once payment is submitted, you can start taking notes and creating to-dos.
 
+![Amplenote checkout and payment page](https://images.amplenote.com/aa40ff3e-030c-11e9-8d9b-fa2e15571acc/6f9002cd-76a7-4539-a9cf-13665234b45c)
+
 ---
 
 ## How will I be billed for my plan?
@@ -100,6 +104,8 @@ Choose your preferred plan from the Amplenote Plans & Pricing page. On the check
 
 You can change your plan anytime through your account settings under the "Plan & Payments" tab to compare options. Upgrading applies instantly at a pro-rated price. To downgrade or switch billing cycles, contact support@amplenote.com.
 
+![Account Settings Plan & Payments page](https://images.amplenote.com/aa40ff3e-030c-11e9-8d9b-fa2e15571acc/480906ef-961f-441a-8fdc-af9f47c835c6)
+
 Your "Account Settings > Plan & Payments" page displays:
 
 - Selected subscription plan
@@ -113,6 +119,8 @@ Your "Account Settings > Plan & Payments" page displays:
 ## How do I cancel my plan?
 
 "You can cancel your subscription anytime from the Settings > Plan & Payments > Cancel page. When you cancel, your plan expires at the end the current billing cycle."
+
+![Canceling an Amplenote subscription](https://images.amplenote.com/aa40ff3e-030c-11e9-8d9b-fa2e15571acc/2e34ae13-7455-42b5-9170-8200df165a20)
 
 With monthly subscriptions, the plan remains active until the end of that billing period with no additional charges. Annual subscriptions expire at the end of the year with no further billing.
 

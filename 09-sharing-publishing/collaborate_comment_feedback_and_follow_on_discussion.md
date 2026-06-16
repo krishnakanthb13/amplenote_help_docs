@@ -14,6 +14,8 @@ The article addresses a common collaboration need: providing detailed feedback o
 
 Download Amplecap, a browser extension available for Chrome and Firefox. While technically optional, the tool simplifies capturing visual context from web content.
 
+![Capturing visual context with Amplecap](https://images.amplenote.com/204cca92-9d64-11ec-8ccf-1e537b31f384/9c784a7d-7aa0-49cc-8cfa-c233fbfc6b97.jpg)
+
 ### Step one: Create a feedback note
 
 Create a note specifically for feedback (e.g., "{today} feedback on AMPLENOTE-123"). Tag the note appropriately so it appears in your desired Task Domain, and share it after completing the review.
@@ -21,6 +23,8 @@ Create a note specifically for feedback (e.g., "{today} feedback on AMPLENOTE-12
 ### Step two: Assemble feedback as tasks
 
 Using Amplecap, capture specific screen regions and insert them as "Rich Footnotes" within task items. A demo video demonstrates the process. The article notes: "The entire process of selecting a screen region to respond to, and pasting that link+image into a task should take less than 10 seconds."
+
+![A collaborator feedback list including Rich Footnotes that establish what is being responded to](https://images.amplenote.com/204cca92-9d64-11ec-8ccf-1e537b31f384/4f676801-8c5f-4b7c-810c-710febc46a3b.jpg)
 
 ### Step three: Share with collaborator
 

@@ -12,6 +12,8 @@ Amplenote's native Share Sheet functionality enables users to send various conte
 
 The basic process involves tapping the Share button within an app and selecting Amplenote from the available options. The location of this button varies by application and operating system.
 
+![Selecting Amplenote from the mobile Share Sheet to send content to your notebook](https://images.amplenote.com/cc7078ee-32ad-11ed-9847-c2af19d2d6e3/5181ffaa-1202-4d61-8a5e-b8c0cb999195.png)
+
 ### Sharing Images to Amplenote on iOS
 
 Video instructions are provided for sharing image files from iOS devices.

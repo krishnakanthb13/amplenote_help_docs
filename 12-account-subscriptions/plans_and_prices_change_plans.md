@@ -8,6 +8,8 @@
 
 Amplenote offers 3 paid subscription levels: Pro, Unlimited and Founder, and one free level, Personal.
 
+![Amplenote offers 3 paid subscription levels: Pro, Unlimited and Founder, and one free level, Personal](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/1d50f7b9-518a-4c67-9cc3-303e6463a543.png)
+
 **Personal**
 
 The Personal plan is ideal for:
@@ -46,6 +48,8 @@ The "Personal" plan is the plan that you can use free of charge. Compared to oth
 
 The plan is easy to find on desktop on the "Plans" page. For users on mobile, you can select Personal plan by choosing "No thanks, maybe later" when browsing the paid subscription plans.
 
+![Selecting the free Personal plan](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/a00005a3-2821-49b6-9acf-24da52670c84.png)
+
 Keep in mind that Amplenote is a bootstrapped company whose development velocity depends very much on the revenue it generates from subscribers.
 
 ### How do I sign up for a plan?
@@ -55,6 +59,8 @@ Upon creating an Amplenote account, you automatically get **a 14-day free trial*
 When you're ready to commit to a subscription plan, just visit the **Amplenote Plans & Pricing page**. Note that upgrading to a plan will **instantly enable all of the features from that plan**, but the subscription's period will only **start after your trial expires**.
 
 On the checkout page, enter your credit or debit card information and choose from the annual or monthly billing options. Based on your selection, we'll display the total amount due today and you'll be charged the amount on the screen when you hit the blue "Pay Now" button.
+
+![Amplenote checkout page with billing options](https://images.amplenote.com/aa40ff3e-030c-11e9-8d9b-fa2e15571acc/6f9002cd-76a7-4539-a9cf-13665234b45c)
 
 ### How will I be billed for my plan?
 
@@ -69,6 +75,8 @@ If you have already made a payment and would like to upgrade or downgrade, the p
 #### If you signed up via web and want to change your subscriber level or annual/monthly payment
 
 This is possible by visiting Account Settings -> Subscription -> "Update subscription". This will generally allow you to upgrade or downgrade between levels by choosing the new level you want.
+
+![After clicking 'Update subscription' you have the opportunity to upgrade or downgrade](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/b5e44aad-6883-4c4f-a807-2e5a77ccb018.png)
 
 The account subscription update system has a lot of complexity in all of the translations that users request. If you find yourself unable to change your subscription to your satisfaction via the "Update subscription" flow, feel free to reach out to us at support@amplenote.com
 
@@ -88,6 +96,8 @@ We are big on making it as easy as possible to cancel your subscription at any t
 
 The easiest path to cancel is for those who didn't sign up via the App Stores. You can cancel your Amplenote subscription through Account Settings -> Subscription -> Cancel. If you want to cancel your subscription _and_ delete your account, that option is available under "Account & Password" -> "Delete My Account."
 
+![Canceling an Amplenote account after having signed up via Amplenote website](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/7bc65a5f-4a82-451b-a4e0-96dfc838e3a3.png)
+
 #### If you signed up via iOS
 
 If you signed up via iOS (Apple App Store), then Apple controls whether your Amplenote subscription is active.
@@ -97,6 +107,8 @@ If you signed up via iOS (Apple App Store), then Apple controls whether your Amp
 - Tap "Subscriptions"
 - Tap "Amplenote"
 - Choose "Cancel free trial" or "Cancel subscription"
+
+![Canceling subscription via App Store](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/a94b8b4b-3752-4538-9136-949ce2382f7b.png)
 
 #### If you signed up via Android Play Store
 
@@ -108,6 +120,8 @@ On your **Android** phone or tablet, open the Google Play Store.
 - Tap Menu. **Subscriptions**.
 - Select the **subscription** you want to **cancel**.
 - Tap **Cancel subscription**.
+
+![Canceling an Amplenote subscription on Android](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/f2407dec-f3ec-4ef0-a0e3-4059c17f5e78.png)
 
 #### Post-cancel functionality
 

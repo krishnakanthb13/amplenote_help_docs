@@ -12,6 +12,8 @@ The "Good Life Algorithm," coined by Cal Newport, draws inspiration from author 
 
 ## Victory Value Components
 
+![Do worry, be happy: tracking mood builds willpower to achieve satisfying goals](https://images.amplenote.com/549b4972-5e86-11f0-8766-6376fd6d89fe/e90cfa28-4607-438a-9bfb-81c1b3f45d5d.jpg)
+
 **1. Base Completion**
 Every finished task earns one Victory Value point.
 
@@ -33,6 +35,8 @@ Mood ratings submitted near task completion boost Victory Value:
 - Within 30-90 minutes: mood rating added directly
 - Daily average mood applied to all that day's tasks
 
+![Which are ya, and can we upgrade it? (mood rating selector)](https://images.amplenote.com/549b4972-5e86-11f0-8766-6376fd6d89fe/62ef8d6d-0dde-4167-938c-062d1132fa64.png)
+
 **5. High Leverage**
 "Lead domino" tasks that preclude other tasks receive bonus points proportional to obsoleted work.
 
@@ -50,9 +54,13 @@ Dismissed tasks calculate Victory Value but divide it by half, philosophically s
 
 Users can manually override calculated Victory Value for completed tasks based on retrospective judgment of actual value.
 
+![Manually setting Victory Value for a completed task](https://images.amplenote.com/c3377a82-5142-11f0-85d5-8fe1f9f0bf8b/9178767d-d9ff-4e6a-9eac-9d85e16586ae.png)
+
 ## Mood Tracking Integration
 
 Amplenote emphasizes pairing productivity metrics with emotional satisfaction. The platform provides first-class mood tracking across desktop and mobile apps, making the connection between task completion and well-being immediately visible in completed task statistics.
+
+![Mood tracking paired with completed task statistics](https://images.amplenote.com/6be7ce64-c0c6-11f0-929f-cd490122addf/0104e75d-0889-4808-9dae-ad28e625c248.png)
 
 ## Sources of Inspiration
 

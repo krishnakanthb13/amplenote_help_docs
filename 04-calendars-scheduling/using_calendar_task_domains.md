@@ -14,6 +14,8 @@ Task Domains allow users to specify all notes and tags containing tasks within a
 
 As of 2021, Amplenote permits configuration of up to three separate Task Domains.
 
+![Each of the colored boxes represents one Task Domain you can configure](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/31195eb5-0581-48a2-85ab-71639eaa1784.png)
+
 ### Adding Content to Task Domains
 
 **Notes:** When adding a note, its tasks become eligible to appear in the Calendar Sidebar Task List when that Task Domain is selected. If a task has a Start Time set, it syncs to specified external calendars and disappears from the sidebar task list.
@@ -24,9 +26,13 @@ As of 2021, Amplenote permits configuration of up to three separate Task Domains
 
 Task Domains are found in Account Settings under "Task Calendar," or accessible directly via the Task Calendar settings link.
 
+![Navigating to Task Calendar under Amplenote account settings](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/270cf770-8a80-49ff-8aab-454d11d78e75.png)
+
 ## Task Domain Options
 
 Each Task Domain includes several configuration options:
+
+![Normal and advanced options to configure a Task Domain](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/84c1dd59-e96f-486c-8cbc-63519dfbe939.png)
 
 ### Renaming Task Domain
 
@@ -44,11 +50,15 @@ Determines which tagged notes contribute tasks. Adding a parent tag includes all
 
 Controls which external calendars display events and receive published tasks. Options include "Show events only" or "Show events and publish tasks" (the latter requires Pro subscription or higher). Task details sync as private events to external calendars, with Rich Footnotes included in event descriptions.
 
+![Calendars can be connected as input sources or with full two-way sync](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/3d09af9b-e90e-44a3-81bc-ba2f6e3dedf5.png)
+
 ### Default Duration & Default Reminder
 
 **Default Duration:** Sets initial time allocation when creating new calendar events or dragging unscheduled tasks onto the calendar. Can be adjusted by dragging task edges.
 
 **Default Reminder:** For standalone Amplenote calendar use, enables notifications for newly created tasks. For calendar-synced setups, external calendars handle notifications.
+
+![Default duration and default reminder settings for a Task Domain](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/6a8188ea-6f1a-4f73-93e8-2df058291430.png)
 
 ### Suppress Reminders for Imported Events
 
@@ -65,6 +75,8 @@ Applies globally across all Task Domains (not domain-specific).
 ### Completed Events on External Calendar
 
 Controls whether completed tasks propagate to synced external calendars.
+
+![Setting controlling whether completed events show on the external calendar](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/2d07f465-663d-4c2f-a095-62fbab25260d.png)
 
 ## Frequently Asked Questions
 
@@ -83,3 +95,5 @@ Yes. Using the note reference syntax `@&` automatically applies the current note
 ## Additional Resources
 
 A four-minute video tutorial on YouTube provides a visual walkthrough of this content.
+
+![Using Calendar Task Domains video tutorial](https://images.amplenote.com/e0b7ce82-60eb-11eb-bad5-2a844617cbef/61175b10-5fab-432e-b45f-79d52761d88c.png)

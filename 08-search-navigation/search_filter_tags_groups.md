@@ -36,9 +36,13 @@ Tag filtering works in Jots Mode, Notes Mode, Quick Open, and Tasks Mode.
 - **Exclude subtags:** `in: my-parent-tag,^my-parent-tag/`
 - **Complex filtering:** `in: ^daily-jots,work My search keyword`
 
+![Tag filtering in the Quick Open interface](https://images.amplenote.com/4cf4e692-e58a-11ec-a6de-f2e2bc5c6b4b/eb97bb7c-b126-440e-b286-d0188d1e3047.png)
+
 ## Filtering by categories (group queries)
 
 Category-based filtering works in Notes Mode and Quick Open.
+
+![Category-based filtering in Quick Open](https://images.amplenote.com/4cf4e692-e58a-11ec-a6de-f2e2bc5c6b4b/4892a827-6ee6-4f27-b5c0-e5f7cf7ad01f.png)
 
 ### General purpose queries
 
@@ -81,11 +85,15 @@ Category-based filtering works in Notes Mode and Quick Open.
 Separate keywords with commas for AND logic:
 `group: untagged,taskLists`
 
+![Combining group queries in Quick Open](https://images.amplenote.com/4cf4e692-e58a-11ec-a6de-f2e2bc5c6b4b/142966fc-e8f4-413a-b939-ad03661f768f.png)
+
 ### Combining group and in queries
 
 `in: amplenote group: notCreated` — notes with "amplenote" tag shared with you
 
 `in: ^daily-jots group: taskLists,archived` — archived notes with tasks, excluding "daily-jots" tag
+
+![Advanced query in the Quick Open menu, using both Tag queries and Categories](https://images.amplenote.com/4cf4e692-e58a-11ec-a6de-f2e2bc5c6b4b/897bb357-d20e-4cc2-983c-3240f64b3fcf.png)
 
 ## Creating links to searches
 

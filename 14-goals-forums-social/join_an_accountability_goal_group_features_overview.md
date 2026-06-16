@@ -10,6 +10,8 @@ Users can join groups up to their subscription limit and optionally place a 10-1
 
 Failing to mark completion within the recurrence interval plus grace period results in coin forfeiture and group removal.
 
+![When clicking through to an Accountability Group, you can join it, optionally with a coin bet [Beta version shown]](https://images.amplenote.com/b2a81e7a-c6fe-11ef-96b8-ad88bb82f60d/7f21bc7c-3b9e-482a-bf94-efcac68d4d39.png)
+
 **Dormancy Phase after Sign Up**
 
 A waiting period follows signup and each completed cycle during which the "Goal Complete" button is unavailable. This prevents abuse and aligns with natural goal completion rhythms.
@@ -21,6 +23,8 @@ The critical required setting is "recurrence interval" (in days, max 60), determ
 **Create an Accountability Goal Group**
 
 Available to Pro+ subscribers. Goals require a name and description (supporting markdown or public note tokens).
+
+![Editing an Accountability Group Goal. Actual options presented can vary.](https://images.amplenote.com/5ad08220-c71a-11ef-bcfb-7376cb44d47e/1c46bb27-fba2-4ebf-9544-b3d1c2f1f444.png)
 
 **Goal Configuration Options:**
 - Recurrence interval (3-30 days typical)

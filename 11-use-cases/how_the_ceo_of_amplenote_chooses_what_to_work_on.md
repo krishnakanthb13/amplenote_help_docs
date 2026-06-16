@@ -23,6 +23,10 @@ The underlying principle: mixing strategic importance with spontaneity and pleas
 
 The CEO maintains a daily jot limited to 10 items for top-of-mind tasks. They check the calendar each morning to confirm scheduled events and refresh memory on pre-planned intentions.
 
+![The CEO's daily jot kept to roughly 10 top-of-mind tasks](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/d438e285-4406-4ab2-a60e-3c5cf66177a4.png)
+
+![Reviewing the calendar each morning](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/e79afcd1-840f-4246-b723-e3d910e8fcbd.png)
+
 ### Inbox Note Review
 
 An "Inbox Note" serves as the collection point for:
@@ -36,9 +40,13 @@ The CEO keeps this note under 50 tasks using three strategies:
 2. **Snooze tasks** via `!hide`/`!snooze` for 10, 20, or 30 days
 3. **Dismiss tasks** with the keyboard shortcut, knowing important items resurface naturally
 
+![My inbox note is a mishmash of unfiled tasks at the top, followed by up to 50 tasks that I haven't hidden or moved to another note](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/518fbac0-deae-4f11-8523-d44348490133.png)
+
 ### Planning and Execution
 
 After reviewing email, Inbox Note, Slack, Daily Jots, and calendar (approximately 20 minutes), the CEO identifies priority work. When planning ahead, they use the Peek Viewer to sketch the day into categories, sometimes dividing work into three segments.
+
+![Sometimes it is useful to split the day's aspirations into 3 categories](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/1b32672a-44d4-412b-9b94-4cd2c62c0f18.png)
 
 ### Calendar Integration for Progress Tracking
 
@@ -48,6 +56,10 @@ Throughout the day, completed tasks get added to the calendar. This practice pro
 - Data for "meta-optimizing" time allocation and activity ratios
 
 The `!move` and `!duration` Task Commands enable quick color-coded calendar logging without leaving the keyboard.
+
+![Shit, the boss is coming, look busy](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/e5a86ec1-92e1-4eb2-b010-2dacf728cfda.png)
+
+![The `!move` and `!duration` Task Commands make it quick to get color-coded history on calendar](https://images.amplenote.com/da3cf216-dad0-11ec-ba30-9abeb6de1996/b56c7698-6f8e-4e18-8a4a-a45855b6d724.gif)
 
 ## Task Score: The System's Foundation
 

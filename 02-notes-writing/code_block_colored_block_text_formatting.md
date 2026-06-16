@@ -6,6 +6,8 @@
 
 Amplenote provides a built-in code editor accessible by clicking the "Code block" icon in Notes view or typing triple backticks (```` ``` ````) on a new line. The triple backtick method works across Jots, Notes, Tasks, Calendar mode, and Rich Footnotes.
 
+![The "Code block" icon in the formatting toolbar](https://images.amplenote.com/a97c2516-f9ba-11ed-bb5d-46cd9704ac56/7f58bffc-b7d1-4d5f-9fac-ca5a4e6687b2.png)
+
 ## Code block editor (built-in IDE)
 
 Amplenote's code editor uses CodeMirror, the same text editor found in Chrome Dev Tools, Obsidian.md, CodePen, Adobe Brackets, Firefox Developer Tools, and jsfiddle.
@@ -43,6 +45,8 @@ Language tokens are case-insensitive. Users can specify language by mentioning i
 - **Formatting in published notes:** Colored syntax persists for public viewers.
 - **Copy function:** Icon in upper right copies entire code block.
 
+![The copy icon in the upper right of a code block](https://images.amplenote.com/a97c2516-f9ba-11ed-bb5d-46cd9704ac56/e5e6fc8d-de01-4e13-8233-6489dabebbc6.png)
+
 ## Extending code blocks
 
 Press Enter twice normally to exit a code block. To add multiple blank lines, hold Shift while pressing Enter.
@@ -56,5 +60,9 @@ Five gradient options available:
 3. **Rainbow3:** Left-to-right green-to-blue gradient
 4. **Rainbow4:** 45-degree angle orange-and-blue gradient
 5. **Rainbow5:** Animating gradient (processor-intensive)
+
+![Rainbow1 styled block text: top-to-bottom blue and gray gradient](https://images.amplenote.com/a97c2516-f9ba-11ed-bb5d-46cd9704ac56/824d5570-a3fd-489a-8d99-cf38bd588cfd.png)
+
+![Rainbow2 styled block text: top-to-bottom orange palette gradient](https://images.amplenote.com/a97c2516-f9ba-11ed-bb5d-46cd9704ac56/cf2e6c73-3c77-43c5-b1ae-b305beb9bb2c.png)
 
 Usage: Enter the rainbow keyword on the first line, then add text. The keyword can be removed after implementation.

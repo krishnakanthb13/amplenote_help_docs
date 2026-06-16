@@ -17,7 +17,11 @@ Rather than offering individual discount codes, Amplenote provides a robust "Per
 - Bidirectional linking with backlink filtering
 - iOS/Android share sheet for mobile content submission
 
+![Amplenote Personal edition feature comparison](https://images.amplenote.com/88b11692-433b-11ed-a1d6-5ac3aea65f93/7b69ad75-56ab-40c4-b736-fc34a7a868d6.png)
+
 Users can simply "sign up for Personal" without special application. The page references a video tutorial by Shu Omi demonstrating iPad note-taking strategies.
+
+![Different ways Amplenote's iPad version can be used for student note taking](https://images.amplenote.com/88b11692-433b-11ed-a1d6-5ac3aea65f93/6e18019b-a9e7-4d34-9b0d-2b1ad4938a5a.png)
 
 ## 📯 Another option for a free subscription
 
