@@ -16,6 +16,8 @@ The Amplenote plugin system: reference docs, creation, actions, interfaces, exam
 - [Appendix IV: Loading external libraries](./appendix_iv.md) — Patterns for loading browser builds and UMD modules.
 - [Plugin Markdown Reference](./plugin_api_markdown_reference_parse_markdown.md) — Markdown syntax details: colored text, footnotes, tables, collapsible headings, task objects.
 - [Plugin Example: AI Plugin](./example_plugin_ai.md) — The AmpleAI plugin as a worked example: features, providers, configuration.
+- [Building a paid Amplenote plugin](./building_a_paid_plugin.md) — Requirements and revenue share for monetizing a plugin through Amplenote's directory.
 - [Using the default AmpleAI plugin](./using_default_ai_plugin.md) — End-user guide to AmpleAI features, model list, and backend setup.
+- [Appendix V: CORS Proxy](./appendix_v.md) — Using the built-in CORS proxy to call external APIs that block browser CORS.
 
 > A deeper, per-method version of this plugin reference (one file per action/method) is maintained separately in the sibling `amplenote_references` repository.

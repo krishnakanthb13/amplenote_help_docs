@@ -1,6 +1,6 @@
 # Amplenote Help Center — Master Index
 
-A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **216 articles across 18 categories.**
+A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **218 articles across 18 categories.**
 
 > **This is the master index — start here.** Named `00-index.md` so it always sorts to the top.
 
@@ -33,7 +33,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 14. [Make it Sparkle](./13-make-it-sparkle/index.md) — 8 articles
 15. [Goals, Forums & Social](./14-goals-forums-social/index.md) — 7 articles
 16. [Extending Amplenote](./15-extending-amplenote/index.md) — 10 articles
-17. [Plugins](./16-plugins/index.md) — 13 articles
+17. [Plugins](./16-plugins/index.md) — 15 articles
 18. [Concepts & Terminology](./17-concepts-terminology/index.md) — 6 articles
 
 ---
@@ -317,7 +317,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 17. Plugins
 
-> Folder: [`16-plugins/`](./16-plugins/index.md)  ·  13 articles
+> Folder: [`16-plugins/`](./16-plugins/index.md)  ·  15 articles
 
 - [Plugin API Reference Documentation](./16-plugins/developing_amplenote_plugins.md) — Overview of the plugin system and map of the reference documentation.
 - [Plugin Creation: settings, name and metadata](./16-plugins/plugin_creation.md) — How to structure a plugin note with a metadata table and code block.
@@ -331,7 +331,9 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 - [Appendix IV: Loading external libraries](./16-plugins/appendix_iv.md) — Patterns for loading browser builds and UMD modules.
 - [Plugin Markdown Reference](./16-plugins/plugin_api_markdown_reference_parse_markdown.md) — Markdown syntax details: colored text, footnotes, tables, collapsible headings, task objects.
 - [Plugin Example: AI Plugin](./16-plugins/example_plugin_ai.md) — The AmpleAI plugin as a worked example: features, providers, configuration.
+- [Building a paid Amplenote plugin](./16-plugins/building_a_paid_plugin.md) — Requirements and revenue share for monetizing a plugin through Amplenote's directory.
 - [Using the default AmpleAI plugin](./16-plugins/using_default_ai_plugin.md) — End-user guide to AmpleAI features, model list, and backend setup.
+- [Appendix V: CORS Proxy](./16-plugins/appendix_v.md) — Using the built-in CORS proxy to call external APIs that block browser CORS.
 
 ## 18. Concepts & Terminology
 
