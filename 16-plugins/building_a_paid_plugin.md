@@ -49,5 +49,5 @@ Developers are encouraged to propose the price for their plugin at hello@ampleno
 
 ## Related
 
-- [Published Plugins Directory](./published_plugins_directory.md) — the community plugin directory
+- [Published Plugins Directory](../15-extending-amplenote/published_plugins_directory.md) — the community plugin directory
 - [Guide to Building Plugins](../15-extending-amplenote/guide_to_developing_amplenote_plugins.md) — creating plugins from beginner to advanced

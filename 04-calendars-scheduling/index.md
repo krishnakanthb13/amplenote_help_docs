@@ -6,6 +6,7 @@ Connecting calendars, scheduling tasks and events, reminders, and recurrence.
 
 - [Agenda View (group tasks by due date)](./agenda_view.md) — Group tasks by scheduled date in the Task View for an agenda-style overview.
 - [Calendar Task Domains](./using_calendar_task_domains.md) — Configure the notes and tags that populate the calendar's task list.
+- [Calendar Task Suggestions: LLM-driven Productivity Boost (suggest tasks)](./calendar_auto_suggest_goal_aligned_tasks.md) — LLM-driven calendar task proposals, prerequisites, and workflow.
 - [Calendar: Detailed Visual Guide](./calendar_visual_guided_walkthrough.md) — A section-by-section walkthrough of the desktop and mobile calendar.
 - [Color external and internal calendar events and tasks](./color_calendar_events.md) — Color tasks via tags and external events via calendar providers.
 - [Connect Google, Outlook or Apple Calendars with two-way sync](./connect_a_calendar.md) — Link external calendars and enable bidirectional task sync.

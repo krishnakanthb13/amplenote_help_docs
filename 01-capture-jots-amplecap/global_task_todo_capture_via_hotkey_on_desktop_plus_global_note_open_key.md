@@ -1,6 +1,6 @@
-# Global task/event capture shortcut hotkey on desktop
+# Global task/event capture shortcut hotkey on desktop (Bonus: global note open key)
 
-> [← Help Index](../00-index.md) · Category: [Capture: Jots & Amplecap](./index.md) · [Source ↗](https://www.amplenote.com/help/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key)
+> [← Help Index](../00-index.md) · Category: [Capture: Jots & Amplecap](./index.md) · [Source ↗](https://www.amplenote.com/help/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_lookup_on_desktop)
 
 ## Picking a global task capture shortcut (hotkey)
 

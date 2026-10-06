@@ -1,6 +1,6 @@
 # Amplenote Help Center — Master Index
 
-A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **218 articles across 18 categories.**
+A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **221 articles across 18 categories.**
 
 > **This is the master index — start here.** Named `00-index.md` so it always sorts to the top.
 
@@ -21,17 +21,17 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 2. [Capture: Jots & Amplecap](./01-capture-jots-amplecap/index.md) — 15 articles
 3. [Notes & Writing](./02-notes-writing/index.md) — 18 articles
 4. [Tasks & Todo Lists](./03-tasks-todos/index.md) — 18 articles
-5. [Calendars & Scheduling](./04-calendars-scheduling/index.md) — 16 articles
+5. [Calendars & Scheduling](./04-calendars-scheduling/index.md) — 17 articles
 6. [Organize Everything](./05-organize/index.md) — 16 articles
 7. [Devices & Syncing](./06-devices-syncing/index.md) — 12 articles
 8. [Security](./07-security/index.md) — 10 articles
 9. [Search, Lookup & Navigation](./08-search-navigation/index.md) — 11 articles
 10. [Sharing & Publishing](./09-sharing-publishing/index.md) — 13 articles
-11. [Import & Export](./10-import-export/index.md) — 13 articles
+11. [Import & Export](./10-import-export/index.md) — 14 articles
 12. [Use Cases](./11-use-cases/index.md) — 11 articles
 13. [Account & Subscriptions](./12-account-subscriptions/index.md) — 14 articles
 14. [Make it Sparkle](./13-make-it-sparkle/index.md) — 8 articles
-15. [Goals, Forums & Social](./14-goals-forums-social/index.md) — 7 articles
+15. [Goals, Forums & Social](./14-goals-forums-social/index.md) — 8 articles
 16. [Extending Amplenote](./15-extending-amplenote/index.md) — 10 articles
 17. [Plugins](./16-plugins/index.md) — 15 articles
 18. [Concepts & Terminology](./17-concepts-terminology/index.md) — 6 articles
@@ -60,7 +60,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 - [Fastest way to add a task from phone?](./01-capture-jots-amplecap/fastest_way_to_add_a_task_quick_todo.md) — Quick task-capture methods including the mobile Quick Task Bar, widgets, and Share Sheet.
 - [Forward emails (Gmail, Outlook, etc) to a note inbox](./01-capture-jots-amplecap/mail-to-note.md) — Using mail-to-note addresses to forward emails as tasks or new notes.
 - [From Jot task to scheduled event on calendar](./01-capture-jots-amplecap/jots_task_to_calendar_event.md) — Turn a jot task into a calendar event via Task Domains and start times.
-- [Global task/event capture shortcut hotkey on desktop](./01-capture-jots-amplecap/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
+- [Global task/event capture shortcut hotkey on desktop (Bonus: global note open key)](./01-capture-jots-amplecap/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
 - [Mobile long-press options](./01-capture-jots-amplecap/mobile_long_press_options.md) — Quick actions from long-pressing the Amplenote app icon: New Note, Search, Quick Add.
 - [Recording voice notes, speech-to-text, audio notes](./01-capture-jots-amplecap/voice_audio_notes.md) — Using OS-native dictation and plugins for voice input across platforms.
 - [Sync your Kindle/Readwise Highlights](./01-capture-jots-amplecap/syncing_readwise_highlights.md) — Set up the Readwise plugin to sync book highlights into your notebook.
@@ -116,10 +116,11 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 5. Calendars & Scheduling
 
-> Folder: [`04-calendars-scheduling/`](./04-calendars-scheduling/index.md)  ·  16 articles
+> Folder: [`04-calendars-scheduling/`](./04-calendars-scheduling/index.md)  ·  17 articles
 
 - [Agenda View (group tasks by due date)](./04-calendars-scheduling/agenda_view.md) — Group tasks by scheduled date in the Task View for an agenda-style overview.
 - [Calendar Task Domains](./04-calendars-scheduling/using_calendar_task_domains.md) — Configure the notes and tags that populate the calendar's task list.
+- [Calendar Task Suggestions: LLM-driven Productivity Boost (suggest tasks)](./04-calendars-scheduling/calendar_auto_suggest_goal_aligned_tasks.md) — LLM-driven calendar task proposals, prerequisites, and workflow.
 - [Calendar: Detailed Visual Guide](./04-calendars-scheduling/calendar_visual_guided_walkthrough.md) — A section-by-section walkthrough of the desktop and mobile calendar.
 - [Color external and internal calendar events and tasks](./04-calendars-scheduling/color_calendar_events.md) — Color tasks via tags and external events via calendar providers.
 - [Connect Google, Outlook or Apple Calendars with two-way sync](./04-calendars-scheduling/connect_a_calendar.md) — Link external calendars and enable bidirectional task sync.
@@ -224,8 +225,9 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 11. Import & Export
 
-> Folder: [`10-import-export/`](./10-import-export/index.md)  ·  13 articles
+> Folder: [`10-import-export/`](./10-import-export/index.md)  ·  14 articles
 
+- [An overview: Importing notes and tasks from other apps](./10-import-export/import_notes_and_tasks_overview.md) — Full matrix comparing importers across Obsidian, Evernote, Todoist, Notion, Markdown, and Roam.
 - [Automatic (live) backup for note content & attachments](./10-import-export/automatic_live_content_backup_to_local_directory_including_images.md) — Desktop app writes notes and media to a local directory as markdown files.
 - [Exporting your notes](./10-import-export/export_your_notes.md) — Export all notes as a markdown ZIP via Account Settings on desktop.
 - [How long does importing take?](./10-import-export/import_from_evernote_how_long.md) — Evernote imports run 10 minutes to hours depending on ENEX file size.
@@ -290,10 +292,11 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 15. Goals, Forums & Social
 
-> Folder: [`14-goals-forums-social/`](./14-goals-forums-social/index.md)  ·  7 articles
+> Folder: [`14-goals-forums-social/`](./14-goals-forums-social/index.md)  ·  8 articles
 
 - [Accountability Goal Groups Overview](./14-goals-forums-social/join_an_accountability_goal_group_features_overview.md) — How to join, create, configure, and track accountability goal groups with coin wagers.
 - [Announcing: Accountability Goal Groups (& other Q1 2024 updates)](./14-goals-forums-social/introducing_accountability_goals.md) — Launch announcement of accountability goals, coins, forums, and Q1 2024 feature updates.
+- [Building a quarterly plan with Dashboard's Plan Builder](./14-goals-forums-social/dashboard_plan_builder_schedule_quarter_wizard.md) — Step-by-step quarterly planning wizard using frontier LLMs to schedule goal-aligned projects.
 - [Direct messaging users via Amplenote Social](./14-goals-forums-social/direct_messaging.md) — Send and control direct messages between community members through Amplenote Social profiles.
 - [Forum discussions: three types of forum topics](./14-goals-forums-social/forum_discussion_three_types_of_topics.md) — Explore general, promotional, and goal forums plus content terms and conditions.
 - [Markdown for forum posts & goal updates](./14-goals-forums-social/social_markdown_guide.md) — Format social posts and goal updates with markdown and public note tokens.

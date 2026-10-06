@@ -12,7 +12,7 @@ Capturing thoughts, tasks, web content, voice, and more into Amplenote.
 - [Fastest way to add a task from phone?](./fastest_way_to_add_a_task_quick_todo.md) — Quick task-capture methods including the mobile Quick Task Bar, widgets, and Share Sheet.
 - [Forward emails (Gmail, Outlook, etc) to a note inbox](./mail-to-note.md) — Using mail-to-note addresses to forward emails as tasks or new notes.
 - [From Jot task to scheduled event on calendar](./jots_task_to_calendar_event.md) — Turn a jot task into a calendar event via Task Domains and start times.
-- [Global task/event capture shortcut hotkey on desktop](./global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
+- [Global task/event capture shortcut hotkey on desktop (Bonus: global note open key)](./global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
 - [Mobile long-press options](./mobile_long_press_options.md) — Quick actions from long-pressing the Amplenote app icon: New Note, Search, Quick Add.
 - [Recording voice notes, speech-to-text, audio notes](./voice_audio_notes.md) — Using OS-native dictation and plugins for voice input across platforms.
 - [Sync your Kindle/Readwise Highlights](./syncing_readwise_highlights.md) — Set up the Readwise plugin to sync book highlights into your notebook.
