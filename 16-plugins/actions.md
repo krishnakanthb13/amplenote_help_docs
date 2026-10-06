@@ -124,6 +124,13 @@ Replaces highlighted text via selection menu.
 
 ![replaceText with a custom keyword](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/9f580c1e-57f3-4ec5-b907-ff520f19f8de.png)
 
+### suggestScheduledTasks
+Propose scheduling for one or more tasks, which the user can accept or dismiss on a per-task basis. `app.context.setScheduledTasks` is defined when this action is invoked to allow progressive display of suggestions.
+
+**Arguments:** `app`, `{ endAt, schedulableTasks, scheduledTasks, startAt, taskDomain }`
+
+**Returns:** Array of suggested task schedule objects (`startAt`, optional `endAt`, optional `explanation`, optional `task` or `taskUUID`).
+
 ### suggestTaskTargetNotes
 Suggests ordered notes where tasks could be added.
 

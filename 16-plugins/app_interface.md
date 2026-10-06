@@ -63,15 +63,23 @@ Provides invocation location details and interaction methods.
 
 **Properties:**
 - `checkForUpdates` — Check if plugin is out of date
+- `closeEmbed` — Closes open sidebar or modal embed
 - `embedArgs` — Arguments for `onEmbedCall`
+- `getStyleProperties` — Returns host client CSS styling and theme properties
 - `lightDarkMode` — Current theme ("light" or "dark")
 - `link` — Link properties if invoked from link
 - `noteUUID` — UUID of current note
 - `pluginUUID` — UUID of plugin note
+- `refreshNotesList` — Requests host client to refresh displayed notes list
+- `refreshSettings` — Reloads plugin settings
 - `renderEmbed` — Re-renders embed
 - `renderEmbedTarget` — Where embed is rendering
 - `replaceSelection` — Replaces selected markdown
 - `selectionContent` — Current selection markdown
+- `setEmbedHTML` — Updates active embed HTML content dynamically
+- `setScheduledTasks` — Progressively displays suggested scheduled tasks during `suggestScheduledTasks`
+- `setStatus` — Displays a status message in the client UI
+- `setTaskTargetNotes` — Progressively displays suggested note targets during `suggestTaskTargetNotes`
 - `subscriptionLevel` — User tier (personal/pro/unlimited/founder)
 - `taskUUID` — Task UUID if in task
 - `updateEmbedArgs` — Updates embed arguments
@@ -200,6 +208,18 @@ Gets full Amplenote URL for a note.
 
 **Arguments:** `noteHandle`
 **Returns:** Note URL string
+
+### app.getPeople
+Lists people known to the current user.
+
+**Arguments:** None
+**Returns:** Array of `person` objects
+
+### app.getPreviousTaskInstances
+Gets previous instances of a repeating task, newest first (given task itself not included). Async iterable recommended.
+
+**Arguments:** Task UUID string
+**Returns:** Array / Async Iterable of `task` objects
 
 ### app.getShortcuts
 Lists shortcuts in an area.

@@ -37,4 +37,4 @@ Complete the import process by:
 
 ## Important Notes
 
-Only task contents and descriptions transfer—other task properties or subtask relationships cannot be maintained. Todoist labels export as plain text and require manual conversion to note references if you wish to preserve them. Learn more about this feature in [Note Reference Filtering (aka "Inline Tags")](/help/inline_tags_note_reference_filtering).
+Only task contents and descriptions transfer—other task properties or subtask relationships cannot be maintained. Todoist labels export as plain text and require manual conversion to note references if you wish to preserve them. Learn more about this feature in [Note Reference Filtering (aka "Inline Tags")](../08-search-navigation/inline_tags_note_reference_filtering.md).

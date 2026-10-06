@@ -22,7 +22,7 @@ To import from Roam, export your data by selecting "Export All" and the JSON Exp
 ## What is imported?
 
 - Any note references `[[Link to a note]]`
-- Any inline tags `#Inline tag` - Inline tags are imported as note references; the reference will spell "#Inline tag", while the note itself will be titled "Inline tag", without the pound `#` sign. Note that in Amplenote, "tags" are a different abstraction. [Learn more here](/help/tag_shortcuts_default_shortcut#Tag_Shortcuts%2C_and_the_Default_Shortcut)
+- Any inline tags `#Inline tag` - Inline tags are imported as note references; the reference will spell "#Inline tag", while the note itself will be titled "Inline tag", without the pound `#` sign. Note that in Amplenote, "tags" are a different abstraction. [Learn more here](../08-search-navigation/tag_shortcuts_default_shortcut.md)
 - Any image attachments
 
 ## What limitations exist for Roam imports?

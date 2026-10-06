@@ -22,6 +22,9 @@ Represents events from connected external calendars with properties:
 - `start`: Date when event starts
 - `title`: Event title string
 
+### group
+Defines note filter groups (String values: "archived", "deleted", "notes", "overview", "published", "robot", "shares", "vault", "versioned").
+
 ### image
 Describes inline images in notes:
 - `caption`: Markdown string for image caption
@@ -54,6 +57,14 @@ Objects identifying notes, including non-existent future notes. Can accept strin
 - `updated`: ISO 8601 modification datetime
 - `uuid`: Note identifier string
 - `vault`: Boolean (present only if true)
+
+### person
+Describes another user known to current user:
+- `active`: ISO 8601 date string of latest activity
+- `avatar`: Object with `imageURL` or `text` initials
+- `name`: Display name or email
+- `sharing`: Object with `notes` (array of UUIDs) and `tags` (array of tag strings)
+- `uuid`: User identifier string
 
 ### section
 Represents note chunks divided by headings and horizontal rules:
@@ -88,3 +99,9 @@ Task objects with properties:
 - `startAt`: Unix timestamp or null
 - `urgent`: Boolean flag
 - `uuid`: Task identifier string
+
+### taskDomain
+Describes a configured task domain:
+- `name`: Display name of the task domain
+- `notes`: Array of noteHandle objects for notes in the domain
+- `uuid`: Task domain identifier string

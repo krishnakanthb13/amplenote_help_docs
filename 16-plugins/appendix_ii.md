@@ -16,3 +16,13 @@ The execution environment operates within users' browsers (web) or system WebVie
 - **Mobile**: Plugins load in isolated WebView environments
 - **Isolation**: Each plugin iFrame provides separation from other loaded plugins
 - **No Processing**: Code runs without polyfills or preprocessing
+
+## Embed Environment
+
+Embeds operate in separated iFrames with additional functions defined on `window`:
+
+### window.callAmplenotePlugin
+Calls the `onEmbedCall` action in the host plugin, passing provided arguments. Returns a Promise resolving to the plugin's return value.
+
+### window.setAmplenoteEmbedHeight
+Sets a fixed pixel-based height for the embed iframe, overriding aspect-ratio based height while keeping width at 100%. Must be called with a number greater than zero.

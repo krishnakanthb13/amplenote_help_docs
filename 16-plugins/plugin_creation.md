@@ -72,3 +72,35 @@ Multiple actions with validation:
 ## Accessing Settings
 
 Settings defined in the metadata table are accessible through `app.settings["Setting Name"]`.
+
+## Large plugins: keeping the payload out of the code block
+
+The first code block in the note is still required and defines the plugin's actions. But for large payloads (a compiled embed document, a client bundle, or a large data file), you can upload them as attachments on the plugin note instead of inlining them into the code block.
+
+```javascript
+async renderEmbed(app) {
+  if (app.context.setEmbedHTML) {
+    app.context.setEmbedHTML(`<!-- spinner markup -->`); // paint before awaiting network
+  }
+  try {
+    const attachments = await app.getNoteAttachments(app.context.pluginUUID);
+    const attachment = attachments.find(attachment => attachment.name === "build.html.json");
+    if (!attachment) throw new Error("build.html.json attachment not found");
+    return this._getAttachmentContent(app, attachment.uuid);
+  } catch (error) {
+    return `<div><em>renderEmbed error:</em> ${ error.toString() }</div>`;
+  }
+},
+
+async _getAttachmentContent(app, attachmentUUID) {
+  const url = await app.getAttachmentURL(attachmentUUID);
+  const proxyURL = new URL("https://plugins.amplenote.com/cors-proxy");
+  proxyURL.searchParams.set("apiurl", url);
+  const response = await fetch(proxyURL);
+  return response.text();
+}
+```
+
+**Key considerations:**
+- Requires an online client because `getAttachmentURL` mints a temporary URL.
+- The attachment reference must stay referenced in the note body.

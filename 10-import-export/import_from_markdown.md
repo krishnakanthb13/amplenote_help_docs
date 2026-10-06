@@ -53,7 +53,7 @@ FROM your_table
 
 ## Our commitment to help you avoid data lock-in
 
-We want to ensure it's as straightforward as possible to jump between Amplenote and other note taking apps. Read more at our [Exporting Your Notes](/help/export_your_notes) page.
+We want to ensure it's as straightforward as possible to jump between Amplenote and other note taking apps. Read more at our [Exporting Your Notes](./export_your_notes.md) page.
 
 ## Importing from individual markdown files
 
