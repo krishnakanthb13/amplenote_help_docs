@@ -11,7 +11,7 @@ Amplenote addresses folder organization requests from users migrating from Evern
 - **Deep hierarchies for projects and contexts**: Create nested tags like `work/project-a/research` and browse them in the left sidebar or access them through Quick Open navigation.
 - **Multiple tags per note**: Notes can belong to several hierarchies simultaneously, useful for notes that combine research with tasks. A single note could have both a research tag and a `todo/project-a` tag.
 - **Flexible management**: Tags can be renamed, deleted, moved, and merged — accommodating evolving organizational needs without creating permanent structure constraints.
-- **Collaboration options**: Tags can be shared with individuals, groups, or the public, allowing collaborators on specific note collections.
+- **Collaboration options**: Tags can be shared with individuals, groups, or the public, allowing collaborators on specific note collections. Collaborators using the free, Personal subscription level can share all notes of that tag (and optionally be allowed to add new notes).
 
 ## Setting up tag structure
 

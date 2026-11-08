@@ -9,6 +9,7 @@ Links to everything you need to get up and running with Amplenote.
 - "Jots" — what are they vis-a-vis "Notes"?
 - Amplecap usage examples
 - Amplecap: capturing web content with our Chrome/Firefox extension
+- Capture tasks via Apple Watch
 - Create a task from a jot
 - Creating future daily jots
 - Fastest way to add a task from phone?
@@ -43,4 +44,4 @@ Featured video tutorials with links to the full YouTube channel.
 
 ## Explore All Help Topics
 
-The page also links out to all 15 help categories: Capture, Notes & Writing, Tasks & Todo Lists, Calendars & Scheduling, Organize Everything, Devices & Syncing, Security, Search/Lookup/Navigation, Sharing & Publishing, Import & Export, Use Cases, Account & Subscriptions, Make it Sparkle, Goals/Forums/Social, Extending Amplenote, Plugins, and Concepts & Terminology.
+The page also links out to all 17 help categories: Capture, Notes & Writing, Tasks & Todo Lists, Calendars & Scheduling, Organize Everything, Devices & Syncing, Security, Search/Lookup/Navigation, Sharing & Publishing, Import & Export, Use Cases, Account & Subscriptions, Make it Sparkle, Goals/Forums/Social, Extending Amplenote, Plugins, and Concepts & Terminology.

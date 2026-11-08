@@ -40,7 +40,7 @@ Use the tag option to quickly add or remove a tag from the selected notes. Use t
 
 #### Bulk add tags using drag-and-drop
 
-Dragging and dropping tags from the sidebar works on multi-note selections too!
+Dragging and dropping tags from the sidebar is coming soon for multi-note selections (this functionality is not yet available).
 
 ### Bulk archive, delete or download notes
 

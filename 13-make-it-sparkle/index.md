@@ -11,4 +11,5 @@ Appearance, theming, layout, dashboards, and personalization.
 - [Create your own styled blog with instant updating to replace Wordpress](./custom_css_blogging_platform_use_case.md) — Publish live-updating, custom-CSS-styled blog posts by embedding Amplenote notes into hosting platforms.
 - [Handwriting and drawing (native iPad and Excalidraw)](./handwriting_drawing_in_notes.md) — Draw in notes using native iPad tools or the Excalidraw plugin with shortcuts.
 - [Inspire yourself with beautiful note background styles](./styling_note_page_appearance_background_image_and_color.md) — Apply background images and colors to notes via Edit Page Style options.
+- [Project Retrospectives: Stylish, Shareable Breakdown of What Got Done](./generate_completed_task_retrospective_per_month_quarter.md) — A Spotify-Wrapped-style visual summary of completed work for the past quarter.
 - [Setting up an account dashboard](./set_up_personalized_account_dashboard.md) — Build a personalized dashboard with planning, DreamTask, calendar, and other plugin widgets.

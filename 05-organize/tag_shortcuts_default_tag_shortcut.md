@@ -39,6 +39,12 @@ You can combine normal tags and Tag Shortcuts using Shift-Click to narrow result
 
 ![Shift-Click to select a Tag Shortcut and narrow results](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/a41b1ae3-8c41-40a7-9c23-94a32fa549ab.png)
 
+### Multi-tag OR select with Tag Shortcuts
+
+By Q4 2026, Amplenote plans to allow selecting a tag in the Tasks pane and then clicking another tag with "Alt" or "Opt" held down, adding the additional tag(s) as "OR". Until then, build an OR tag filter via Quick Open.
+
+![An OR tag filter built in Quick Open](https://images.amplenote.com/1b7197a6-3e2e-11ef-badf-26e37c279344/520fbac1-a787-40be-862b-6cc4f6856f6c.png)
+
 ### Saved searches in Notes mode
 
 Once satisfied with a search query, save it using the triple-dot button in the search bar.
@@ -81,6 +87,10 @@ Alternatively, use the triple-dot menu next to each sidebar shortcut.
 ![Removing a shortcut via the star icon](https://images.amplenote.com/8f50f93a-fae1-11ea-95c1-f200a12bf340/1d283bae-13ec-4f7f-9cdc-2eb2e1ad5ed1.png)
 
 ![Removing a shortcut from the sidebar triple-dot menu](https://images.amplenote.com/1b7197a6-3e2e-11ef-badf-26e37c279344/18804778-a568-448e-bf35-4222940943e7.png)
+
+### Reordering a Shortcut
+
+Pinned Notes and Shortcuts can both be dragged to re-sort them, and the change propagates to all platforms (mobile, desktop, web).
 
 ### Renaming a shortcut
 

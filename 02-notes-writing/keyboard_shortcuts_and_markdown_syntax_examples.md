@@ -369,6 +369,10 @@ Type `{` followed by the name of the plugin to see all of that plugin's availabl
 
 When no text is selected, `Ctrl-K` brings up an extended Rich Footnote menu. When text is selected, it jumps directly to the link menu. To remove a footnote, press `Ctrl-K` with the cursor positioned on the footnote's text.
 
+![The extended Rich Footnote menu shown by Ctrl-K with no selection](https://images.amplenote.com/9e494a9a-fae2-11ea-a5bc-f200a12bf340/f84a4346-c35f-4231-95b7-3daecd8c6986.mp4)
+
+Printable "compact" master shortcut lists are also available: [Windows/Linux](https://public.amplenote.com/Sq4XVM/printable-shortcuts-windows) and [macOS](https://public.amplenote.com/QNYY3W/printable-shortcuts-macos).
+
 ### Jump In or Out of Rich Footnotes
 
 | Linux, Mac & Windows |

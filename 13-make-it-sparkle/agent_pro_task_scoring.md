@@ -38,10 +38,16 @@ Specify scoring criteria from these options:
 - Instructions from a note
 - Ad hoc custom instructions
 
-The LLM evaluates tasks in roughly 10 seconds.
+The LLM evaluates your top 100 tasks in roughly 10 seconds using multiple parallel scoring requests.
+
+You can choose the maximum value to assign to tasks. A red task has 10 Task Score, yellow has 7, blue is 4 or more. The default maximum Task Score is 10, so you will likely only have a couple red tasks after running a task rescore.
 
 ## Finalizing new scores
 
 Review recommended scores and click any value to adjust it. A score of 0 dismisses the task.
+
+## Applying new scores
+
+After reviewing, click or tap **Apply** to batch update every task to its new value. As days pass, the usual Task Score algorithm will gradually elevate the scores of the tasks per its usual criteria.
 
 ![Finalizing Task Score updates after re-weighting by quarterly plan](https://images.amplenote.com/cede5754-680f-11f1-8968-71fbcb03269c/d5649a8e-b860-4c34-9e92-0162982f33b8.png)

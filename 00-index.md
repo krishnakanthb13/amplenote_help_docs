@@ -1,6 +1,6 @@
 # Amplenote Help Center — Master Index
 
-A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **221 articles across 18 categories.**
+A local markdown mirror of the entire [Amplenote Help Center](https://www.amplenote.com/help). Every help article is captured in its own file, grouped into ordered category folders, each with its own index, and all linked from here. **224 articles across 18 categories.**
 
 > **This is the master index — start here.** Named `00-index.md` so it always sorts to the top.
 
@@ -18,9 +18,9 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 ## Contents
 
 1. [Start Here & Overview](./00-start-here/index.md) — 5 articles
-2. [Capture: Jots & Amplecap](./01-capture-jots-amplecap/index.md) — 15 articles
+2. [Capture: Jots & Amplecap](./01-capture-jots-amplecap/index.md) — 16 articles
 3. [Notes & Writing](./02-notes-writing/index.md) — 18 articles
-4. [Tasks & Todo Lists](./03-tasks-todos/index.md) — 18 articles
+4. [Tasks & Todo Lists](./03-tasks-todos/index.md) — 19 articles
 5. [Calendars & Scheduling](./04-calendars-scheduling/index.md) — 17 articles
 6. [Organize Everything](./05-organize/index.md) — 16 articles
 7. [Devices & Syncing](./06-devices-syncing/index.md) — 12 articles
@@ -30,7 +30,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 11. [Import & Export](./10-import-export/index.md) — 14 articles
 12. [Use Cases](./11-use-cases/index.md) — 11 articles
 13. [Account & Subscriptions](./12-account-subscriptions/index.md) — 14 articles
-14. [Make it Sparkle](./13-make-it-sparkle/index.md) — 8 articles
+14. [Make it Sparkle](./13-make-it-sparkle/index.md) — 9 articles
 15. [Goals, Forums & Social](./14-goals-forums-social/index.md) — 8 articles
 16. [Extending Amplenote](./15-extending-amplenote/index.md) — 10 articles
 17. [Plugins](./16-plugins/index.md) — 15 articles
@@ -50,17 +50,18 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 2. Capture: Jots & Amplecap
 
-> Folder: [`01-capture-jots-amplecap/`](./01-capture-jots-amplecap/index.md)  ·  15 articles
+> Folder: [`01-capture-jots-amplecap/`](./01-capture-jots-amplecap/index.md)  ·  16 articles
 
 - [Jots — what are they vis-a-vis "Notes"?](./01-capture-jots-amplecap/jots.md) — How Jots mode differs from Notes mode for quick, distraction-free idea capture.
 - [Amplecap Usage Examples](./01-capture-jots-amplecap/cool_ways_to_use_amplecap.md) — Five practical ways people use the Amplecap browser extension to capture web content.
 - [Amplecap: Capturing Web Content with the Chrome/Firefox Extension](./01-capture-jots-amplecap/amplecap_browser_extension_guide.md) — Full guide to installing and using Amplecap's capture modes and shortcuts.
+- [Capture tasks via Apple Watch](./01-capture-jots-amplecap/apple_watch_task_capture.md) — Use the Amplenote Siri shortcut to dictate tasks to your daily jot from an Apple Watch.
 - [Create a task from a jot](./01-capture-jots-amplecap/create_a_task_from_a_jot.md) — Every way to create and configure tasks from notes, jots, mobile, email, and hotkeys.
 - [Creating future daily jots](./01-capture-jots-amplecap/future_jots.md) — How to manually create daily jots for future dates using date syntax.
 - [Fastest way to add a task from phone?](./01-capture-jots-amplecap/fastest_way_to_add_a_task_quick_todo.md) — Quick task-capture methods including the mobile Quick Task Bar, widgets, and Share Sheet.
 - [Forward emails (Gmail, Outlook, etc) to a note inbox](./01-capture-jots-amplecap/mail-to-note.md) — Using mail-to-note addresses to forward emails as tasks or new notes.
 - [From Jot task to scheduled event on calendar](./01-capture-jots-amplecap/jots_task_to_calendar_event.md) — Turn a jot task into a calendar event via Task Domains and start times.
-- [Global task/event capture shortcut hotkey on desktop (Bonus: global note open key)](./01-capture-jots-amplecap/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_open_key.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
+- [Global task/event capture shortcut hotkey on desktop (Bonus: global note open key)](./01-capture-jots-amplecap/global_task_todo_capture_via_hotkey_on_desktop_plus_global_note_lookup_on_desktop.md) — Configure a system-wide desktop hotkey to capture tasks and look up notes.
 - [Mobile long-press options](./01-capture-jots-amplecap/mobile_long_press_options.md) — Quick actions from long-pressing the Amplenote app icon: New Note, Search, Quick Add.
 - [Recording voice notes, speech-to-text, audio notes](./01-capture-jots-amplecap/voice_audio_notes.md) — Using OS-native dictation and plugins for voice input across platforms.
 - [Sync your Kindle/Readwise Highlights](./01-capture-jots-amplecap/syncing_readwise_highlights.md) — Set up the Readwise plugin to sync book highlights into your notebook.
@@ -93,7 +94,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 4. Tasks & Todo Lists
 
-> Folder: [`03-tasks-todos/`](./03-tasks-todos/index.md)  ·  18 articles
+> Folder: [`03-tasks-todos/`](./03-tasks-todos/index.md)  ·  19 articles
 
 - [Assign/delegate tasks](./03-tasks-todos/task_assignment_delegation.md) — Assign or delegate tasks to other people in shared notes.
 - [Batch moving & updating tasks, batch changing Task Score](./03-tasks-todos/batch_changes_in_notes_move_delete_task_score.md) — Select multiple tasks to move, delete, or change their score at once.
@@ -108,6 +109,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 - [Keyboard-driven ! Task Commands Menu](./03-tasks-todos/task_commands_menu.md) — Use the ! Task Commands Menu to edit tasks via keyboard.
 - [Linking tasks: Block, Mirror, Implement Goal, and basic connections](./03-tasks-todos/task_dependencies_block_task_implement_goal_task_mirror_or_connect_task.md) — Create task dependencies and links between tasks.
 - [Nested tasks and subtasks](./03-tasks-todos/nested_tasks_subtasks_when_to_create_how_to_use.md) — When and how to create nested tasks and subtasks.
+- [Planning a day, week, month or quarter with Amplenote](./03-tasks-todos/planning_day_week_with_suggested_agenda_calendar_tasks.md) — Build a plan from existing tasks so the most relevant work surfaces for a day, week, month, or quarter.
 - [Set a task Start Time (Due Date) using natural language](./03-tasks-todos/set_start_time_due_date.md) — Set task start/due times using natural language.
 - [Setting a maximum limit of open tasks per note](./03-tasks-todos/limit_tasks_per_note.md) — Limit the number of open tasks allowed per note.
 - [Tasks Mode Overview, and visible due/starting time](./03-tasks-todos/tasks_view_mode.md) — Overview of Tasks mode and visible due/starting times.
@@ -279,7 +281,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 
 ## 14. Make it Sparkle
 
-> Folder: [`13-make-it-sparkle/`](./13-make-it-sparkle/index.md)  ·  8 articles
+> Folder: [`13-make-it-sparkle/`](./13-make-it-sparkle/index.md)  ·  9 articles
 
 - [Appearance Control: Configuring "Theme" and "Light/Dark" Preferences](./13-make-it-sparkle/control_appearance_settings.md) — Set light/dark mode, themes, and task-completion celebration effects under Appearance settings.
 - [Batch updating Task Score based on goals or custom criteria](./13-make-it-sparkle/agent_pro_task_scoring.md) — Use Agent Pro's LLM Task Rescorer to batch-prioritize tasks by custom criteria.
@@ -288,6 +290,7 @@ Each article file links back to its original `amplenote.com/help/<slug>` page in
 - [Create your own styled blog with instant updating to replace Wordpress](./13-make-it-sparkle/custom_css_blogging_platform_use_case.md) — Publish live-updating, custom-CSS-styled blog posts by embedding Amplenote notes into hosting platforms.
 - [Handwriting and drawing (native iPad and Excalidraw)](./13-make-it-sparkle/handwriting_drawing_in_notes.md) — Draw in notes using native iPad tools or the Excalidraw plugin with shortcuts.
 - [Inspire yourself with beautiful note background styles](./13-make-it-sparkle/styling_note_page_appearance_background_image_and_color.md) — Apply background images and colors to notes via Edit Page Style options.
+- [Project Retrospectives: Stylish, Shareable Breakdown of What Got Done](./13-make-it-sparkle/generate_completed_task_retrospective_per_month_quarter.md) — A Spotify-Wrapped-style visual summary of completed work for the past quarter.
 - [Setting up an account dashboard](./13-make-it-sparkle/set_up_personalized_account_dashboard.md) — Build a personalized dashboard with planning, DreamTask, calendar, and other plugin widgets.
 
 ## 15. Goals, Forums & Social

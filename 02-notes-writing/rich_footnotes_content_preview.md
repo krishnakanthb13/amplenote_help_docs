@@ -37,6 +37,8 @@ Given their versatility, Rich Footnotes can often replace the need to create and
 
 ![Inserting a link, image, or video into text simply by selecting and pasting](https://images.amplenote.com/e10026fa-9e4b-11ee-a0ca-cac1ebefa4fe/7c674626-7fe0-43fa-aaf1-bcc1b29efbc7.gif)
 
+**Mobile**: Often, the fastest way to create Rich Footnotes on mobile is to select text and tap "paste." If you have a link, image, or video, it will be embedded within the selected text.
+
 **Rich Footnote dialog**: For commentary or linking to existing notes, highlight text and use the keyboard shortcut (`Ctrl K` for Windows or `Cmd K` for Mac) or click the toolbar icons.
 
 ![If you're not into using Ctrl-K or Cmd-K, you can click an icon to insert context into your text](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/9357cdc3-b275-4310-a6b5-c596d6b1b31b.png)
@@ -83,6 +85,12 @@ YouTube videos play within notes without leaving the current document. Links to 
 Using the contextual toolbar, you can quickly create footnotes with existing note text. The footnote text field focuses automatically, allowing you to type visible display text.
 
 ![Extracting a text selection into a Rich Footnote using the contextual toolbar](https://images.amplenote.com/9c4520a2-2909-11eb-b8b3-82d05cdc73d2/61c5c133-16f7-472f-9141-d31c1bb7c8e9.png)
+
+## Insert Rich Footnotes from a plugin (Rich Footnote markdown)
+
+Help pages are published notes in the support@amplenote.com notebook, and every Rich Footnote is plain markdown link syntax. If the link content is text or images, then `^1` is the link destination, and a subsequent `[^1] [link content]()` in the inserted content reveals what description and image is shown when the link text is clicked. The raw markdown view is available at <https://public.amplenote.com/8AHRJe9whAR2nEPAZza5mGbX.md>.
+
+![Rich Footnote as markdown from a plugin](https://images.amplenote.com/0bbee202-0327-11e9-b258-7a639e48bef6/3c8cbba8-4897-4c0f-9723-46fbf95446e8.png)
 
 ## Converting rich footnote content to a note
 

@@ -53,4 +53,4 @@ Notes opened in Peek Viewer can be renamed and have tags modified through the tr
 
 ## Limitations and future development
 
-There is no hard limit on the number of simultaneously open notes. Future versions planned for late 2022 or early 2023 include Peek Viewer support for additional modes and batch-opening capabilities using Shortcuts.
+There is no hard limit on the number of simultaneously open notes. Version 1 of Peek Viewer went live in July 2022. The remaining planned improvement is allowing Shortcuts to be dragged to the Peek Viewer to batch open all matching notes. (Peek Viewer support for Jots and Tasks modes, once listed as future work, has shipped.)

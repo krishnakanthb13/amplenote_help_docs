@@ -17,7 +17,9 @@ Victory Value scoring begins at 1 point and increases based on:
 - **Important task designation** (Ctrl + I hotkey)
 - **Note-level Victory Value multipliers** from tag properties
 - **Positive mood ratings** recorded near task completion
-- **Task dependencies** and other completion factors
+- **Task dependencies** and other completion factors, such as working on tasks that unblock other tasks
+
+The full Victory Value algorithm lives on a separate page: [Victory Value & the "Good Life Algorithm"](https://www.amplenote.com/help/victory_value_guide_intuition_toward_elevated_mood).
 
 The system emphasizes that "being the most productive person in the world isn't worth much if you're miserable while you do it."
 
@@ -35,7 +37,11 @@ Users should conduct periodic audits by:
 
 ## 📈 Completed Task Stats: Trends
 
-Access stats via the chart icon in the desktop client's left panel. The Trends tab displays:
+Access stats via the upwards chart icon in the leftmost panel of all desktop clients, or the chart icon in the desktop client's left panel.
+
+![The upwards chart icon used to open Completed Task Stats](https://images.amplenote.com/a471f122-82a7-11f0-be91-f1fde84f08ce/88f91e38-5a3e-49a6-a03c-fccf47286401.png)
+
+The Trends tab displays:
 
 - **Victory Value accumulation** over selected time ranges
 - **Mood Ratings** alongside productivity metrics

@@ -4,15 +4,19 @@
 
 ## Image & Video Content
 
-Images and videos are protected using what is effectively a very long password. The protection mechanism combines two 122-bit values (v4 UUIDs), with one being a cryptographically secure random number, creating 2^122 possible image addresses.
+![Image and video content](https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
-The article illustrates the impracticality of brute-force attacks by noting that even if a state actor could check 1 million URLs per second, they'd need 5,531,535,562,983,420,195,188,543 years to successfully guess a single image address.
+Images and videos are protected using what is effectively a very long password. An attacker would need to correctly guess both values at the same time to see an image. The protection mechanism combines two 122-bit values (v4 UUIDs), with one being a cryptographically secure random number, creating 2^122 possible image addresses.
+
+The article illustrates the impracticality of brute-force attacks by noting that even if a state actor could check 1 million URLs per second, they'd need 5,531,535,562,983,420,195,188,543 years to successfully guess a single image address — using the common metric of a successful guess in half of the search space. This hypothetical attacker would be better served by attempting to brute-force your account credentials to log in as you.
+
+For intuition on the scale involved: you would have to fold a piece of paper only 45 times for it to reach the moon.
 
 ![Illustration of the vast Amplenote image and video URL address space](https://images.amplenote.com/815c831c-c9fd-11eb-893a-4e6fce92bd30/2dbc6442-af23-4578-8ad2-605511ea4ff8.png)
 
 However, the more salient risk to this form of protection is leaking—if someone shares an image URL elsewhere, it could be discovered more easily than through brute force.
 
-Amplenote notes they're considering encrypted images for vault notes to provide additional security layers.
+There are significant complications to requiring authentication for images in web-based applications, which is why you won't find web-based note-taking applications that do that. Amplenote is considering encrypted images for vault notes; you can vote for it at <https://amplenote.featureupvote.com/suggestions/190499/serve-authenticated-images-in-vault-notes>.
 
 ## PDF Content
 

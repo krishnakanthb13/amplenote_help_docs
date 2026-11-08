@@ -26,6 +26,10 @@ Tasks can repeat weekly on specific days. Examples include:
 - Every weekday (Monday–Friday)
 - Custom day patterns combining multiple weekdays
 
+![A task repeating every weekday](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/89fd1f25-fdd7-4a70-8a2a-70b8a41b49ac.png)
+
+![A custom weekly weekday pattern](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/7efb573d-507c-4711-bfb2-ef392f090f8a.png)
+
 ## Flexible ("Relative") Recurrence
 
 Set up flexible recurrence by:
@@ -36,6 +40,8 @@ Set up flexible recurrence by:
 4. (Optional) Selecting a "Hide until" option to delay the task's reappearance
 
 This approach allows tasks to reschedule based on actual completion rather than fixed intervals.
+
+An alternative way to set flexible recurrence is the `!Every` task command (Task Commands Menu → "Every").
 
 ![Configuring flexible recurrence with the 'When the task is complete' repeat option in Task Details](https://images.amplenote.com/cce04e4c-fad0-11ea-95c1-f200a12bf340/8421fae5-ae29-4fbb-b64a-13cc0f2cb37e.gif)
 
@@ -60,3 +66,5 @@ Control how many times tasks repeat using the "Start At" field:
 - `every day for [number] times` — repeats exact number of times
 
 The `until` keyword requires a date; the `for` keyword requires a number representing total repetitions.
+
+With `until`, a repeat task is generated if and only if its Start Date will **not** be after the specified limit date. With `for`, the exact number of repetitions must be given. Additional avenues to limit recurrence are planned.

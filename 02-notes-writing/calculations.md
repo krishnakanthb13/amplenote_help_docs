@@ -52,9 +52,17 @@ These expressions are used for task recurrence, not within curly brackets:
 
 - Every 2 days, Every 3 weeks, Every 3 weeks on Friday
 - Every weekday, Every 2 months, Every month on the last Friday
+- Every week on Monday and Thursday
+- Every 3 months on the 21st
+- Every month on the 20th and 25th
+- Every month on the last day
+- Every 2 months on the first Monday
+- Every 2 years
 
 ## Table of contents
 
 Paid subscribers can insert `{toc}` to generate a hierarchical list of note sections that can include Rich Footnotes.
+
+If you change the note headings, you'll need to regenerate the table of contents. A future version is planned to offer a table of contents that automatically updates.
 
 ![Inserting a table of contents with {toc}](https://images.amplenote.com/9a63bbb2-e0cf-11eb-ba01-ae352afdb901/a7c32150-fb47-4312-92a7-386f3a6c1043.gif)

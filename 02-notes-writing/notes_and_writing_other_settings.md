@@ -23,7 +23,9 @@ Multiple creation methods are available:
 
 - `name` parameter sets the note title
 - `tags` parameter applies tags
-- `source` parameter copies content from another note using its UUID
+- `source` parameter copies content from another note using its UUID. In a browser, get the note's UUID by opening it and copying it from the URL; in the installed app, use "Copy URL" from the note's triple-dot menu.
+
+![Creating a note from a link with the source parameter](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/04b17096-4cae-4829-9593-1fb1b8df56a7.jpg)
 
 **From templates**: Dedicated help page available for template-based creation.
 
@@ -61,7 +63,7 @@ Most settings work on multi-note selections (see bulk actions documentation).
 
 **Revision history**: Restore previous note versions using dedicated help article.
 
-**Duplicate Note**: Creates a new note with identical content; optionally share with same collaborators as original.
+**Duplicate Note**: Creates a new note with identical content. If the note is not a secure note, you can choose to share it with the same people you shared the original note with.
 
 ![Duplicating a note to create a copy with identical content](https://images.amplenote.com/c1d821d0-fad2-11ea-a5bc-f200a12bf340/837811f1-4e68-48b1-bd68-05d1d5e28526.png)
 

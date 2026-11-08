@@ -18,7 +18,7 @@ Adds app-wide options invokable from "jump to note" (web) or quick search (mobil
 ![appOption app-wide option example](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/188f9755-da0e-470e-8d40-e111f45d1cdf.png)
 
 ### dailyJotOption
-Adds suggestions below today's daily jot with a run button. Returns nothing; customize button text by returning a string from the `check` function.
+Adds suggestions below today's daily jot with a run button. Returns nothing; customize button text by returning a string from the `check` function. A `check` returning `null`, `false`, or `""` hides the option; without a `check` function the option is always shown.
 
 **Arguments:** `app`, `noteHandle`
 
@@ -101,7 +101,8 @@ Renders HTML for embeds in isolated iFrames with relaxed CSP rules.
 
 #### Embed Features
 - `<a>` tags with class `amplenote-link` navigate to Amplenote client locations
-- Supports aspect ratio via `data-aspect-ratio` attribute
+- Embeds render at a fixed 1:1 aspect ratio by default; override with the `data-aspect-ratio` attribute
+- Embed objects are not valid in all locations (e.g. they cannot be inserted in tasks), so they may be placed after a task or dropped when no valid insertion position exists
 - Inline embeds accept parameters: `plugin://UUID?something=1&else=2`
 
 #### Embed-to-Plugin Communication
@@ -118,7 +119,7 @@ Replaces highlighted text via selection menu.
 
 **Arguments:** `app`, `text` (String — selected text)
 
-**Returns:** String (replacement text) or null (cancel replacement)
+**Returns:** String (replacement text) or null (cancel replacement). The replacement is also cancelled if the user changes the selection before the action returns a value.
 
 ![replaceText option in the selection menu](https://images.amplenote.com/2ae961e0-bc5d-11ed-808b-e21efa2d8566/06f99dcf-1a52-4093-9f7b-8ab762174e55.png)
 
@@ -127,9 +128,20 @@ Replaces highlighted text via selection menu.
 ### suggestScheduledTasks
 Propose scheduling for one or more tasks, which the user can accept or dismiss on a per-task basis. `app.context.setScheduledTasks` is defined when this action is invoked to allow progressive display of suggestions.
 
-**Arguments:** `app`, `{ endAt, schedulableTasks, scheduledTasks, startAt, taskDomain }`
+**Arguments:** `app`, `{ endAt, previousSuggestions, schedulableTasks, scheduledTasks, startAt, taskDomain }`
 
-**Returns:** Array of suggested task schedule objects (`startAt`, optional `endAt`, optional `explanation`, optional `task` or `taskUUID`).
+**Returns:** Array of suggested task schedule objects (`startAt`, optional `endAt`, optional `explanation`, optional `task` or `taskUUID`). Extra properties the plugin adds are preserved and returned unchanged in `previousSuggestions`.
+
+`previousSuggestions` entries are `{ decision, suggestion, task }`:
+- `decision` — `"accepted"`, `"dismissed"`, or `null` (undecided)
+- `suggestion` — the plugin's own suggestion object, returned verbatim
+- `task` — set only when accepted, and its times can differ if the user dragged the suggestion
+
+It covers every accepted/dismissed suggestion in the current task domain this calendar session, plus undecided ones. Undecided suggestions replaced by a newer `run` result are excluded.
+
+**`check` differs for this action:** it receives only `{ previousSuggestions }` (not the `run` arguments). It is called when the calendar loads (empty; falsy hides the Suggest button entirely), after every decision (accept, dismiss, undo, redo — undo returns `decision: null`), and when the user switches task domain. Later falsy results disable the button with the tooltip "{Plugin name} plugin has nothing more to suggest"; only the latest check result is used.
+
+Decision history is in-memory per calendar session and is cleared on task-domain switch or calendar reload (persist it with `app.setSetting` or note content if needed). Only the first plugin implementing `suggestScheduledTasks` is used.
 
 ### suggestTaskTargetNotes
 Suggests ordered notes where tasks could be added.

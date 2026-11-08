@@ -90,7 +90,7 @@ Provides invocation location details and interaction methods.
 ### app.createNote
 Creates a new note with optional name and tags.
 
-**Arguments:** Name string, tags array, options object
+**Arguments:** Name string, tags array, options object (`archive` boolean — create the note archived, defaults to `false`)
 **Returns:** UUID of new note
 
 ### app.deleteNote
@@ -125,10 +125,10 @@ Gets temporary URL for an attachment.
 **Returns:** Temporary access URL
 
 ### app.getCompletedTasks
-Gets tasks completed in a time range.
+Gets tasks completed in a time range, including standard completed, dismissed, and crossed-out tasks.
 
 **Arguments:** Unix timestamps (from, to), optional options with taskDomainUUID
-**Returns:** Array of completed task objects
+**Returns:** Array of task objects. Completed tasks have `completedAt`; dismissed tasks have `dismissedAt` instead (keep only tasks with `completedAt` to count completions). Each task's `content` includes the full definitions of any Rich Footnotes it cites (`[^1]: …`), with images and indented text, so the note need not be read. Fields include `parentUUID` and `victoryValue`.
 
 ### app.getExternalCalendarEvents
 Retrieves cached external calendar events (next ~30 days).
@@ -167,7 +167,7 @@ Retrieves note markdown content.
 **Returns:** Note content as markdown
 
 ### app.getNoteImages
-Gets inline images in a note.
+Gets inline images in a note. Does not include images in Rich Footnotes.
 
 **Arguments:** `noteHandle`
 **Returns:** Array of image objects
@@ -195,7 +195,7 @@ Lists sections delimited by headings or rules.
 Gets note-specific styling settings.
 
 **Arguments:** `noteHandle`
-**Returns:** Object with backgroundColor, bannerImageURL, maxOpenTasks or null
+**Returns:** Object with `appearance` ("full-width", "standard", or null for the account-wide default), backgroundColor, bannerImageURL, maxOpenTasks, or null
 
 ### app.getNoteTasks
 Returns tasks in a note.
@@ -278,11 +278,14 @@ Opens app to specified Amplenote URL.
 **Returns:** Boolean indicating success
 
 **Supported URLs:**
+- Notes area: `https://www.amplenote.com/notes`
 - Jots area: `https://www.amplenote.com/notes/jots`
+- Jots area on a tag: `https://www.amplenote.com/notes/jots?tag=some-tag`
 - Notes filtered by tag: `https://www.amplenote.com/notes?tag=some-tag`
 - Specific note: `https://www.amplenote.com/notes/NOTE_UUID`
 - Note section: `https://www.amplenote.com/notes/NOTE_UUID#Section_name`
-- Specific task: `https://www.amplenote.com/notes/tasks/TASK_UUID`
+- Specific task in a note: `https://www.amplenote.com/notes/NOTE_UUID?highlightTaskUUID=TASK_UUID`
+- Specific task page: `https://www.amplenote.com/notes/tasks/TASK_UUID`
 
 ### app.notes
 Alternative interface for note interactions.
@@ -305,7 +308,7 @@ Adds plugin section to sidebar for full-screen embed.
 Opens embed in Peek Viewer sidebar.
 
 **Arguments:** Aspect ratio (number/object), additional args
-**Returns:** Boolean indicating success
+**Returns:** Boolean indicating success. Returns `false` in the mobile app, where there is no Peek Viewer.
 
 ![Quick open invocation example](https://images.amplenote.com/fae505fa-bd40-11ed-8e3b-9a67e5fef0db/4fc7ac45-540a-4a80-b7bc-8499dfcc78eb.png)
 
@@ -317,8 +320,8 @@ Shows message with input fields.
 **Arguments:** Message string, optional options object
 **Returns:** User input value(s) or null
 
-**Input Types:** checkbox, date, note, radio, secureText, select, string, tags, text
-**Options:** inputs array, actions array, primaryAction object
+**Input Types:** checkbox, date, embed, note, radio, secureText, select, string, tags, text
+**Options:** inputs array, actions array, primaryAction object. Each input supports `value` (initial value; must match an option's `value` for radio/select) and `limit` (max tags for a tags input, defaults to 1). An `embed` input is rendered by the plugin's `renderEmbed`; update its value with `app.context.updateEmbedArgs`.
 
 ![Basic prompt example](https://images.amplenote.com/2ae961e0-bc5d-11ed-808b-e21efa2d8566/13b30929-c82f-48e1-86e1-8d4642b59e3b.png)
 
@@ -332,7 +335,7 @@ Shows message with input fields.
 Publishes a note.
 
 **Arguments:** `noteHandle` (must be remote)
-**Returns:** Public URL or null
+**Returns:** Public URL or null. If the note is already published by the current user, the existing URL is returned instead of creating a new one.
 **Requirements:** Unlimited/Founder subscription, internet connection
 
 ### app.recordMoodRating
@@ -384,7 +387,7 @@ Sets a new note name.
 Sets note-specific settings.
 
 **Arguments:** `noteHandle`, setting key, value
-**Supported Keys:** backgroundColor (hex string), maxOpenTasks (integer)
+**Supported Keys:** appearance ("full-width", "standard", or null for the account-wide default), backgroundColor (hex string), maxOpenTasks (integer)
 **Returns:** Boolean indicating success
 
 ### app.setSetting

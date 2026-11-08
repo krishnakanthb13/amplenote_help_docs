@@ -15,7 +15,7 @@ Color uses HTML comments within highlight elements (`==text==`). Color values ar
 await noteInterface.insertContent(`==Red text<!-- {"cycleColor": "23"} -->==`);
 ```
 
-Important: No spaces should appear between the opening `==` and text.
+Important: No spaces should appear between the opening `==` and text. Compare `==Works<!-- {"cycleColor":"1"} -->==` (works) with `== Doesn't work <!-- {"cycleColor":"1"} -->==` (does not).
 
 ## Cycle Colors Index
 Amplenote supports 60 colors with separate palettes for light and dark modes, automatically adapting colors based on theme selection.
@@ -41,6 +41,8 @@ Tables support complex formatting with custom syntax for enhanced cells. Column 
 |name|Bullet Journal<!-- {"cell":{"colwidth":350}} -->|
 ```
 
+Because the Amplenote table UX sets a colWidth for each cell, a fetched note's table will carry the HTML comment in every column cell. To affect the column size, the width declaration only needs to be present in one cell.
+
 ![Inserting a markdown table](https://images.amplenote.com/c6cf84d6-ceb4-11ed-a7db-d2ab91c23399/847c257f-1954-454f-8b78-41ce7e1b6927.png)
 
 ![Markdown table with column widths](https://images.amplenote.com/e4672d3e-3bee-11ef-8e0e-26e37c279344/8a14c4b1-3a0d-4860-96a7-c754b0b945a6.png)
@@ -62,3 +64,15 @@ Since September 2025, tasks can be created with markdown using HTML comments to 
 
 ## JavaScript Expression
 Use template literals for markdown blocks in JavaScript code.
+
+## Maximum content length
+As of 2026, markdown passed to the plugin API is capped at **200,000 characters per call**. Over that, the call throws `markdownContent is too long` and nothing is written — the note is left untouched.
+
+The cap applies per argument to:
+- `app.insertNoteContent(noteHandle, markdownContent)` → `markdownContent`
+- `app.replaceNoteContent(noteHandle, markdownContent, options)` → `markdownContent`
+- `app.insertTask(noteHandle, task)` → `task.content`
+- `app.updateTask(taskUUID, updates)` → `updates.content`
+- `app.updateNoteImage(noteHandle, image, updates)` → `updates.caption`
+
+It is per-call, not per-note: a note may exceed 200,000 characters across multiple calls.

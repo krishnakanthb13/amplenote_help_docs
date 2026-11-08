@@ -34,17 +34,23 @@ Top-level tags should serve as broad categories. Popular options include:
 - `todo` – actively working tasks
 - Project or hobby names – areas requiring multiple subtags
 - `archive` – less-useful content
+- `book-notes` – notes taken while reading
+- `bucket-lists` – things to do, see, or try someday
 - `business` – work-related catch-all
 - `canonical` – trusted primary sources
 - `daily-jots` – morning notes
+- `gift-lists` – ideas for gifts to give
+- `holiday-packing-lists` – reusable packing checklists
+- `me` – personal reference material
 - `meetings` – discussion notes and takeaways
-- `pdfs` – PDF-containing notes
 - `people` – personal knowledge management
-- `personal` – non-work content
-- `projects` – work project organization
+- `personal-finance` – money and financial planning
+- `recipes` – cooking reference
 - `shared` – shared note tracking
 - `travel` – travel-related content
 - `weblinks` – bookmarked websites
+- `work-job` – career-specific material
+- `workouts-exercise` – fitness tracking
 
 **Avoid naming buckets after temporary interests.**
 

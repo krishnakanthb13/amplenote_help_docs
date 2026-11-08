@@ -52,7 +52,11 @@ Access the file management interface by:
 2. Selecting "View all details"
 3. Clicking the "Manage Files" link
 
-Alternatively, append `/files` to your note's URL in your browser.
+You can also open the note details dialog with `Ctrl-Shift-O`, or append `/files` to your note's URL in your browser.
+
+![The View all details option](https://images.amplenote.com/c6423f82-a7b7-11ed-a711-3ac2ea44f0fb/9b644611-69dc-4bba-9dc9-c474748e562a.png)
+
+![The Manage Files link](https://images.amplenote.com/c6423f82-a7b7-11ed-a711-3ac2ea44f0fb/05fee7fd-1388-4eee-bbd0-e8e6468b45c6.png)
 
 ![A representative list of the assets uploaded to this note](https://images.amplenote.com/c6423f82-a7b7-11ed-a711-3ac2ea44f0fb/7026a5c1-ab5f-4ff3-b22c-d04dd75f83f7.png)
 

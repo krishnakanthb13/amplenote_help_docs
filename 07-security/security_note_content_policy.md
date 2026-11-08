@@ -4,7 +4,7 @@
 
 ## Note content policy
 
-Amplenote commits to never attempting to decrypt user note content, supported by technical safeguards including Vault Notes—which enable local encryption without the company retaining decryption keys.
+Our company policy is, and shall forever remain, that Amplenote will not attempt to decrypt user note content. This is supported by technical safeguards including Vault Notes—which enable local encryption without the company retaining decryption keys.
 
 ## The role of "policy" within an overarching security strategy
 

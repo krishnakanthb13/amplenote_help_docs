@@ -55,6 +55,8 @@ Any date expression works (Tomorrow, next friday, etc.).
 - `@my/tag/hierarchy/{next friday}`
 - `[[my/tag/hierarchy/{next friday}]]`
 
+Amplenote will not create a new Jot on that date; instead, it will use the one you created.
+
 ## #daily-jots tag
 
 The default `daily-jots` tag is selected when entering Jots mode, making it easy to filter notes created in Jots mode.
@@ -68,6 +70,7 @@ Jots follow these sorting rules:
 - Dates are chosen from either the note's title (if dated, up to current day) or creation date
 - Jots sort in descending date order
 - Placeholder notes appear for up to the last 7 days without a created jot (for `#daily-jots` only)
+- For all other tags, the placeholder note is only created for the current day
 - Future jots display below the current day's jot until they become current
 - Undated notes appear below the jot of their creation day
 

@@ -105,7 +105,7 @@ Set urgency and importance using task commands or the Task Details panel.
 
 Specify estimated task duration from four options:
 
-- Tasks under 90 minutes are recommended for breakdown
+- If you have tasks that are 90+ minutes, it might help to break them down into a few smaller tasks
 - 15- and 30-minute tasks often feel more actionable
 - Task Score prioritizes shorter-duration tasks
 - Shorter tasks accumulate score faster and reduce list clutter quickly

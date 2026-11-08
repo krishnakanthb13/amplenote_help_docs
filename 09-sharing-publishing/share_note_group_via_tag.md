@@ -21,7 +21,7 @@ Two methods exist:
 
 ![Collaborator dialog: showing frequent collaborators](https://images.amplenote.com/652dbac0-fad3-11ea-a5bc-f200a12bf340/3d696863-c812-4014-bd1b-c942c2f3ad25.png)
 
-You can set permissions as "Edit" (read-write) or "Share" (read-only). After sharing, clicking the share icon displays how many people have access and allows you to adjust permissions.
+You can set permissions as "Edit" (read-write) or "Share" (read-only). After sharing, clicking the share icon displays how many people have access and allows you to adjust permissions. You can also use "Include a message" to send a message in the collaborator's notification email, and "Also share referenced notes" to grant access to every note referenced inside the shared note (without recursing into those notes' own unshared references).
 
 ![Share icon shows how many have access, and re-opens collaboration dialog](https://images.amplenote.com/2f9dba8e-03e7-11e9-8493-fed38e33333f/89f65382-73cc-42ba-a22f-337ff59688aa.png)
 
@@ -45,7 +45,7 @@ As shown in the demo video, regardless of who creates note content, if they appl
 
 ## Key behaviors
 
-- Shared tags don't propagate hierarchy.
+- Shared tags do not propagate hierarchy (as of late 2021). All receiving accounts see the base tag applied regardless of which sub-tag was used.
 - The original tag sharer controls deletions.
 - Recipient-created notes become controlled by the sharer's account.
 - Removing a tag removes viewing access but preserves the note in the sharer's account.
@@ -54,6 +54,8 @@ As shown in the demo video, regardless of who creates note content, if they appl
 
 - Bulk-add notes to shared tags via multi-note selections.
 - View the note creator and sharer in the note details.
+- Track recently-updated shared notes via the Mission Control Dashboard → "Shared Notes" component (auto-installed for new users as of early 2026).
+- Publish a group of notes with the Webnotes plugin (<https://www.amplenote.com/plugins/Mor4CfsPFGmF34LHkEo4MeaJ>), which requires an Unlimited or Founder subscription with "Publish" enabled.
 
 ![Viewing the note creator and sharer in the note details](https://images.amplenote.com/652dbac0-fad3-11ea-a5bc-f200a12bf340/94cb518e-b41b-4bfb-bc02-ed1142e1aa9a.jpg)
 

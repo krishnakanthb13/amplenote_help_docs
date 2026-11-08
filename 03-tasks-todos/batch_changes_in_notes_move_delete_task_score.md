@@ -45,3 +45,9 @@ This feature proves useful when project priorities shift, allowing rapid bulk ad
 ![Submenu for adjusting task scores](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/8c18adb5-c246-4a6d-9bf2-a4bab75f43d1.png)
 
 ![Options to increase or decrease scores by percentage or specific number](https://images.amplenote.com/b6c2e106-e7d0-11ee-a1f9-f682521de7a6/273a7d05-cb08-4de6-90ad-6f2741757247.png)
+
+### Rescore by taste (Agent Pro)
+
+Agent Pro users can batch-rescore tasks using the AI button in the toolbar in notes mode, then choosing "Rescore Tasks." This lets you rescore tasks any time, based on anything.
+
+![Batch rescoring options](https://images.amplenote.com/8e6590a0-b5f7-11ef-955e-8fa4bd4f8d6e/44797c70-29ca-4a0c-9003-0363c9bc7639.png)

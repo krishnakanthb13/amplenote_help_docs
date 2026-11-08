@@ -18,21 +18,24 @@ The company reviews each case individually; submission does not guarantee paymen
 
 ## What Does Not Qualify
 
-The program excludes:
-
-- Irreproducible reports
-- Non-security issues
-- General security advice or best practices
-- Theoretical issues lacking demonstrable impact
-- Duplicate or previously reported vulnerabilities
-- Unverified automated scan outputs
-- Third-party, user device, or out-of-scope system issues
-- Social engineering, phishing, or physical attacks
-- Cosmetic, UI, or informational findings
+The program excludes reports that cannot be reproduced.
 
 ## Reward Decisions
 
-Bounty amounts depend on severity, impact, exploitation difficulty, and user/data risk. All payments are discretionary.
+Bounty amounts depend on severity, impact, exploitation difficulty, user/data risk, and whether the report accurately described the issue. All payments are discretionary.
+
+## Resolved Reports
+
+All reports are published on this page after they are resolved. Resolved reports are listed with a date, a link to the disclosure, and an outcome marker (✅ fixed, ☑️ partially addressed, ❌ not a vulnerability). The log currently includes entries through October 2026, such as:
+
+- ❌ 10/19/2026 — Missing X-Permitted-Cross-Domain-Policies HTTP Response Header
+- ❌ 09/17/2026 — CSRF Allows an Attacker to Force an Authenticated User's Subscription to the Personal Plan
+- ❌ 09/15/2026 — Account Takeover via Malicious PDF
+- ❌ 09/14/2026 — High severity stored XSS in Amplenote affecting all users
+- ❌ 08/05/2026 — Pre-Account Takeover Allows Attacker-Controlled 2FA Setup and Account Lockout
+- ✅ 08/13/2026 — Missing rate limit for old password field
+
+See the [live page](https://www.amplenote.com/help/security_bug_bounty_program) for the complete, linked list.
 
 ## Responsible Disclosure Rules
 

@@ -41,6 +41,30 @@ Accessed through Note Options, Note Agent enables transformations on notes. Exam
 
 ![Your wish is Note Agent's command](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/5daefbae-77d6-4cbe-88bd-805fc462495b.png)
 
+### Task Router
+
+After the five mobile/desktop "Task Capture" destination guesses, tap "Suggest note" to auto-route the task; this takes 3-5 seconds. Task Router is complimentary within quota.
+
+![Task Router: pick the best-matched note for a new task](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/c0cada3b-1d3d-4272-ab9c-6b3bcd558ae7.gif)
+
+### Proposed Agenda (via Mission Control Dashboard)
+
+The free Mission Control Dashboard plugin picks which tasks from the selected Task Domain best fit today's calendar. You can change the priority or the AI provider for a different opinion.
+
+![Proposed Agenda](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/493be005-50ac-4728-b8d8-887477d18331.jpg)
+
+![Changing the AI provider](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/4a098d86-699f-4ae1-a7f4-c735d3e16fd5.png)
+
+### Image Optimizer
+
+Click an image and choose "Optimize Size" for lossless reduction; it usually takes around 10 seconds for an image up to 500kb.
+
+![Image Optimizer](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/b0d6e985-02a3-43fd-a441-13438dfc4602.png)
+
+### Note Search Agent
+
+Also invokable via `/search` in a note or via Quick Open → "Ample Agent Pro: Search Agent". Note Search Agent is a complimentary feature; Deep Research is the extended (BYO-key) one.
+
 ### Goal-Aligned Task Recommendations
 
 After installing the Mission Control Dashboard plugin, Ample Agent Pro parses Quarterly Planning notes to suggest tasks aligned with goals and day of week.
@@ -106,13 +130,13 @@ Use `/chat` to discuss current note content with an LLM for comprehensive sugges
 
 ## 🧠 Adding AI Provider Keys
 
-Use the `/provider` slash command to add API keys for Anthropic, OpenAI, Grok, and Gemini. Keys propagate across platforms, and users then select preferred models from available options.
+Use the `/provider` slash command to add API keys for Anthropic, OpenAI, Grok, and Gemini. Keys propagate across platforms, though plugin-setting sync can take a couple minutes (as of Q2 2026). Users then select preferred models from available options.
 
 ![Adding AI provider keys and picking frontier models](https://images.amplenote.com/f8609366-38db-11f1-835b-e59b1941e7c9/9815832f-3e87-452a-ba51-8e0abb70320e.png)
 
 ## ⛽ How much quota is included?
 
-"An effectively unlimited number of **non-research** interactions (e.g., 'thesaurus,' 'revise,' 'complete the thought')" are available. Agent-based queries should allow "around 20-50 monthly calls" before requiring personal API keys.
+"An effectively unlimited number of **non-research** interactions (e.g., 'thesaurus,' 'revise,' 'complete the thought')" are available. Agent-based queries should allow "around 20-50 monthly calls" before requiring personal API keys. The plugin costs $8/month, described as "$8 worth of spend (the initial cost of Ample Agent Pro)". Use the `/quota` slash command to see remaining and consumed quota; the plan includes a "4 hour AI quota" / hourly quota.
 
 ## ♻️ Updating the plugin
 

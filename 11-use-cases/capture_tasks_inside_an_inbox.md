@@ -1,14 +1,42 @@
-# How to QUICKLY capture tasks (create an Inbox)
+# How to QUICKLY capture tasks in Amplenote (create an Inbox)
 
 > [← Help Index](../00-index.md) · Category: [Use Cases](./index.md) · [Source ↗](https://www.amplenote.com/help/capture_tasks_inside_an_inbox)
 
-## Overview
-
-In Amplenote, tasks live inside notes rather than in a standalone inbox. While this keeps tasks within their original context, it can slow down rapid task capture. This guide covers methods to quickly capture new thoughts and ideas.
+In Amplenote, tasks live inside notes rather than in a standalone inbox, which keeps them within their original context. This guide covers the fastest ways to capture new thoughts before they get away.
 
 ## ⚡ The fastest ways to capture new tasks
 
-Amplenote provides a dedicated help page listing multiple rapid task capture methods across mobile, desktop, and tablet. That canonical resource should be consulted first for the complete list of options.
+### One-tap capture on mobile
+
+The mobile app shows a "➕" icon in the lower-right corner. Tap it, type your task, and Amplenote offers five initial guesses for the destination note. A "Guess note" button in the bottom row auto-files the task for you (requires Agent Pro).
+
+![Ubiquitous one-tap task capture](https://images.amplenote.com/4214511a-dd43-11ee-9a0e-ca8ae82b63ae/3406d810-c06f-45ca-84be-7bfe8b445323.png)
+
+![Quick capture on mobile, featuring 'Guess note' to auto-file tasks](https://images.amplenote.com/4214511a-dd43-11ee-9a0e-ca8ae82b63ae/d1c8af43-362f-4ef3-b3f7-392c48d990d1.jpg)
+
+### Task options: repeat, duration, important
+
+The "More options" button in the lower-right of the task capture form exposes repeat, duration, and important. "Weekday" or "weekend" flexible recurrence are recommended. You can also mark a task urgent/important, set a duration, or set a fixed recurring schedule.
+
+![Task options: repeat, duration, important](https://images.amplenote.com/875d7480-a704-11f1-b6fb-1f66e72a9c4d/a5d0522a-df45-47c7-a576-0c09860a74cb.png)
+
+### Include an image or video
+
+An uploaded image or video on a task is embedded as a Rich Footnote in the task text.
+
+![Include an image or video](https://images.amplenote.com/4214511a-dd43-11ee-9a0e-ca8ae82b63ae/a8275d4c-988b-4f18-8b72-6b9d6e4594d2.jpg)
+
+### 📲 Sharing via "Share sheet"
+
+Use the OS Share Sheet to send content into Amplenote from other apps; the content is placed in a task. Dedicated capture paths also exist for Apple Watch and voice.
+
+![Sharing via the Share Sheet](https://images.amplenote.com/cc7078ee-32ad-11ed-9847-c2af19d2d6e3/5181ffaa-1202-4d61-8a5e-b8c0cb999195.png)
+
+![Share sheet content placed in a task](https://images.amplenote.com/4214511a-dd43-11ee-9a0e-ca8ae82b63ae/5c5ab605-201a-4e1e-b4ea-c1fdc0c48623.jpg)
+
+## Archived (removed upstream — kept for reference)
+
+> The following sections were part of this page before Amplenote rewrote it upstream. They are retained here for reference and may describe older UI.
 
 ## ✍️ Capture everything inside Daily Jots
 

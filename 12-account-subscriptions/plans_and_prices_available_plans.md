@@ -24,7 +24,7 @@ For those supporting accelerated feature development, seeking early access to ne
 
 ### Does Amplenote offer a free plan?
 
-Yes. The Personal plan is robust and free, offering unlimited device syncing and access to all Idea Execution Funnel modes. Users receive a "14-day free trial" with features matching the Pro plan upon account creation.
+Yes. The Personal plan is robust and free, offering unlimited device syncing and access to all Idea Execution Funnel modes. Users receive a "14-day free trial" upon account creation; the features included in the Trial period are the same as those from the Basic plan.
 
 ![Selecting the Personal plan on mobile](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/a00005a3-2821-49b6-9acf-24da52670c84.png)
 
@@ -52,4 +52,4 @@ Billing occurs monthly or annually based on your selection. Amplenote accepts de
 
 ![Canceling an Amplenote subscription on Android](https://images.amplenote.com/600d8fe2-52cc-11eb-a9d1-3e0332af7e7b/f2407dec-f3ec-4ef0-a0e3-4059c17f5e78.png)
 
-**Cancellation:** Your plan reverts to Personal (free) upon cancellation. "Annual subscribers with 6+ months remaining" may request refunds through support@amplenote.com.
+**Cancellation:** Your plan reverts to Personal (free) upon cancellation. Cancelled accounts can still view, edit, and export notes, but they won't have access to the functionality present in other plans. "Annual subscribers with 6+ months remaining" may request refunds through support@amplenote.com.

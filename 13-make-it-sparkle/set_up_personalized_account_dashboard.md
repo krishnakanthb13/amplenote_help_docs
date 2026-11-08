@@ -1,4 +1,4 @@
-# Setting up an account dashboard
+# Setting up an account dashboard (Mission Control Dashboard)
 
 > [← Help Index](../00-index.md) · Category: [Make it Sparkle](./index.md) · [Source ↗](https://www.amplenote.com/help/set_up_personalized_account_dashboard)
 
@@ -6,35 +6,44 @@ Amplenote enables users to customize a dashboard that tracks activity across you
 
 ## Enabling an Amplenote Dashboard
 
-To activate your dashboard:
-1. Install a plugin that supports dashboards
-2. Click the "Notes" pane
-3. Click "Customize" in your dashboard area
+New Amplenote accounts have the Dashboard enabled by default. If you registered your account before 2026, activate it by:
+1. Installing a plugin that supports dashboards
+2. Clicking the "Notes" pane
+3. Clicking "Customize" in your dashboard area
 
 This displays a list of installed plugins capable of rendering a dashboard. The Overview Dashboard plugin, developed by Amplenote, is expected to reach full v1 by late March 2026. The plugin was created using Cursor and Claude Code, allowing further enhancement through AI tools.
 
 ## Dashboard Components
 
 **🌎 Task Domain Selection**
-Most dashboard widgets filter notes and tasks based on your selected Task Domain from the top bar. If you haven't configured a Task Domain, instructions and video guides are available.
+Most dashboard widgets filter notes and tasks based on your selected Task Domain from the top bar. If you haven't configured a Task Domain, instructions and video guides are available. By default, the "Work" task domain includes any note that has a `todo` tag applied. Tag hierarchies such as `todo/project-a` and `todo/project-b/writing` are recommended for separating projects.
 
 **📜 Quarterly/Monthly/Weekly Planning**
-The Planning widget displays your quarterly plan by default, inspired by Deep Work methodology. Your plan informs DreamTask suggestions and future Task Trash functionality. Setting the Planning widget to two cells tall displays your weekly plan below your monthly plan.
+The Planning widget displays your quarterly plan by default, inspired by Deep Work methodology. Your plan informs DreamTask suggestions and Task Trash functionality. When the Task Trash widget is enabled (coming March 2026), your quarterly plan is used to pick out which tasks you might be able to retire. Setting the Planning widget to two cells tall displays your weekly plan below your monthly plan.
 
-**🏆 Victory Value vs Contentment**
-This component tracks completed task value alongside optional mood ratings (-2 to +2). Cal Newport advocates rating each day in real time to identify patterns across your optimal circumstances over time.
+**🧙 Proposed Agenda**
+Considers all tasks in your Task Domain and proposes which fit today. You can choose a different priority or change the AI provider for a different opinion.
 
-**🔮 DreamTask**
-Combining your Task Domain with quarterly goals and current day context, DreamTask suggests tasks you could complete today. Larger widget sizes generate more suggestions, and past suggestions are tracked to avoid repetition within a week.
+**🏆 Victory Value vs Energy Level**
+This component tracks completed task value alongside optional mood ratings (-2 to +2). Cal Newport advocates rating each day in real time to identify patterns across your optimal circumstances over time. The mood overlay can optionally be disabled, and ratings also appear in Victory Value.
+
+**🔮 Goal Coach**
+Combining your Task Domain with quarterly goals and current day context, Goal Coach suggests tasks you could complete today (the suggestions it generates are called DreamTask). If you've added an LLM key to the Dashboard Settings and some details to your Quarterly Plan, DreamTask has suggestions. Larger widget sizes generate more suggestions, and past suggestions are tracked to avoid repetition within a week. Click a task to navigate to it, or create it within the note that has the most tasks.
+
+**🏃 Habits by Energy Impact**
+Uses flexible recurring tasks/habits to compute how each habit affects your daily energy ("Energy Delta per Habit"), including how many times each habit was completed in the past year.
+
+**👬 Shared Notes**
+Shows recently updated shared notes, lets you pin a note to follow up later, and filter by collaborator. Any collaborator with a note updated in the past year is shown in the filter.
 
 **🗒️ Day Sketcher**
-This drag-and-drop scheduler auto-populates with scheduled tasks and events, allowing you to sketch your day outline. Your sketch is saved to a note for persistence and historical reference.
+This drag-and-drop scheduler auto-populates with scheduled tasks and events from Amplenote or third-party connected calendars, allowing you to sketch your day outline. Use tab and shift-tab to navigate between hours of the day. Your sketch is saved to a note for persistence and historical reference. External events are coming soon.
 
 **🕰️ Revisit Candidates**
-This widget identifies notes with languishing tasks, offering opportunities to resume past projects within your Task Domain.
+This widget identifies notes with languishing tasks, offering opportunities to resume past projects within your Task Domain. By early Q2 2026, it will keep a history of past suggestions to ensure maximum variety from day to day.
 
 **🎭 Satisfaction/Contentment Meter**
-This component helps balance productivity with enjoyment, allowing you to record daily mood ratings via emoji selection and toggle between visualization types.
+This component helps balance productivity with enjoyment, allowing you to record daily mood ratings (-2 to +2) via emoji selection. Use the "Configure" link at the bottom of the component to toggle between visualizations; changing the calendar date refreshes the ratings.
 
 **⏰ Peak Hours**
 Visualizes when completed tasks were created or finished within a given month, showing which hours yielded maximum creative energy.
@@ -63,7 +72,7 @@ Two methods exist for reordering widgets:
 - Click "Layout" in the upper right and drag components
 - Click a widget header for two seconds until it shakes, then drag to reposition
 
-The "Sizing" tab within Layout controls widget dimensions. The "Components" tab allows moving widgets to a "Hidden" section if they lack sufficient value.
+The "Sizing" tab within Layout controls widget dimensions. The "Components" tab allows moving widgets to a "Hidden" section if they lack sufficient value. When developers add new components, they often begin life in the "Hidden" section, so check Layout periodically for new widgets.
 
 ## Mobile Dashboard
 

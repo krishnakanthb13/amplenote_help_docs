@@ -26,6 +26,8 @@ Currently, there's no formal affiliate program, though one is planned. However, 
 
 The company reserves the right to deny compensation for "nefarious methods" and won't process affiliate payments for referrals under 20 paying subscribers due to administrative costs.
 
+Once approved, you'll be eligible for payment **3 months** after the referred users' payments have been processed. Payout is net of refunds/chargebacks and computed on the referred users' first-year payments. For example, 20 of 50 referrals paying (10 Unlimited + 8 Pro + 2 Founder) yields $2,239.80 in first-year revenue and a $1,119.90 (50%) payout. Your referral count is visible from the "Share Amplenote" page.
+
 Custom referral URLs are available for users with large followings who wish to promote Amplenote publicly.
 
 ## Large following inquiries

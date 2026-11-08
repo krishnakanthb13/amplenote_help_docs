@@ -10,7 +10,7 @@ Amplenote provides online and offline access across desktop platforms, iOS, and 
 
 ## Desktop
 
-Windows, macOS, and Linux are supported through downloadable PWA apps with offline functionality or via web browser.
+Windows, macOS, and Linux are supported through downloadable PWA apps with offline functionality, via web browser, or via the native Windows/macOS/Linux desktop client with a Pro subscription or higher.
 
 ### Amplenote Web App
 
@@ -39,6 +39,10 @@ Amplenote is available in the "[Apple App Store](https://apps.apple.com/us/app/a
 ### Installing on an iPad
 
 The native iPad app is available through the App Store, offering "[Handwriting and drawing on iPad](https://www.amplenote.com/help/handwriting_drawing_in_notes)" features.
+
+### Apple Watch
+
+You can capture tasks via Apple Watch using an iOS Shortcut. See [Capture tasks via Apple Watch](https://www.amplenote.com/help/apple_watch_task_capture).
 
 ### Amplenote mobile web
 

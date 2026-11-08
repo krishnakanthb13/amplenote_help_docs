@@ -27,3 +27,11 @@ Real-world data may show counterintuitive patterns—for example, highest produc
 Mood ratings receive identical encryption treatment as note content: encrypted client-side, in transit, and at rest. Full details appear in [Amplenote's security documentation](https://www.amplenote.com/help/amplenote_security_design).
 
 Exported data includes a `data/mood-ratings.json` file containing note references, numeric ratings, timestamps, and UUIDs.
+
+## Energy Delta per Habit (Dashboard)
+
+The Mission Control Dashboard includes an "Energy Delta per Habit" module that calculates the correlation between "habits" and "positive days." Click the battery icon in the header to expand it and show all habits without scrolling.
+
+Data appears as you submit energy ratings alongside recurring tasks. Set flexible recurrence on a habit with `/every` in the task to have it included.
+
+![Energy Delta per Habit in the Dashboard](https://images.amplenote.com/3fbec732-e760-11f0-9cf5-33c83009c142/2584f357-a01a-4c55-b1c7-ba68ba5eb82e.png)

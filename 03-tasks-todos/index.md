@@ -17,6 +17,7 @@ Creating, scheduling, scoring, linking, and organizing tasks.
 - [Keyboard-driven ! Task Commands Menu](./task_commands_menu.md) — Use the ! Task Commands Menu to edit tasks via keyboard.
 - [Linking tasks: Block, Mirror, Implement Goal, and basic connections](./task_dependencies_block_task_implement_goal_task_mirror_or_connect_task.md) — Create task dependencies and links between tasks.
 - [Nested tasks and subtasks](./nested_tasks_subtasks_when_to_create_how_to_use.md) — When and how to create nested tasks and subtasks.
+- [Planning a day, week, month or quarter with Amplenote](./planning_day_week_with_suggested_agenda_calendar_tasks.md) — Build a plan from existing tasks so the most relevant work surfaces for a day, week, month, or quarter.
 - [Set a task Start Time (Due Date) using natural language](./set_start_time_due_date.md) — Set task start/due times using natural language.
 - [Setting a maximum limit of open tasks per note](./limit_tasks_per_note.md) — Limit the number of open tasks allowed per note.
 - [Tasks Mode Overview, and visible due/starting time](./tasks_view_mode.md) — Overview of Tasks mode and visible due/starting times.

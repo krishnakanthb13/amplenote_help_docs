@@ -21,7 +21,7 @@ Every finished task earns one Victory Value point.
 Tasks flagged as important contribute 7 additional points, reflecting alignment with long-term goals.
 
 **3. Longer Duration**
-Time investment is calculated using the formula `Math.max(0, ln(minutes)-1)`:
+There are many ways to set a task's duration (for example, dragging it on the calendar); the `/duration` command is an always-available option. Time investment is calculated using the formula `Math.max(0, ln(minutes)-1)`:
 
 - 1-2 minute tasks: 0 extra value
 - 30-minute task: 2.4 points
@@ -33,12 +33,13 @@ Mood ratings submitted near task completion boost Victory Value:
 
 - Within 0-30 minutes: mood rating multiplied by 2
 - Within 30-90 minutes: mood rating added directly
-- Daily average mood applied to all that day's tasks
+- Multiple ratings in the 30-90 minute window are summed
+- Daily average mood applied to all that day's tasks, averaged on the following day (for example, ratings of -2, -1, and +2 average to -0.3, which is applied to each task completed that day)
 
 ![Which are ya, and can we upgrade it? (mood rating selector)](https://images.amplenote.com/549b4972-5e86-11f0-8766-6376fd6d89fe/62ef8d6d-0dde-4167-938c-062d1132fa64.png)
 
 **5. High Leverage**
-"Lead domino" tasks that preclude other tasks receive bonus points proportional to obsoleted work.
+"Lead domino" tasks that preclude other tasks receive bonus points proportional to obsoleted work. If a completed task precludes other tasks with similar/duplicate content, no extra Victory Value is given — those are treated as mirrors, not distinct content.
 
 **6. Tag Multiplier**
 Users can assign Victory Value multipliers to priority tags (Unlimited subscribers only). The highest multiplier applies when multiple tags exist.

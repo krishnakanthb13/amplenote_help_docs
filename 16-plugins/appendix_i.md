@@ -23,7 +23,7 @@ Represents events from connected external calendars with properties:
 - `title`: Event title string
 
 ### group
-Defines note filter groups (String values: "archived", "deleted", "notes", "overview", "published", "robot", "shares", "vault", "versioned").
+Defines note filter groups. String values: `"archived"`, `"created"`, `"indexing"`, `"notCreated"`, `"person"`, `"plugin"`, `"public"`, `"saving"`, `"shareSent"`, `"shared"`, `"stale"`, `"taskLists"`, `"thisWeek"`, `"today"`, `"untagged"`, `"vault"`.
 
 ### image
 Describes inline images in notes:
@@ -48,20 +48,25 @@ User-submitted mood ratings containing:
 
 ### noteHandle
 Objects identifying notes, including non-existent future notes. Can accept string `uuid` as shorthand. Returns populated with metadata:
-- `changed`: ISO 8601 datetime of last user modification
+- `active`: When the current user last opened or edited the note (a background save doesn't move it)
+- `archived`: Boolean (present only when the note is archived, i.e. has no inbox tag)
+- `changed`: ISO 8601 datetime of the last change made by the **current user** (a collaborator's edit doesn't move it; falls back to `updated` for notes last edited before October 2019)
 - `created`: ISO 8601 creation datetime
+- `creatorUUID`: UUID of the account that created the note
 - `name`: Note title string (null for untitled notes)
 - `published`: Boolean (present only if true)
 - `shared`: Boolean (present only if true)
-- `tags`: Array of tag strings
-- `updated`: ISO 8601 modification datetime
+- `tags`: Array of tag strings (tags the app hides are left out)
+- `updated`: ISO 8601 datetime of the last change by any user with access
 - `uuid`: Note identifier string
 - `vault`: Boolean (present only if true)
+
+Timestamps are ISO 8601 strings with a UTC offset, e.g. `"2026-10-24T17:28:14-07:00"`. Edits the app makes automatically move neither `updated` nor `changed`. Notes not yet acknowledged by the server may have a `local-`-prefixed uuid, usable on the creating client until persistence completes.
 
 ### person
 Describes another user known to current user:
 - `active`: ISO 8601 date string of latest activity
-- `avatar`: Object with `imageURL` or `text` initials
+- `avatar`: Object with `image` (URL string for the avatar image) or `text` initials
 - `name`: Display name or email
 - `sharing`: Object with `notes` (array of UUIDs) and `tags` (array of tag strings)
 - `uuid`: User identifier string
@@ -94,14 +99,17 @@ Task objects with properties:
 - `isParent`: Boolean for indented subtasks
 - `isRepeating`: Boolean for repeating tasks
 - `noteUUID`: Containing note identifier
+- `parentUUID`: UUID of the parent task (the task indented one level less)
 - `repeat`: RRULE string or null
 - `score`: Number representing task score
 - `startAt`: Unix timestamp or null
 - `urgent`: Boolean flag
 - `uuid`: Task identifier string
+- `victoryValue`: Number; the task's value for completed tasks
 
 ### taskDomain
 Describes a configured task domain:
+- `hasConnectedCalendar`: Boolean indicating whether the task domain has an external calendar (or more than one) connected to it
 - `name`: Display name of the task domain
 - `notes`: Array of noteHandle objects for notes in the domain
 - `uuid`: Task domain identifier string

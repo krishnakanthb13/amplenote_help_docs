@@ -23,4 +23,4 @@ Three YouTube tutorials featured by productivity experts, plus a link to the ful
 
 ## Help Topics Directory
 
-Links out to all 15 help categories: Capture, Notes & Writing, Tasks & Todo Lists, Calendars & Scheduling, Organization, Devices & Syncing, Security, Search/Navigation, Sharing & Publishing, Import & Export, Use Cases, Account & Subscriptions, Customization, Goals/Forums/Social, Plugin Development, and Concepts/Terminology.
+Links out to all 17 help categories: Capture, Notes & Writing, Tasks & Todo Lists, Calendars & Scheduling, Organization, Devices & Syncing, Security, Search/Navigation, Sharing & Publishing, Import & Export, Use Cases, Account & Subscriptions, Customization, Goals/Forums/Social, Plugin Development, and Concepts/Terminology.

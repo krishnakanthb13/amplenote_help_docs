@@ -8,6 +8,8 @@ Detailed information about Amplenote's data handling practices can be found in t
 
 The page provides access to "Amplenote Data Processing Agreement 2026-02.pdf," which is updated annually in the first quarter.
 
+Download: <https://api.amplenote.com/v4/view/P4YxaiLzVKAHUxhbKB5e4hHw/attachments/a5b6c8f5-4617-4b98-b364-5f45e069c658>
+
 **Update Status:** Last updated Q1 2026.
 
 ## Related Legal Pages

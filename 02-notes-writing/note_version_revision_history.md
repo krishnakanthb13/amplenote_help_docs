@@ -4,7 +4,7 @@
 
 ## Overview
 
-Every note in Amplenote keeps a history of how it has changed over time. This feature is particularly useful when you need to examine details from tasks completed long ago, or investigate what happened to content you expected to find.
+Every note in Amplenote keeps a history of how it has changed over time. This feature is particularly useful when you need to examine details from tasks completed more than six weeks ago, or investigate what happened to content you expected to find.
 
 ## How to access revision history
 

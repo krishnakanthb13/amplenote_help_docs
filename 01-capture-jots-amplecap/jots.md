@@ -52,6 +52,8 @@ For specific tag hierarchies:
 
 `@my/tag/hierarchy/{next friday}` or `[[my/tag/hierarchy/{next friday}]]`
 
+If you create a Jot for a future date manually, Amplenote will not create a new Jot on that date; instead, it will use the one you created.
+
 ### #daily-jots tag
 
 The default tag when entering Jots mode is `daily-jots`, making it easy to filter notes created in Jots mode.

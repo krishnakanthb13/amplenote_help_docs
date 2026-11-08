@@ -65,6 +65,20 @@ MCP Server access requires an Unlimited or Founder subscription level.
 
 ![You should see "amplenote" listed among the MCP entries after typing /mcp](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/1430505c-75d3-4cc5-8372-80f6deec3ab6.png)
 
+## Using Amplenote MCP Connector inside an Anthropic organization
+
+If you use a Claude Teams subscription tied to an organization, the default Anthropic `organization` configuration disables Connectors acting without approving each individual action. Fix this in **Organization Settings → "Cowork"** so users can choose "Always allow", which enables "Allow for all tasks" when the MCP server updates multiple notes.
+
+![Organization Settings](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/b53ab58d-5dd4-430a-a36d-5cd07f65876d.png)
+
+![Cowork selection](https://images.amplenote.com/e1ba1208-5939-11f1-bbdf-e1e16f5f5509/21d2c1cb-9a5f-42c7-9109-2c3b678b6fe6.png)
+
+## Notes on the local server
+
+`127.0.0.1` means "this same computer" — a cloud-only chatbot, remote server, or different computer cannot reach it. The MCP toggle status shows a green/connected indicator and local URL `http://127.0.0.1:39377/mcp`. Claude Desktop logs MCP connection errors in `~/Library/Logs/Claude` (macOS) and `%APPDATA%\Claude\logs` (Windows).
+
+For Claude Code, the pasted command makes the server available specifically in the project where the command is run; use `--scope user` for a personal connection across projects. Newer Codex versions support streamable HTTP MCP servers with bearer-token auth; the `npx mcp-remote` config is the compatibility-friendly option.
+
 ## Verification Checklist
 
 Before using the MCP connection, confirm:
@@ -92,6 +106,9 @@ The MCP Server supports prompts like:
 | `npx` not found | Install Node.js LTS; verify with `node --version` and `npx --version` |
 | Claude Code command fails | Use proper option order: `claude mcp add --transport http --scope user --header "Authorization: Bearer TOKEN" amplenote http://127.0.0.1:39377/mcp` |
 | Connection previously worked, now fails | Re-enable MCP toggle in Amplenote Settings and recopy configuration |
+| Codex does not see the server | Ensure the `[mcp_servers.amplenote]` block is not nested inside another TOML table |
+| The LLM can read but not write | Approve the tool call, and be explicit (e.g. "Create a new note", "append this markdown") |
+| The LLM modifies the wrong note | Ask it to show candidate notes first, then choose |
 
 ## Provider Comparison
 

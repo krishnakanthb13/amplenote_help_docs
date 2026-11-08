@@ -130,3 +130,17 @@ Separate keywords with commas for AND logic:
 ### Searches in Calendar Mode
 
 Only `references=` parameter available: `https://www.amplenote.com/calendar?references=<note-uuid>`
+
+## Why should I use links to searches?
+
+Saved view links can be embedded in notes, tasks, and templates to jump straight to a filtered view. Apply the search parameters of your choice, copy the URL, and save it inside one of your notes.
+
+### Daily Jot Templates and links to searches
+
+A Daily Jot Template is a natural home for these links. Practical examples:
+
+- `https://www.amplenote.com/notes?group=untagged` — an Inbox of untagged notes
+- `https://www.amplenote.com/calendar` — the calendar (useful as an Inbox for scheduling)
+- `https://www.amplenote.com/notes/tasks?tag=shared` — tasks in collaborative projects
+
+The part after `group=` can be any of the group values listed above, and advanced queries in Quick Open can be built without special syntax by picking options from the filter menu.
